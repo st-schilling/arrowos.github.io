@@ -73,6 +73,7 @@ require_once("utils.php");
                             </script>
                         </div>
                     </div>
+                    <p>Contact me at: <a href="mailto:contact@arrowos-download.com">contact@arrowos-download.com</a></p>
                 </div>
             </div>
         </div>
@@ -82,6 +83,8 @@ require_once("utils.php");
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
 </body>
-
+<footer>
+    <p class="footer-center"><a href="impressum.html">Impressum</a></p>
+</footer>
 
 </html>
