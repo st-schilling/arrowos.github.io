@@ -1,5 +1,15 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~5df6c3f7099d3d2e237f54c41692bdef5f090d45",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "5df6c3f7099d3d2e237f54c41692bdef5f090d45",
+    "subject": "base: Always restart apps if base.apk gets updated.",
+    "submitted": "2022-02-24 21:40:13.000000000",
+    "aosp_reference": "platform/frameworks/base/+/5df6c3f7099d3d2e237f54c41692bdef5f090d45",
+    "_number": "A-219044664"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~b55656825844f8ac1d776da0b3290a4e9948ba4f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
