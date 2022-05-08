@@ -76,11 +76,16 @@ function fetch_changes($url, $gerrit_changelog) {
         $changeDate = explode(" ", $change->submitted)[0];
         $projectName = explode("/", $change->project)[1];
         $changeNum = $change->_number;
+        $changeUrl = GERRIT_URL . $change->_number;
+        if (!$gerrit_changelog && isset($change->aosp_reference)) {
+            $changeUrl = AOSP_URL . $change->aosp_reference;
+        }
         $changeSubject = $change->subject;
 
         $changeLog[$changeDate][$changeNum] = array();
         $changeLog[$changeDate][$changeNum][$projectName] = array();
-        $changeLog[$changeDate][$changeNum][$projectName] = $changeSubject;
+        $changeLog[$changeDate][$changeNum][$projectName]['changeSubject'] = $changeSubject;
+        $changeLog[$changeDate][$changeNum][$projectName]['changeUrl'] = $changeUrl;
     }
 
     krsort($changeLog);

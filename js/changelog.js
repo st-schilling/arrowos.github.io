@@ -34,11 +34,11 @@ $(document).ready(function () {
                         $.each(changelogData, function (date, changeNum) {
                             $('#changelog-data-' + version).append('<h4><u>Changelog on ' + date + '</u></h4><br>')
                             $.each(changeNum, function (changeNum, project) {
-                                $.each(project, function (project, changeSubject) {
+                                $.each(project, function (project, projectContent) {
                                     $('#changelog-data-' + version).append(
                                         '<p class="text-align-left"><b>' + project + '</b>' +
-                                        ': <a href="https://review.arrowos.net/#/c/' + changeNum +
-                                        '" target="_blank">' + changeSubject + '</a></p?'
+                                        ': <a href="' + projectContent["changeUrl"] +
+                                        '" target="_blank">' + projectContent["changeSubject"] + '</a></p?'
                                     )
                                 })
                             })
