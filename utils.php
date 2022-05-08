@@ -1,6 +1,9 @@
 <?php
 require_once('simplehtmldom/simple_html_dom.php');
 
+const GERRIT_URL = "https://review.arrowos.net/#/c/";
+const AOSP_URL = "https://android.googlesource.com/";
+
 function fetch_api_data($url)
 {
     $result = [];
@@ -64,28 +67,46 @@ function compareByTimeStamp($time1, $time2)
         return 0;
 }
 
-function fetch_gerrit_changes($branch) {
+function fetch_changes($url, $gerrit_changelog) {
     $changeLog = array();
-    $gerritDomain = "https://review.arrowos.net";
-    $gerritUrl = $gerritDomain . "/changes/?q=status:merged+branch:" . $branch;
-    $changes = file_get_contents($gerritUrl);
+    $changes = file_get_contents($url);
     $changes = json_decode(preg_replace('/^.+\n/', '', $changes));
 
     foreach($changes as $change) {
         $changeDate = explode(" ", $change->submitted)[0];
         $projectName = explode("/", $change->project)[1];
         $changeNum = $change->_number;
+        $changeUrl = GERRIT_URL . $change->_number;
+        if (!$gerrit_changelog && isset($change->aosp_reference)) {
+            $changeUrl = AOSP_URL . $change->aosp_reference;
+        }
         $changeSubject = $change->subject;
 
         $changeLog[$changeDate][$changeNum] = array();
         $changeLog[$changeDate][$changeNum][$projectName] = array();
-        $changeLog[$changeDate][$changeNum][$projectName] = $changeSubject;
+        $changeLog[$changeDate][$changeNum][$projectName]['changeSubject'] = $changeSubject;
+        $changeLog[$changeDate][$changeNum][$projectName]['changeUrl'] = $changeUrl;
     }
 
     krsort($changeLog);
     return $changeLog;
 }
 
+function fetch_fixed_changes($branch) {
+    $fixedChangesUrl = "https://arrowos-download.com/changes/" . $branch . ".json";
+    return fetch_changes($fixedChangesUrl, false);
+}
+
+function fetch_gerrit_changes($branch) {
+    $gerritDomain = "https://review.arrowos.net";
+    $gerritUrl = $gerritDomain . "/changes/?q=status:merged+branch:" . $branch;
+    return fetch_changes($gerritUrl, true);
+}
+
 if (isset($_POST['gerrit_changelog']) && $_POST['gerrit_changelog'] == 'yes'
         && isset($_POST['version']))
     exit(json_encode(fetch_gerrit_changes($_POST['version'])));
+
+if (isset($_POST['gerrit_changelog']) && $_POST['gerrit_changelog'] == 'no'
+        && isset($_POST['version']))
+    exit(json_encode(fetch_fixed_changes($_POST['version'])));

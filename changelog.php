@@ -22,9 +22,6 @@ require_once("utils.php");
 </head>
 
 <body style="visibility: hidden !important;">
-    <div id="babasbmsgx" style="visibility: visible !important;">Please disable your adblock and script blockers to view
-        this page</div>
-
     <nav class="nav-background black-text z-depth-0">
         <div class="nav-wrapper container">
             <div class="nav-wrapper ">
@@ -41,6 +38,7 @@ require_once("utils.php");
         <div class="row">
             <div style="padding-top: 10vh;" class="center">
                 <h4>Changelog</h4>
+                <h5 style="color:#FF0000";>Note: this is not the official ArrowOS changelog page - but the one for st-schilling's special edition. Find the official changelog <a href="https://changelog.arrowos.net/">here</a>.</h5>
                 <div class="col s12 m10 l10 offset-l1 offset-m1">
                     <div class="card card-theme-color darken-1">
                         <div class="card-content white-text">
@@ -49,8 +47,8 @@ require_once("utils.php");
                             ?>
                                 <ul style="border-width: 0px;" class="collapsible z-depth-0">
                                     <li>
-                                        <div class="collapsible-header card-theme-color" id="changelog-version" data-changelog_version="<?php echo $version ?>"><i class="tiny material-icons">label</i><?php echo ucfirst($version) ?></div>
-                                        <?php $version = explode(".", $version)[0] ?>
+                                        <div class="collapsible-header card-theme-color" id="changelog-info" data-changelog_version="<?php echo $version['version'] ?>" data-changelog_gerrit="<?php echo $version['gerrit'] ?>"><i class="tiny material-icons">label</i><?php echo ucfirst($version['version']) ?></div>
+                                        <?php $version = explode(".", $version['version'])[0] ?>
                                         <div class="collapsible-body" id="<?php echo 'changelog-body-' . $version ?>">
                                             <div id="<?php echo "changelog-progress-" . $version ?>"></div>
                                             <div id="<?php echo "changelog-data-" . $version ?>"></div>
@@ -60,19 +58,7 @@ require_once("utils.php");
                             <?php } ?>
                         </div>
                     </div>
-                </div>
-                <br><br>
-                <div class="col s12 m8 l8 offset-l2 offset-m2">
-                    <div class="card card-theme-color z-depth-3 radius">
-                        <div class="center card-content">
-                            <span class="card-title">Oof Ads</span>
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                            <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-5568741006164863" data-ad-slot="7462336018"></ins>
-                            <script>
-                                (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                        </div>
-                    </div>
+                    <p>Contact me at: <a href="mailto:contact@arrowos-download.com">contact@arrowos-download.com</a></p>
                 </div>
             </div>
         </div>
@@ -82,6 +68,8 @@ require_once("utils.php");
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
 </body>
-
+<footer>
+    <p class="footer-center"><a href="impressum.html">Impressum</a></p>
+</footer>
 
 </html>

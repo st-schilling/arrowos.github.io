@@ -1,11 +1,14 @@
 <?php
-$VERSIONS = array(
-    'arrow-12.1',
-    'arrow-12.0',
-    'arrow-11.0',
-    'arrow-10.0',
-    'arrow-9.x'
-);
+$VERSIONS[] = array('version' => "arrow-12.1",
+                    'gerrit'  => "yes");
+$VERSIONS[] = array('version' => "arrow-12.0",
+                    'gerrit'  => "yes");
+$VERSIONS[] = array('version' => "arrow-11.0",
+                    'gerrit'  => "no");
+$VERSIONS[] = array('version' => "arrow-10.0",
+                    'gerrit'  => "yes");
+$VERSIONS[] = array('version' => "arrow-9.x",
+                    'gerrit'  => "yes");
 
 $VARIANTS = array(
     'official',

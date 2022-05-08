@@ -2,18 +2,20 @@ $(document).ready(function () {
     $('.collapsible').collapsible();
     var changelogData = '';
     var version = '';
+    var gerrit_changelog = '';
 
     $('body').on('click', '#changelog-page-back', function () {
-        window.location.href = "/download";
+        window.location.href = "https://arrowos.net/download";
     });
 
     $('.collapsible').collapsible({
         onOpenStart: function (ele) {
-            version = $(ele).find('#changelog-version').data('changelog_version');
+            version = $(ele).find('#changelog-info').data('changelog_version');
+            gerrit_changelog = $(ele).find('#changelog-info').data('changelog_gerrit');
             $.ajax({
                 type: 'POST',
                 data: {
-                    'gerrit_changelog': 'yes',
+                    'gerrit_changelog': gerrit_changelog,
                     'version': version
                 },
                 beforeSend: function () {
@@ -32,25 +34,14 @@ $(document).ready(function () {
                         $.each(changelogData, function (date, changeNum) {
                             $('#changelog-data-' + version).append('<h4><u>Changelog on ' + date + '</u></h4><br>')
                             $.each(changeNum, function (changeNum, project) {
-                                $.each(project, function (project, changeSubject) {
+                                $.each(project, function (project, projectContent) {
                                     $('#changelog-data-' + version).append(
                                         '<p class="text-align-left"><b>' + project + '</b>' +
-                                        ': <a href="https://review.arrowos.net/#/c/' + changeNum +
-                                        '" target="_blank">' + changeSubject + '</a></p?'
+                                        ': <a href="' + projectContent["changeUrl"] +
+                                        '" target="_blank">' + projectContent["changeSubject"] + '</a></p?'
                                     )
                                 })
                             })
-                            $('#changelog-data-' + version).append(
-                                '<div style="padding-left: 0px;" class="row">' +
-                                '<div class="col s12 m12 l12 ">' +
-                                '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>' +
-                                '<ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-gw-3+1f-3d+2z" data-ad-client="ca-pub-5568741006164863" data-ad-slot="9060655737"></ins>' +
-                                '<script>' +
-                                '(adsbygoogle = window.adsbygoogle || []).push({});' +
-                                '</script>' +
-                                '</div>' +
-                                '</div>'
-                            )
                         })
                     }
                     $('#changelog-progress-' + version).empty();
