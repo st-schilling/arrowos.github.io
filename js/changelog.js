@@ -5,7 +5,7 @@ $(document).ready(function () {
     var gerrit_changelog = '';
 
     $('body').on('click', '#changelog-page-back', function () {
-        window.location.href = "/download";
+        window.location.href = "https://arrowos.net/download";
     });
 
     $('.collapsible').collapsible({
