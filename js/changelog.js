@@ -2,6 +2,7 @@ $(document).ready(function () {
     $('.collapsible').collapsible();
     var changelogData = '';
     var version = '';
+    var gerrit_changelog = '';
 
     $('body').on('click', '#changelog-page-back', function () {
         window.location.href = "/download";
@@ -9,11 +10,12 @@ $(document).ready(function () {
 
     $('.collapsible').collapsible({
         onOpenStart: function (ele) {
-            version = $(ele).find('#changelog-version').data('changelog_version');
+            version = $(ele).find('#changelog-info').data('changelog_version');
+            gerrit_changelog = $(ele).find('#changelog-info').data('changelog_gerrit');
             $.ajax({
                 type: 'POST',
                 data: {
-                    'gerrit_changelog': 'yes',
+                    'gerrit_changelog': gerrit_changelog,
                     'version': version
                 },
                 beforeSend: function () {

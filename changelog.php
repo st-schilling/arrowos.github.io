@@ -49,8 +49,8 @@ require_once("utils.php");
                             ?>
                                 <ul style="border-width: 0px;" class="collapsible z-depth-0">
                                     <li>
-                                        <div class="collapsible-header card-theme-color" id="changelog-version" data-changelog_version="<?php echo $version ?>"><i class="tiny material-icons">label</i><?php echo ucfirst($version) ?></div>
-                                        <?php $version = explode(".", $version)[0] ?>
+                                        <div class="collapsible-header card-theme-color" id="changelog-info" data-changelog_version="<?php echo $version['version'] ?>" data-changelog_gerrit="<?php echo $version['gerrit'] ?>"><i class="tiny material-icons">label</i><?php echo ucfirst($version['version']) ?></div>
+                                        <?php $version = explode(".", $version['version'])[0] ?>
                                         <div class="collapsible-body" id="<?php echo 'changelog-body-' . $version ?>">
                                             <div id="<?php echo "changelog-progress-" . $version ?>"></div>
                                             <div id="<?php echo "changelog-data-" . $version ?>"></div>
