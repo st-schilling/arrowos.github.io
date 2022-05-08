@@ -41,6 +41,7 @@ require_once("utils.php");
         <div class="row">
             <div style="padding-top: 10vh;" class="center">
                 <h4>Changelog</h4>
+                <h5 style="color:#FF0000";>Note: this is not the official ArrowOS changelog page - but the one for st-schilling's special edition. Find the official changelog <a href="https://changelog.arrowos.net/">here</a>.</h5>
                 <div class="col s12 m10 l10 offset-l1 offset-m1">
                     <div class="card card-theme-color darken-1">
                         <div class="card-content white-text">
