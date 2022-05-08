@@ -1,13 +1,13 @@
 [
   {
-    "id": "ArrowOS%2Fandroid_packages_apps_Updater~arrow-11.0~Iae4a52ab11f7eccb1e6045fcbb9cf49b3f7cabc7",
-    "project": "ArrowOS/android_packages_apps_Updater",
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~b55656825844f8ac1d776da0b3290a4e9948ba4f",
+    "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
-    "change_id": "Iae4a52ab11f7eccb1e6045fcbb9cf49b3f7cabc7",
-    "subject": "Updater: prioritize A/B updates by default",
-    "submitted": "2023-10-03 13:35:52.000000000",
-    "aosp_reference": "platform/packages/providers/MediaProvider/+/cc72a7edde71d1dae05aafb31dc922cbfa1b6c82",
-    "_number": "A-183147114"
+    "change_id": "b55656825844f8ac1d776da0b3290a4e9948ba4f",
+    "subject": "base: Verify caller before auto granting slice permission",
+    "submitted": "2022-03-03 18:24:37.000000000",
+    "aosp_reference": "platform/frameworks/base/+/b55656825844f8ac1d776da0b3290a4e9948ba4f",
+    "_number": "A-179699767"
   },
   {
     "id": "ArrowOS%2Fandroid_packages_providers_MediaProvider~arrow-11.0~76f725361312644461b9021380ba4d0d9d32108e",
