@@ -22,9 +22,6 @@ require_once("utils.php");
 </head>
 
 <body style="visibility: hidden !important;">
-    <div id="babasbmsgx" style="visibility: visible !important;">Please disable your adblock and script blockers to view
-        this page</div>
-
     <nav class="nav-background black-text z-depth-0">
         <div class="nav-wrapper container">
             <div class="nav-wrapper ">
@@ -59,19 +56,6 @@ require_once("utils.php");
                                     </li>
                                 </ul>
                             <?php } ?>
-                        </div>
-                    </div>
-                </div>
-                <br><br>
-                <div class="col s12 m8 l8 offset-l2 offset-m2">
-                    <div class="card card-theme-color z-depth-3 radius">
-                        <div class="center card-content">
-                            <span class="card-title">Oof Ads</span>
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                            <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-5568741006164863" data-ad-slot="7462336018"></ins>
-                            <script>
-                                (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
                         </div>
                     </div>
                     <p>Contact me at: <a href="mailto:contact@arrowos-download.com">contact@arrowos-download.com</a></p>
