@@ -58,7 +58,7 @@ require_once("utils.php");
                             <?php } ?>
                         </div>
                     </div>
-                    <p>Contact me at: <a href="mailto:contact@arrowos-download.com">contact@arrowos-download.com</a></p>
+                    <p>Contact me at: <a href="mailto:contact@arrowos-download.de">contact@arrowos-download.de</a></p>
                 </div>
             </div>
         </div>
