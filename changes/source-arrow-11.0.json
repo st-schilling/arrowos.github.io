@@ -87,6 +87,17 @@
     "_number": "A-197302116"
   },
   {
+    "id": "ArrowOS%android_frameworks_base~arrow-11.0~5d30b701587920280c12210af22f3457b802da6e",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "5d30b701587920280c12210af22f3457b802da6e",
+    "subject": "AOSP Security Updates April 2022: Base: BG-FGS-start while-in-use permission restriction improvement.",
+    "submitted": "2022-05-02 11:14:37.000000000",
+    "created": "2022-02-07 02:12:49.000000000",
+    "aosp_reference": "platform/frameworks/base/+/5d30b701587920280c12210af22f3457b802da6e",
+    "_number": "A-183147114"
+  },
+  {
     "id": "ArrowOS%android_frameworks_base~arrow-11.0~f2387994151fb5c22c9e645647945e1471fe8ac1",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
