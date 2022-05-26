@@ -87,6 +87,17 @@
     "_number": "A-197302116"
   },
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~f0850e3551a746e7720348fd9381d75687d8e2aa",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "c5d1f8d5b16153a046403e910eb4ff2224306cc9",
+    "subject": "AOSP Security Updates April 2022: Settings: Do not let guest user disable secure nfc",
+    "submitted": "2022-05-02 11:14:37.000000000",
+    "created": "2022-03-09 10:52:43.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/f0850e3551a746e7720348fd9381d75687d8e2aa",
+    "_number": "A-209446496"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Updater~arrow-11.0~Iae4a52ab11f7eccb1e6045fcbb9cf49b3f7cabc7",
     "project": "ArrowOS/android_packages_apps_Updater",
     "branch": "arrow-11.0",
