@@ -19,86 +19,72 @@ include_once('utils.php');
     <link href="/css/download.css" type="text/css" rel="stylesheet">
 </head>
 
-<body style="visibility: hidden !important;">
-    <div id="babasbmsgx" style="visibility: visible !important;"></div>
-    <?php if (isset($_GET['device'])) { ?>
-        <div id="get_device" data-device="<?php echo $_GET['device'] ?>"></div>
-    <?php } ?>
-    <nav class="nav-background hide-on-large-only z-depth-0" role="navigation">
-        <div class="nav-wrapper container">
-            <a href="#" data-target="slide-out" class="sidenav-trigger hide-on-large-only"><i class="material-icons">menu</i></a>
-        </div>
-    </nav>
-
+<body>
     <div class="navbar-fixed">
-        <nav class="nav-background black-text z-depth-0">
+        <nav class="nav-background black-text z-depth-0 hide-on-med-and-down">
             <div class="nav-wrapper container">
+
                 <div class="nav-wrapper ">
-                    <ul class="right">
-                        <li class="tab col s3">
-                            <a title="Refresh mirrors" id="mirrors-refresh" class="main-font white-text"> <i class="close material-icons">refresh</i></a>
-                        </li>
-                        <li class="tab col s3">
-                            <a title="Close" id="device-page-back" class="main-font white-text"> <i class="close material-icons">close</i></a>
-                        </li>
+                    <ul class="right hide-on-med-and-down">
+                        <li class="tab col s3"><a class="main-font white-text" href="index.html">Home</a></li>
+                        <li class="tab col s3"><a class="main-font white-text" href="/download">Download</a></li>
+                        <li class="tab col s3"><a class="main-font white-text" href="/changelog.php">Changelog</a></li>
+                        <li class="tab col s3"><a class="main-font white-text"
+                                                  href="https://github.com/arrowos">Source</a></li>
+                        <li class="tab col s3"><a class="main-font white-text"
+                                                  href="https://github.com/st-schilling">Source Code with AOSP Security Updates for v11.0</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
     </div>
+    <div class="main-box">
+        <div class="section no-pad-bot" id="banner">
+            <div class="container">
+                <div class="center">
+                    <br>
+                    <img class="main_logo" src="img/logo.png">
+                    <h2 class="textt main-font center white-text">Official ArrowOS Downloads</h2>
+                    <p class="flow-text main-font paragraph text3 text-lighten-3">Please check the
+                        <a href="https://arrowos.net">ArrowOS homepage</a> for the latest image of your device.</p>
 
-    <ul id="slide-out" class="sidenav sidenav-fixed collapsible grey lighten-2">
-        <ul class="collapsible collapsible-accordion">
-            <?php
-            $devices_json = fetch_api_data($API_URL_CALLS['oem_devices_list']);
-            $devices_support_info = fetch_api_data($API_URL_CALLS['devices_support_info']);
+                    <h2 class="textt main-font center white-text">Local Downloads</h2>
+                    <p class="flow-text main-font paragraph text3 text-lighten-3">Please see the <a href="changelog.php">Changelog</a>
+                    for further details.
+                    </p>
 
-            if ($devices_json['code'] == "200" && $devices_support_info['code'] == "200") {
-                $devices_json = json_decode($devices_json['data'], true);
-                $devices_support_info = json_decode($devices_support_info['data'], true);
+                    <h3 class="textt main-font center white-text">Motorola Moto G5S Plus (sanders)</h3>
+                    <p class="flow-text main-font paragraph text3 text-lighten-3">2022-04-05: My unofficial image, including
+                        the <a href="https://source.android.com/security/bulletin/2022-04-01">AOSP Security Updates from April 2022</a>:
+                        <a href="distribution/sanders/unofficial/arrow-11.0/vanilla/Arrow-v11.0-sanders-UNOFFICIAL-OTA-20220405-VANILLA.zip">Arrow-v11.0-sanders-UNOFFICIAL-OTA-20220405-VANILLA.zip</a>.
+                        <br>
+                        Source code: <a href="https://github.com/st-schilling">Tag 11.0.0_r54</a>, as defined by
+                        <a href="https://github.com/st-schilling/android_manifest/releases/tag/11.0.0_r54">the manifest repo.</a>
+                    </p>
+                    <p class="flow-text main-font paragraph text3 text-lighten-3">2022-03-05: My unofficial image, including
+                        the <a href="https://source.android.com/security/bulletin/2022-03-01">AOSP Security Updates from March 2022</a>:
+                        <a href="distribution/sanders/unofficial/arrow-11.0/vanilla/Arrow-v11.0-sanders-UNOFFICIAL-OTA-20220305-VANILLA.zip">Arrow-v11.0-sanders-UNOFFICIAL-OTA-20220305-VANILLA.zip</a>.
+                        <br>
+                        Source code: <a href="https://github.com/st-schilling">Tag 11.0.0_r53</a>, as defined by
+                        <a href="https://github.com/st-schilling/android_manifest/releases/tag/11.0.0_r53">the manifest repo.</a>
+                    </p>
 
-                ksort($devices_json, SORT_STRING | SORT_FLAG_CASE);
-            } else {
-                exit("Failed to fetch devices!");
-            }
-            ?>
+                    <p class="flow-text main-font paragraph text3 text-lighten-3">2022-01-21: The latest official image from
+                        <a href="https://arrowos.net">ArrowOS</a>, mirrored here:
+                        <a href="distribution/sanders/unofficial/arrow-11.0/vanilla/Arrow-v11.0-sanders-OFFICIAL-20220121-VANILLA.zip">Arrow-v11.0-sanders-OFFICIAL-20220121-VANILLA.zip</a>.
+                    </p>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
 
-            <?php
-            foreach ($devices_json as $device_oem => $devices) {
-            ?>
-                <li class="bold"><a class="collapsible-header waves-effect " style="font-weight:bold"><?php echo ($device_oem != null) ? (ucfirst($device_oem)) : ("") ?></a>
-                    <div class="collapsible-body">
-                        <ul>
-                            <?php
-                            asort($devices);
-                            foreach ($devices as $device_codename) {
-                            ?>
-                                <li>
-                                    <?php $supported_info = get_device_data($devices_support_info, $device_codename) ?>
-                                    <a href="javascript:void(0);" class="sidenav-close" id="deviceLabel" data-supported='<?php print_r($supported_info) ?>'><?php echo $device_codename ?></a>
-                                </li>
-                            <?php } ?>
-                        </ul>
-                    </div>
-                </li>
-            <?php } ?>
-        </ul>
-    </ul>
-
-    <main>
-        <div id="device-content"></div>
-        <div id="mirrors-content"></div>
-    </main>
     <br>
     <footer class="page-footer card-theme-color">
         <div class="container">
             <div class="center">
-                <a class="btn-floating btn-small waves-effect waves-light white" href="https://t.me/arrowos"><i class="mdi mdi-telegram grey-text text-darken-3"></i></a>
                 <a class="btn-floating btn-small waves-effect waves-light white footer-button" href="https://github.com/arrowos"><i class="mdi mdi-github grey-text text-darken-3"></i></a>
-                <a class="btn-floating btn-small waves-effect waves-light white footer-button" href="https://review.arrowos.net"><i class="mdi mdi-git grey-text text-darken-3"></i></a>
-                <a class="btn-floating btn-small waves-effect waves-light white footer-button" href="https://crowdin.com/project/arrowos"><i class="mdi mdi-translate grey-text text-darken-3"></i></a>
-                <a class="btn-floating btn-small waves-effect waves-light white footer-button" href="https://stats.arrowos.net"><i class="mdi mdi-chart-box-outline grey-text text-darken-3"></i></a>
-                <a class="btn-floating btn-small waves-effect waves-light white footer-button" href="https://blog.arrowos.net"><i class="mdi mdi-blogger grey-text text-darken-3"></i></a>
+                <a class="btn-floating btn-small waves-effect waves-light white footer-button" href="https://github.com/st-schilling"><i class="mdi mdi-github grey-text text-darken-3"></i></a>
             </div>
             <br>
         </div>
@@ -106,6 +92,7 @@ include_once('utils.php');
             <div class="container footer-center">
                 Designed by <b><a style="font-size: medium;" class="white-text" href="https://t.me/harshv23/">HarshV23
                     </a></b><br>Copyright © 2020 ArrowOS<br><br>
+                <a href="impressum.html">Impressum</a>
             </div>
         </div>
     </footer>
@@ -113,12 +100,9 @@ include_once('utils.php');
 
     <!--  Scripts-->
     <!-- JS -->
-    <script src="/js/blockAdBlock.js"></script>
     <script src="/js/jquery-3.5.1.min.js"></script>
     <script src="/js/materialize.js"></script>
-    <script src="/js/download.js"></script>
     <script src="/js/archive-fetch.js"></script>
-    <script src="/js/sf-mirror-fetch.js"></script>
 
 </body>
 

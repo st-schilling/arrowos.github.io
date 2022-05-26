@@ -21,7 +21,7 @@ require_once("utils.php");
     <script src="/js/jquery-3.5.1.min.js"></script>
 </head>
 
-<body style="visibility: hidden !important;">
+<body>
     <nav class="nav-background black-text z-depth-0">
         <div class="nav-wrapper container">
             <div class="nav-wrapper ">
@@ -38,7 +38,9 @@ require_once("utils.php");
         <div class="row">
             <div style="padding-top: 10vh;" class="center">
                 <h4>Changelog</h4>
-                <h5 style="color:#FF0000";>Note: this is not the official ArrowOS changelog page - but the one for st-schilling's special edition. Find the official changelog <a href="https://changelog.arrowos.net/">here</a>.</h5>
+                <h5 style="color:#FF0000";>Note: this is not the official ArrowOS changelog page - but the one for st-schilling's
+                    special edition. Find the official changelog <a href="https://changelog.arrowos.net/">here</a>.
+                    To <a href="https://www.arrowos-download.de/">St-Schilling ArrowOS page</a>.</h5>
                 <div class="col s12 m10 l10 offset-l1 offset-m1">
                     <div class="card card-theme-color darken-1">
                         <div class="card-content white-text">
