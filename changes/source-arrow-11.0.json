@@ -186,6 +186,17 @@
     "_number": "A-209446496"
   },
   {
+    "id": "ArrowOS%android_packages_apps_ManagedProvisioning~arrow-11.0~a07188111567974bc8a2c817825c28169c589535",
+    "project": "ArrowOS/android_packages_apps_ManagedProvisioning",
+    "branch": "arrow-11.0",
+    "change_id": "a07188111567974bc8a2c817825c28169c589535",
+    "subject": "AOSP Security Updates March 2022: ManagedProvisioning: Make ManagedProvisioning hide non-system overlays",
+    "submitted": "2022-04-25 17:44:37.000000000",
+    "created": "2021-12-29 15:09:38.000000000",
+    "aosp_reference": "platform/packages/apps/ManagedProvisioning/+/a07188111567974bc8a2c817825c28169c589535",
+    "_number": "A-209611539"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Updater~arrow-11.0~Iae4a52ab11f7eccb1e6045fcbb9cf49b3f7cabc7",
     "project": "ArrowOS/android_packages_apps_Updater",
     "branch": "arrow-11.0",
