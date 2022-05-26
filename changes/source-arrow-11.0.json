@@ -87,6 +87,17 @@
     "_number": "A-197302116"
   },
   {
+    "id": "ArrowOS%android_frameworks_base~arrow-11.0~f2387994151fb5c22c9e645647945e1471fe8ac1",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "f2387994151fb5c22c9e645647945e1471fe8ac1",
+    "subject": "AOSP Security Updates April 2022: Base: Restrict AdbManager broadcasts to apps with MANAGE_DEBUGGING permission.",
+    "submitted": "2022-05-02 11:14:37.000000000",
+    "created": "2021-12-22 06:49:21.000000000",
+    "aosp_reference": "platform/frameworks/base/+/f2387994151fb5c22c9e645647945e1471fe8ac1",
+    "_number": "A-205836329"
+  },
+  {
     "id": "ArrowOS%android_packages_providers_MediaProvider~arrow-11.0~cc72a7edde71d1dae05aafb31dc922cbfa1b6c82",
     "project": "ArrowOS/android_packages_providers_MediaProvider",
     "branch": "arrow-11.0",
