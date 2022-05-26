@@ -87,6 +87,17 @@
     "_number": "A-197302116"
   },
   {
+    "id": "ArrowOS%android_frameworks_base~arrow-11.0~45b4a71f5cc366c338c1ceb217a602960fd31401",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "45b4a71f5cc366c338c1ceb217a602960fd31401",
+    "subject": "AOSP Security Updates April 2022: Base: Prevent apps from creating blocked channel groups",
+    "submitted": "2022-05-02 11:14:37.000000000",
+    "created": "2022-01-12 20:08:29.000000000",
+    "aosp_reference": "platform/frameworks/base/+/45b4a71f5cc366c338c1ceb217a602960fd31401",
+    "_number": "A-209966086"
+  },
+  {
     "id": "ArrowOS%android_system_bt~arrow-11.0~2ed08261136fe59edd04af2b186bf0413aea108f",
     "project": "ArrowOS/android_system_bt",
     "branch": "arrow-11.0",
