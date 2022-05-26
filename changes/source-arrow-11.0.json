@@ -197,6 +197,17 @@
     "_number": "A-209611539"
   },
   {
+    "id": "ArrowOS%android_frameworks_base~arrow-11.0~b5efdf729385cc54f225496d3ba20f1cb5b68250",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "b5efdf729385cc54f225496d3ba20f1cb5b68250",
+    "subject": "AOSP Security Updates March 2022: Base: Fix the inconsistency of protection level",
+    "submitted": "2022-04-25 17:44:37.000000000",
+    "created": "2021-12-24 04:36:32.000000000",
+    "aosp_reference": "platform/frameworks/base/+/b5efdf729385cc54f225496d3ba20f1cb5b68250",
+    "_number": "A-209607944"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Updater~arrow-11.0~Iae4a52ab11f7eccb1e6045fcbb9cf49b3f7cabc7",
     "project": "ArrowOS/android_packages_apps_Updater",
     "branch": "arrow-11.0",
