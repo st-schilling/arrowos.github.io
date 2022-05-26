@@ -87,6 +87,17 @@
     "_number": "A-197302116"
   },
   {
+    "id": "ArrowOS%android_frameworks_av~arrow-11.0~3942f55f1c8e36b0f9d4c5acf99b177476f96457",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "45b4a71f5cc366c338c1ceb217a602960fd31401",
+    "subject": "AOSP Security Updates April 2022: AV: Safe parsing of HEIF framecount information",
+    "submitted": "2022-05-02 11:14:37.000000000",
+    "created": "2022-02-02 21:33:50.000000000",
+    "aosp_reference": "platform/frameworks/av/+/3942f55f1c8e36b0f9d4c5acf99b177476f96457",
+    "_number": "A-215002587"
+  },
+  {
     "id": "ArrowOS%android_frameworks_base~arrow-11.0~45b4a71f5cc366c338c1ceb217a602960fd31401",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
