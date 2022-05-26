@@ -87,6 +87,17 @@
     "_number": "A-197302116"
   },
   {
+    "id": "ArrowOS%android_frameworks_base~arrow-11.0~e74a2a320bf896bc30618ce486203bafe453c469",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "e74a2a320bf896bc30618ce486203bafe453c469",
+    "subject": "AOSP Security Updates April 2022: Base: Add hide-non-system-overlay flag for HarmfulAppWarningActivity",
+    "submitted": "2022-05-02 11:14:37.000000000",
+    "created": "2022-01-18 10:29:52.000000000",
+    "aosp_reference": "platform/frameworks/base/+/e74a2a320bf896bc30618ce486203bafe453c469",
+    "_number": "A-205595291"
+  },
+  {
     "id": "ArrowOS%android_frameworks_av~arrow-11.0~4b93da988f02c652f3429661f9a9859fa1c1ea0a",
     "project": "ArrowOS/android_frameworks_av",
     "branch": "arrow-11.0",
