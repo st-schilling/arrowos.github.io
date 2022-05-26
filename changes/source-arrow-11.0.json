@@ -87,6 +87,17 @@
     "_number": "A-197302116"
   },
   {
+    "id": "ArrowOS%android_frameworks_av~arrow-11.0~4b93da988f02c652f3429661f9a9859fa1c1ea0a",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "4b93da988f02c652f3429661f9a9859fa1c1ea0a",
+    "subject": "AOSP Security Updates April 2022: AV: C2AllocatorIon:protect mMappings using mutex",
+    "submitted": "2022-05-02 11:14:37.000000000",
+    "created": "2022-01-12 07:44:20.000000000",
+    "aosp_reference": "platform/frameworks/av/+/4b93da988f02c652f3429661f9a9859fa1c1ea0a",
+    "_number": "A-193790350"
+  },
+  {
     "id": "ArrowOS%android_frameworks_av~arrow-11.0~3942f55f1c8e36b0f9d4c5acf99b177476f96457",
     "project": "ArrowOS/android_frameworks_av",
     "branch": "arrow-11.0",
