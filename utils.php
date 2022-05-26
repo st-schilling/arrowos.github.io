@@ -93,7 +93,7 @@ function fetch_changes($url, $gerrit_changelog) {
 }
 
 function fetch_fixed_changes($branch) {
-    $fixedChangesUrl = "https://arrowos-download.com/changes/" . $branch . ".json";
+    $fixedChangesUrl = "https://arrowos-download.de/changes/" . $branch . ".json";
     return fetch_changes($fixedChangesUrl, false);
 }
 
