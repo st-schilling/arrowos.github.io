@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~563fdf4259d0e28fd960acbb63431e146707d11b",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "563fdf4259d0e28fd960acbb63431e146707d11b",
+    "subject": "AOSP Security Updates June 2022: base: [DO NOT MERGE] Keyguard - Treat messsages to lock with priority",
+    "submitted": "2022-06-14 19:38:55.000000000",
+    "created": "2021-10-01 17:04:02.000000000",
+    "aosp_reference": "platform/frameworks/base/+/563fdf4259d0e28fd960acbb63431e146707d11b",
+    "_number": "A-151095871"
+  },
+  {
     "id": "ArrowOS%2Fandroid_vendor_arrow~arrow-11.0~a47104dfe3f04b318d73b4c376d96eae19f18ec5",
     "project": "ArrowOS/android_vendor_arrow~arrow",
     "branch": "arrow-11.0",
