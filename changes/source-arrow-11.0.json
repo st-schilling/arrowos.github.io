@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_ManagedProvisioning~arrow-11.0~1a7ef6ddd4c267323cd017c752d4da5392de0390",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "1a7ef6ddd4c267323cd017c752d4da5392de0390",
+    "subject": "AOSP Security Updates June 2022: ManagedProvisioning: [scv2] RESTRICT AUTOMERGE Use finalizeWorkProfileProvisioning.",
+    "submitted": "2022-06-14 19:46:55.000000000",
+    "created": "2022-04-04 12:58:25.000000000",
+    "aosp_reference": "platform/packages/apps/ManagedProvisioning/+/1a7ef6ddd4c267323cd017c752d4da5392de0390",
+    "_number": "A-210469972"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~b519b549fdb029dcdb6a51de944897e04e114e5f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
