@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~b519b549fdb029dcdb6a51de944897e04e114e5f",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "b519b549fdb029dcdb6a51de944897e04e114e5f",
+    "subject": "AOSP Security Updates June 2022: base: [sc] RESTRICT AUTOMERGE Add finalizeWorkProfileProvisioning.",
+    "submitted": "2022-06-14 19:46:55.000000000",
+    "created": "2022-04-04 12:52:09.000000000",
+    "aosp_reference": "platform/frameworks/base/+/b519b549fdb029dcdb6a51de944897e04e114e5f",
+    "_number": "A-210469972"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~563fdf4259d0e28fd960acbb63431e146707d11b",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
