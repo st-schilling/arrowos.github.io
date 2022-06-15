@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~Ie318d45fe44294e97cf38da7f1834cf014cb4417",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "Ie318d45fe44294e97cf38da7f1834cf014cb4417",
+    "subject": "AOSP Security Updates June 2022: base: Disallow PAP authentication when MPPE is requested",
+    "submitted": "2022-06-15 15:48:00.000000000",
+    "created": "2022-02-28 10:02:00.000000000",
+    "aosp_reference": "platform/frameworks/base/+/Ie318d45fe44294e97cf38da7f1834cf014cb4417",
+    "_number": "A-201660636"
+  },
+  {
     "id": "ArrowOS%2Fandroid_system_nfc~arrow-11.0~2fcf7d677bcebae5a00db43938460bcce267149e",
     "project": "ArrowOS/android_system_nfc",
     "branch": "arrow-11.0",
