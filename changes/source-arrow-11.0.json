@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~eb07c22519d94e573f2a02947094acd2219dc07a",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "eb07c22519d94e573f2a02947094acd2219dc07a",
+    "subject": "AOSP Security Updates June 2022: aac: Reject invalid out of band config in transportDec_OutOfBandConfig() and skip re-allocation. (by switching to latest tag of repo)",
+    "submitted": "2022-06-15 15:28:00.000000000",
+    "created": "2022-01-05 18:53:20.000000000",
+    "aosp_reference": "platform/external/aac/+/eb07c22519d94e573f2a02947094acd2219dc07a",
+    "_number": "A-224314979 / A-221734266"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ib0ba9f3786dda2d3174f3ea8c65d1061a3fcb586",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
