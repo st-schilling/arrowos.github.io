@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Dialer~arrow-11.0~380a088b2d03f239e37b23c051beadd7d0280dbf",
+    "project": "ArrowOS/android_packages_apps_Dialer",
+    "branch": "arrow-11.0",
+    "change_id": "380a088b2d03f239e37b23c051beadd7d0280dbf",
+    "subject": "AOSP Security Updates June 2022: Dialer: No longer export CallSubjectDialog",
+    "submitted": "2022-06-15 16:08:30.000000000",
+    "created": "2022-02-28 10:36:08.000000000",
+    "aosp_reference": "platform/packages/apps/Dialer/+/380a088b2d03f239e37b23c051beadd7d0280dbf",
+    "_number": "A-218341397"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Contacts~arrow-11.0~af44f5ac3f3fb660c6646d62c6da9b988d767b36",
     "project": "ArrowOS/android_packages_apps_Contacts",
     "branch": "arrow-11.0",
