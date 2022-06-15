@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_system_nfc~arrow-11.0~2fcf7d677bcebae5a00db43938460bcce267149e",
+    "project": "ArrowOS/android_system_nfc",
+    "branch": "arrow-11.0",
+    "change_id": "2fcf7d677bcebae5a00db43938460bcce267149e",
+    "subject": "AOSP Security Updates June 2022: nfc: Double Free in ce_t4t_data_cback",
+    "submitted": "2022-06-15 15:30:00.000000000",
+    "created": "2022-03-08 17:27:34.000000000",
+    "aosp_reference": "platform/system/nfc/+/2fcf7d677bcebae5a00db43938460bcce267149e",
+    "_number": "A-221862119"
+  },
+  {
     "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~eb07c22519d94e573f2a02947094acd2219dc07a",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
