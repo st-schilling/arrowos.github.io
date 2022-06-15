@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f0f67b5a319efedbf8693b436a641fa65bc2d8be",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "f0f67b5a319efedbf8693b436a641fa65bc2d8be",
+    "subject": "AOSP Security Updates June 2022: base: limit TelecomManager#registerPhoneAccount to 10; api doc update",
+    "submitted": "2022-06-15 16:31:38.000000000",
+    "created": "2022-01-31 20:31:42.000000000",
+    "aosp_reference": "platform/frameworks/base/+/f0f67b5a319efedbf8693b436a641fa65bc2d8be",
+    "_number": "A-209814693 / A-217934478"
+  },
+  {
     "id": "ArrowOS%2Fandroid_system_nfc~arrow-11.0~1c6ab25b3d76c2ced764dc649bec6cf05aecd198",
     "project": "ArrowOS/android_system_nfc",
     "branch": "arrow-11.0",
