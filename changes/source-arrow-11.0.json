@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~6c870e157994519094e9e50ddf93e57a26779e22",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "6c870e157994519094e9e50ddf93e57a26779e22",
+    "subject": "AOSP Security Updates June 2022: base: Prevent non-admin users from deleting system apps.",
+    "submitted": "2022-06-15 15:48:00.000000000",
+    "created": "2022-03-25 18:24:39.000000000",
+    "aosp_reference": "platform/external/aac/+/6c870e157994519094e9e50ddf93e57a26779e22",
+    "_number": "A-170646036"
+  },
+  {
     "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~Ie318d45fe44294e97cf38da7f1834cf014cb4417",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
