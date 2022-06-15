@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_system_nfc~arrow-11.0~1c6ab25b3d76c2ced764dc649bec6cf05aecd198",
+    "project": "ArrowOS/android_system_nfc",
+    "branch": "arrow-11.0",
+    "change_id": "1c6ab25b3d76c2ced764dc649bec6cf05aecd198",
+    "subject": "AOSP Security Updates June 2022: nfc: OOBR in nfc_ncif_proc_ee_discover_req()",
+    "submitted": "2022-06-15 16:29:25.000000000",
+    "created": "2022-03-21 19:31:28.000000000",
+    "aosp_reference": "platform/system/nfc/+/1c6ab25b3d76c2ced764dc649bec6cf05aecd198",
+    "_number": "A-221856662"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Nfc~arrow-11.0~f0d86f7fe23499cd4c6631348618463fbc496436",
     "project": "ArrowOS/android_packages_apps_Nfc",
     "branch": "arrow-11.0",
