@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~eb3394e3a8e21cd07c4f7a7ad43494ba14a8cbf4",
+    "project": "ArrowOS/android_packages_services_Telecomm",
+    "branch": "arrow-11.0",
+    "change_id": "eb3394e3a8e21cd07c4f7a7ad43494ba14a8cbf4",
+    "subject": "AOSP Security Updates June 2022: Telecomm: limit TelecomManager#registerPhoneAccount to 10",
+    "submitted": "2022-06-15 16:31:38.000000000",
+    "created": "2022-01-31 20:31:42.000000000",
+    "aosp_reference": "platform/packages/services/Telecomm/+/eb3394e3a8e21cd07c4f7a7ad43494ba14a8cbf4",
+    "_number": "A-209814693 / A-217934478"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f0f67b5a319efedbf8693b436a641fa65bc2d8be",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
