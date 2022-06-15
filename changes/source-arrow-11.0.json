@@ -44,25 +44,25 @@
     "_number": "A-221216105"
   },
   {
-    "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~e20d8ae7104f3235c8a2d72c85d19644e2ac8d86",
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e20d8ae7104f3235c8a2d72c85d19644e2ac8d86",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
     "change_id": "e20d8ae7104f3235c8a2d72c85d19644e2ac8d86",
     "subject": "AOSP Security Updates June 2022: base: Update GeofenceHardwareRequestParcelable to match parcel/unparcel format.",
     "submitted": "2022-06-15 16:13:00.000000000",
     "created": "2022-03-11 01:13:31.000000000",
-    "aosp_reference": "platform/external/aac/+/e20d8ae7104f3235c8a2d72c85d19644e2ac8d86",
+    "aosp_reference": "platform/frameworks/base/+/e20d8ae7104f3235c8a2d72c85d19644e2ac8d86",
     "_number": "A-216631962"
   },
   {
-    "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~5d2176df6923a8984e2b81d8eb4b728f01f1c760",
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~5d2176df6923a8984e2b81d8eb4b728f01f1c760",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
     "change_id": "5d2176df6923a8984e2b81d8eb4b728f01f1c760",
     "subject": "AOSP Security Updates June 2022: base: Fix security hole in GateKeeperResponse",
     "submitted": "2022-06-15 16:48:00.000000000",
     "created": "2022-03-16 10:32:23.000000000",
-    "aosp_reference": "platform/external/aac/+/5d2176df6923a8984e2b81d8eb4b728f01f1c760",
+    "aosp_reference": "platform/frameworks/base/+/5d2176df6923a8984e2b81d8eb4b728f01f1c760",
     "_number": "A-220303465"
   },
   {
@@ -110,18 +110,18 @@
     "_number": "A-170646036"
   },
   {
-    "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~6c870e157994519094e9e50ddf93e57a26779e22",
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~6c870e157994519094e9e50ddf93e57a26779e22",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
     "change_id": "6c870e157994519094e9e50ddf93e57a26779e22",
     "subject": "AOSP Security Updates June 2022: base: Prevent non-admin users from deleting system apps.",
     "submitted": "2022-06-15 15:48:00.000000000",
     "created": "2022-03-25 18:24:39.000000000",
-    "aosp_reference": "platform/external/aac/+/6c870e157994519094e9e50ddf93e57a26779e22",
+    "aosp_reference": "platform/frameworks/base/+/6c870e157994519094e9e50ddf93e57a26779e22",
     "_number": "A-170646036"
   },
   {
-    "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~Ie318d45fe44294e97cf38da7f1834cf014cb4417",
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ie318d45fe44294e97cf38da7f1834cf014cb4417",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
     "change_id": "Ie318d45fe44294e97cf38da7f1834cf014cb4417",
@@ -144,7 +144,7 @@
   },
   {
     "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~eb07c22519d94e573f2a02947094acd2219dc07a",
-    "project": "ArrowOS/android_frameworks_base",
+    "project": "ArrowOS/android_external_aac",
     "branch": "arrow-11.0",
     "change_id": "eb07c22519d94e573f2a02947094acd2219dc07a",
     "subject": "AOSP Security Updates June 2022: aac: Reject invalid out of band config in transportDec_OutOfBandConfig() and skip re-allocation. (by switching to latest tag of repo)",
