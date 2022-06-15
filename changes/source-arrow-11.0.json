@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Contacts~arrow-11.0~af44f5ac3f3fb660c6646d62c6da9b988d767b36",
+    "project": "ArrowOS/android_packages_apps_Contacts",
+    "branch": "arrow-11.0",
+    "change_id": "af44f5ac3f3fb660c6646d62c6da9b988d767b36",
+    "subject": "AOSP Security Updates June 2022: Contacts: No longer export CallSubjectDialog",
+    "submitted": "2022-06-15 16:06:47.000000000",
+    "created": "2022-02-24 22:20:11.000000000",
+    "aosp_reference": "platform/packages/apps/Contacts/+/af44f5ac3f3fb660c6646d62c6da9b988d767b36",
+    "_number": "A-218341397"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Bluetooth~arrow-11.0~cc22abc0643c66e5873cbd0d15cd128816a186cf",
     "project": "ArrowOS/android_packages_apps_Bluetooth",
     "branch": "arrow-11.0",
