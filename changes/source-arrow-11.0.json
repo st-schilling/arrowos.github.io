@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_system_nfc~arrow-11.0~88c5c267e889699c71412022e3fcb03d20100e99",
+    "project": "ArrowOS/android_system_nfc",
+    "branch": "arrow-11.0",
+    "change_id": "88c5c267e889699c71412022e3fcb03d20100e99",
+    "subject": "AOSP Security Updates June 2022: nfc: Out of Bounds Read in nfa_dm_check_set_config",
+    "submitted": "2022-06-15 16:24:00.000000000",
+    "created": "2022-03-17 15:39:20.000000000",
+    "aosp_reference": "platform/system/nfc/+/88c5c267e889699c71412022e3fcb03d20100e99",
+    "_number": "A-221216105"
+  },
+  {
     "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~e20d8ae7104f3235c8a2d72c85d19644e2ac8d86",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
