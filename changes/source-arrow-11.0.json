@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~e20d8ae7104f3235c8a2d72c85d19644e2ac8d86",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "e20d8ae7104f3235c8a2d72c85d19644e2ac8d86",
+    "subject": "AOSP Security Updates June 2022: base: Update GeofenceHardwareRequestParcelable to match parcel/unparcel format.",
+    "submitted": "2022-06-15 16:13:00.000000000",
+    "created": "2022-03-11 01:13:31.000000000",
+    "aosp_reference": "platform/external/aac/+/e20d8ae7104f3235c8a2d72c85d19644e2ac8d86",
+    "_number": "A-216631962"
+  },
+  {
     "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~5d2176df6923a8984e2b81d8eb4b728f01f1c760",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
