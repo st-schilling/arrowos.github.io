@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~abadb382114fa8af5209295c9bae2ca2b08935f3",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "abadb382114fa8af5209295c9bae2ca2b08935f3",
+    "subject": "AOSP Security Updates July 2022: Settings: Fix LaunchAnyWhere in AppRestrictionsFragment",
+    "submitted": "2022-07-10 10:23:12.000000000",
+    "created": "2022-04-06 21:12:39.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/abadb382114fa8af5209295c9bae2ca2b08935f3",
+    "_number": "A-223578534"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~6f657f8f5b7d41af426d6cd8d60bfda6e12057c0",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
