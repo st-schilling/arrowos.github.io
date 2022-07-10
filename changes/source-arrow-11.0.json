@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%android_frameworks_opt_telephony~arrow-11.0~37d1a266646b4fedda3bcab73eb1c1f01285c4be",
+    "project": "ArrowOS/android_frameworks_opt_telephony",
+    "branch": "arrow-11.0",
+    "change_id": "37d1a266646b4fedda3bcab73eb1c1f01285c4be",
+    "subject": "AOSP Security Updates July 2022: Telephony: Enforce privileged phone state for getSubscriptionProperty(GROUP_UUID)",
+    "submitted": "2022-07-10 10:36:20.000000000",
+    "created": "2022-05-03 18:13:57.000000000",
+    "aosp_reference": "frameworks/opt/telephony/+/37d1a266646b4fedda3bcab73eb1c1f01285c4be",
+    "_number": "A-213457638"
+  },
+  {
     "id": "ArrowOS%android_system_bt~arrow-11.0~7c21b56b7880579965e95cf24c2ab49326a3f2b9",
     "project": "ArrowOS/android_system_bt",
     "branch": "arrow-11.0",
