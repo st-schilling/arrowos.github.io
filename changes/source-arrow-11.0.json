@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%android_packages_apps_KeyChain~arrow-11.0~2184df9eef9ad67630d3540cb97e70ec61e8f65c",
+    "project": "ArrowOS/android_packages_apps_KeyChain",
+    "branch": "arrow-11.0",
+    "change_id": "2184df9eef9ad67630d3540cb97e70ec61e8f65c",
+    "subject": "AOSP Security Updates July 2022: KeyChain: Encode authority part of uri before showing in UI",
+    "submitted": "2022-07-10 10:53:21.000000000",
+    "created": "2022-05-10 14:09:40.000000000",
+    "aosp_reference": "packages/apps/KeyChain/+/2184df9eef9ad67630d3540cb97e70ec61e8f65c",
+    "_number": "A-221859869"
+  },
+  {
     "id": "ArrowOS%android_frameworks_opt_telephony~arrow-11.0~37d1a266646b4fedda3bcab73eb1c1f01285c4be",
     "project": "ArrowOS/android_frameworks_opt_telephony",
     "branch": "arrow-11.0",
