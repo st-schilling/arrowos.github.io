@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%android_system_bt~arrow-11.0~9e39fc68e82739dbd9f7403de244959ac7d54d2d",
+    "project": "ArrowOS/android_system_bt",
+    "branch": "arrow-11.0",
+    "change_id": "9e39fc68e82739dbd9f7403de244959ac7d54d2d",
+    "subject": "AOSP Security Updates July 2022: BT: Check Avrcp packet vendor length before extracting length",
+    "submitted": "2022-07-10 10:25:28.000000000",
+    "created": "2022-05-02 21:12:58.000000000",
+    "aosp_reference": "platform/system/bt/+/9e39fc68e82739dbd9f7403de244959ac7d54d2d",
+    "_number": "A-205571133"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~abadb382114fa8af5209295c9bae2ca2b08935f3",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
