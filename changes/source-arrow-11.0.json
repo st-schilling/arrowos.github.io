@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%android_system_bt~arrow-11.0~7c21b56b7880579965e95cf24c2ab49326a3f2b9",
+    "project": "ArrowOS/android_system_bt",
+    "branch": "arrow-11.0",
+    "change_id": "7c21b56b7880579965e95cf24c2ab49326a3f2b9",
+    "subject": "AOSP Security Updates July 2022: BT: Security: Fix out of bound read in AT_SKIP_REST",
+    "submitted": "2022-07-10 10:28:20.000000000",
+    "created": "2022-04-29 00:02:23.000000000",
+    "aosp_reference": "platform/system/bt/+/7c21b56b7880579965e95cf24c2ab49326a3f2b9",
+    "_number": "A-220732646"
+  },
+  {
     "id": "ArrowOS%android_system_bt~arrow-11.0~9e39fc68e82739dbd9f7403de244959ac7d54d2d",
     "project": "ArrowOS/android_system_bt",
     "branch": "arrow-11.0",
