@@ -1,5 +1,137 @@
 [
   {
+    "id": "ArrowOS%android_packages_apps_KeyChain~arrow-11.0~2184df9eef9ad67630d3540cb97e70ec61e8f65c",
+    "project": "ArrowOS/android_packages_apps_KeyChain",
+    "branch": "arrow-11.0",
+    "change_id": "2184df9eef9ad67630d3540cb97e70ec61e8f65c",
+    "subject": "AOSP Security Updates July 2022: KeyChain: Encode authority part of uri before showing in UI",
+    "submitted": "2022-07-10 10:53:21.000000000",
+    "created": "2022-05-10 14:09:40.000000000",
+    "aosp_reference": "packages/apps/KeyChain/+/2184df9eef9ad67630d3540cb97e70ec61e8f65c",
+    "_number": "A-221859869"
+  },
+  {
+    "id": "ArrowOS%android_frameworks_opt_telephony~arrow-11.0~37d1a266646b4fedda3bcab73eb1c1f01285c4be",
+    "project": "ArrowOS/android_frameworks_opt_telephony",
+    "branch": "arrow-11.0",
+    "change_id": "37d1a266646b4fedda3bcab73eb1c1f01285c4be",
+    "subject": "AOSP Security Updates July 2022: Telephony: Enforce privileged phone state for getSubscriptionProperty(GROUP_UUID)",
+    "submitted": "2022-07-10 10:36:20.000000000",
+    "created": "2022-05-03 18:13:57.000000000",
+    "aosp_reference": "frameworks/opt/telephony/+/37d1a266646b4fedda3bcab73eb1c1f01285c4be",
+    "_number": "A-213457638"
+  },
+  {
+    "id": "ArrowOS%android_system_bt~arrow-11.0~7c21b56b7880579965e95cf24c2ab49326a3f2b9",
+    "project": "ArrowOS/android_system_bt",
+    "branch": "arrow-11.0",
+    "change_id": "7c21b56b7880579965e95cf24c2ab49326a3f2b9",
+    "subject": "AOSP Security Updates July 2022: BT: Security: Fix out of bound read in AT_SKIP_REST",
+    "submitted": "2022-07-10 10:28:20.000000000",
+    "created": "2022-04-29 00:02:23.000000000",
+    "aosp_reference": "platform/system/bt/+/7c21b56b7880579965e95cf24c2ab49326a3f2b9",
+    "_number": "A-220732646"
+  },
+  {
+    "id": "ArrowOS%android_system_bt~arrow-11.0~9e39fc68e82739dbd9f7403de244959ac7d54d2d",
+    "project": "ArrowOS/android_system_bt",
+    "branch": "arrow-11.0",
+    "change_id": "9e39fc68e82739dbd9f7403de244959ac7d54d2d",
+    "subject": "AOSP Security Updates July 2022: BT: Check Avrcp packet vendor length before extracting length",
+    "submitted": "2022-07-10 10:25:28.000000000",
+    "created": "2022-05-02 21:12:58.000000000",
+    "aosp_reference": "platform/system/bt/+/9e39fc68e82739dbd9f7403de244959ac7d54d2d",
+    "_number": "A-205571133"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~abadb382114fa8af5209295c9bae2ca2b08935f3",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "abadb382114fa8af5209295c9bae2ca2b08935f3",
+    "subject": "AOSP Security Updates July 2022: Settings: Fix LaunchAnyWhere in AppRestrictionsFragment",
+    "submitted": "2022-07-10 10:23:12.000000000",
+    "created": "2022-04-06 21:12:39.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/abadb382114fa8af5209295c9bae2ca2b08935f3",
+    "_number": "A-223578534"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~6f657f8f5b7d41af426d6cd8d60bfda6e12057c0",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "6f657f8f5b7d41af426d6cd8d60bfda6e12057c0",
+    "subject": "AOSP Security Updates July 2022: base: Crash invalid FGS notifications",
+    "submitted": "2022-07-10 10:17:11.000000000",
+    "created": "2021-07-07 16:19:44.000000000",
+    "aosp_reference": "platform/frameworks/base/+/6f657f8f5b7d41af426d6cd8d60bfda6e12057c0",
+    "_number": "A-191981182"
+  },
+  {
+    "id": "ArrowOS%android_system_bt~arrow-11.0~a0c22fb6770dd8c70f45bed9070d4fb2c83d5289",
+    "project": "ArrowOS/android_system_bt",
+    "branch": "arrow-11.0",
+    "change_id": "a0c22fb6770dd8c70f45bed9070d4fb2c83d5289",
+    "subject": "AOSP Security Updates July 2022: BT: Security: Fix out of bound write in HFP client",
+    "submitted": "2022-07-10 10:13:37.000000000",
+    "created": "2022-04-15 14:24:48.000000000",
+    "aosp_reference": "platform/system/bt/+/a0c22fb6770dd8c70f45bed9070d4fb2c83d5289",
+    "_number": "A-224536184"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~187187a31441e44c29d13c1a04c932abc420b709",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "187187a31441e44c29d13c1a04c932abc420b709",
+    "subject": "AOSP Security Updates July 2022: base: Log to EventLog on prepareUserStorage failure",
+    "submitted": "2022-07-10 10:04:11.000000000",
+    "created": "2022-03-26 21:11:22.000000000",
+    "aosp_reference": "platform/frameworks/base/+/187187a31441e44c29d13c1a04c932abc420b709",
+    "_number": "A-164488924, A-224585613"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~16cf824d3a3dab638698ffaa995621ae18cfcf4e",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "16cf824d3a3dab638698ffaa995621ae18cfcf4e",
+    "subject": "AOSP Security Updates July 2022: base: Ignore errors preparing user storage for existing users",
+    "submitted": "2022-07-10 10:04:11.000000000",
+    "created": "2022-03-04 00:07:43.000000000",
+    "aosp_reference": "platform/frameworks/base/+/16cf824d3a3dab638698ffaa995621ae18cfcf4e",
+    "_number": "A-164488924, A-224585613"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0067ba2426506ec7516dcb18bec5f8a68c116fe9",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "0067ba2426506ec7516dcb18bec5f8a68c116fe9",
+    "subject": "AOSP Security Updates July 2022: base: UserDataPreparer: reboot to recovery for system user only",
+    "submitted": "2022-07-10 10:04:11.000000000",
+    "created": "2022-03-04 00:07:11.000000000",
+    "aosp_reference": "platform/frameworks/base/+/0067ba2426506ec7516dcb18bec5f8a68c116fe9",
+    "_number": "A-164488924, A-224585613"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~6ba336c0e280183a04ca45b217a7e89f8419d62b",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "6ba336c0e280183a04ca45b217a7e89f8419d62b",
+    "subject": "AOSP Security Updates July 2022: base: UserDataPreparer: reboot to recovery if preparing user storage fails",
+    "submitted": "2022-07-10 10:04:11.000000000",
+    "created": "2022-01-24 20:33:11.000000000",
+    "aosp_reference": "platform/frameworks/base/+/6ba336c0e280183a04ca45b217a7e89f8419d62b",
+    "_number": "A-164488924, A-224585613"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~2ba316f58e4429033caa495cbc22a0d66dd92d15",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "2ba316f58e4429033caa495cbc22a0d66dd92d15",
+    "subject": "AOSP Security Updates July 2022: base: StorageManagerService: don't ignore failures to prepare user storage",
+    "submitted": "2022-07-10 10:01:11.000000000",
+    "created": "2021-08-13 13:37:55.000000000",
+    "aosp_reference": "platform/frameworks/base/+/2ba316f58e4429033caa495cbc22a0d66dd92d15",
+    "_number": "A-164488924, A-224585613"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~c69747578155fc2b2b5a6d690b1e8263f281eb67",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
