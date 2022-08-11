@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%android_system_bt~arrow-11.0~e0dd01b536919d5407968eae341b72fa10ec0b7d",
+    "project": "ArrowOS/android_system_bt",
+    "branch": "arrow-11.0",
+    "change_id": "e0dd01b536919d5407968eae341b72fa10ec0b7d",
+    "subject": "AOSP Security Updates August 2022: BT: l2cap: Verify number of channels in the CoC request",
+    "submitted": "2022-08-11 16:27:20.000000000",
+    "created": "2022-05-26 07:29:13.000000000",
+    "aosp_reference": "platform/system/bt/+/e0dd01b536919d5407968eae341b72fa10ec0b7d",
+    "_number": "A-232256974"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~9bd1402e5aa758f2843154f395b5a5dfa91c1dca",
     "project": "ArrowOS/android_frameworks_settings",
     "branch": "arrow-11.0",
