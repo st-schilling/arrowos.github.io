@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d8f82ebc74c75baeda86f132ddb2096a894ec199",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "d8f82ebc74c75baeda86f132ddb2096a894ec199",
+    "subject": "AOSP Security Updates August 2022: base: Stop using invalid URL to prevent unexpected crash",
+    "submitted": "2022-08-11 16:37:11.000000000",
+    "created": "2022-03-08 02:50:14.000000000",
+    "aosp_reference": "platform/frameworks/base/+/d8f82ebc74c75baeda86f132ddb2096a894ec199",
+    "_number": "A-219498290"
+  },
+  {
     "id": "ArrowOS%android_system_bt~arrow-11.0~6ad3f69b2199d953647e1053e8de2a8c26f1b8d6",
     "project": "ArrowOS/android_system_bt",
     "branch": "arrow-11.0",
