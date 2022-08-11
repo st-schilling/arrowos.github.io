@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e86156084bcf92b6160577f48b5b2dd584349e2e",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "e86156084bcf92b6160577f48b5b2dd584349e2e",
+    "subject": "AOSP Security Updates August 2022: base: Only allow the system server to connect to sync adapters",
+    "submitted": "2022-08-11 16:13:11.000000000",
+    "created": "2022-04-19 10:54:18.000000000",
+    "aosp_reference": "platform/frameworks/base/+/e86156084bcf92b6160577f48b5b2dd584349e2e",
+    "_number": "A-203229608"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~06ea6b381117a4f49c2854bb54efb099b7295276",
     "project": "ArrowOS/android_frameworks_native",
     "branch": "arrow-11.0",
