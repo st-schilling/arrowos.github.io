@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~acc83ab08d46755512ceb38d7fc521b2491d6bfb",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "acc83ab08d46755512ceb38d7fc521b2491d6bfb",
+    "subject": "AOSP Security Updates August 2022: base: Remove package title from notification access confirmation intent",
+    "submitted": "2022-08-11 16:01:11.000000000",
+    "created": "2022-04-22 00:32:08.000000000",
+    "aosp_reference": "platform/frameworks/base/+/acc83ab08d46755512ceb38d7fc521b2491d6bfb",
+    "_number": "A-228178437"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~9d7b4f0fa2100721a5dc00e8fdd1be712b9bbbea",
     "project": "ArrowOS/android_frameworks_settings",
     "branch": "arrow-11.0",
