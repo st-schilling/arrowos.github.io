@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~6ae9525c7fd6d72834be28298d836d8f30c0120c",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "6ae9525c7fd6d72834be28298d836d8f30c0120c",
+    "subject": "AOSP Security Updates August 2022: base: [RESTRICT AUTOMERGE]Only allow system and same app to apply relinquishTaskIdentity",
+    "submitted": "2022-08-11 15:07:11.000000000",
+    "created": "2021-05-20 01:52:27.000000000",
+    "aosp_reference": "platform/frameworks/base/+/6ae9525c7fd6d72834be28298d836d8f30c0120c",
+    "_number": "A-185810717"
+  },
+  {
     "id": "ArrowOS%android_packages_apps_KeyChain~arrow-11.0~2184df9eef9ad67630d3540cb97e70ec61e8f65c",
     "project": "ArrowOS/android_packages_apps_KeyChain",
     "branch": "arrow-11.0",
