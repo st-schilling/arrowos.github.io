@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%android_system_bt~arrow-11.0~6ad3f69b2199d953647e1053e8de2a8c26f1b8d6",
+    "project": "ArrowOS/android_system_bt",
+    "branch": "arrow-11.0",
+    "change_id": "6ad3f69b2199d953647e1053e8de2a8c26f1b8d6",
+    "subject": "AOSP Security Updates August 2022: BT: Removing bonded device when auth fails due to missing keys",
+    "submitted": "2022-08-11 16:35:20.000000000",
+    "created": "2022-05-25 21:48:26.000000000",
+    "aosp_reference": "platform/system/bt/+/6ad3f69b2199d953647e1053e8de2a8c26f1b8d6",
+    "_number": "A-231161832"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~645407c8e603337aee6882fc49c44f49bc5707a6",
     "project": "ArrowOS/android_frameworks_settings",
     "branch": "arrow-11.0",
