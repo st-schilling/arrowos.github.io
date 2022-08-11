@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~645407c8e603337aee6882fc49c44f49bc5707a6",
+    "project": "ArrowOS/android_frameworks_settings",
+    "branch": "arrow-11.0",
+    "change_id": "645407c8e603337aee6882fc49c44f49bc5707a6",
+    "subject": "AOSP Security Updates August 2022: Settings: Do not let guest user disable secuer nfc via SettingsSlice",
+    "submitted": "2022-08-11 16:30:11.000000000",
+    "created": "2022-05-04 10:01:15.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/645407c8e603337aee6882fc49c44f49bc5707a6^!/#F0",
+    "_number": "A-228314987"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~90fece0bec5e4d5c04c422d09c2122ac0b894da5",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
