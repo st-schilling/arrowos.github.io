@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~05cd832c241a543feb3a833e75b56c6f253b05e9",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "05cd832c241a543feb3a833e75b56c6f253b05e9",
+    "subject": "AOSP Security Updates August 2022: base: Make sure callingPackage belongs to callingUid when checking BG-FGS restrictions.",
+    "submitted": "2022-08-11 15:57:54.000000000",
+    "created": "2022-05-08 04:43:23.000000000",
+    "aosp_reference": "platform/frameworks/base/+/05cd832c241a543feb3a833e75b56c6f253b05e9",
+    "_number": "A-216695100, A-215003903"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~ba075274a7acc99bb15e3c3306b2768356aa0459",
     "project": "ArrowOS/android_frameworks_native",
     "branch": "arrow-11.0",
