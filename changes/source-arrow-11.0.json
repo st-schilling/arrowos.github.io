@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~06ea6b381117a4f49c2854bb54efb099b7295276",
+    "project": "ArrowOS/android_frameworks_native",
+    "branch": "arrow-11.0",
+    "change_id": "06ea6b381117a4f49c2854bb54efb099b7295276",
+    "subject": "AOSP Security Updates August 2022: native: DO NOT MERGE: SurfaceControl: Ensure unused fields are zeroed",
+    "submitted": "2022-08-11 16:10:11.000000000",
+    "created": "2022-03-22 22:25:54.000000000",
+    "aosp_reference": "platform/frameworks/native/+/06ea6b381117a4f49c2854bb54efb099b7295276",
+    "_number": "A-214999987"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f796ac71c3c583139d7cfe8cc70fd1f2f4e251a0",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
@@ -59,7 +70,7 @@
     "project": "ArrowOS/android_frameworks_native",
     "branch": "arrow-11.0",
     "change_id": "a49c413aee3f89aa68963f67fb144355608e12c6",
-    "subject": "AOSP Security Updates August 2022: base: RESTRICT AUTOMERGE SurfaceFlinger: fix a potential race condition in stealReceiveChannel",
+    "subject": "AOSP Security Updates August 2022: native: RESTRICT AUTOMERGE SurfaceFlinger: fix a potential race condition in stealReceiveChannel",
     "submitted": "2022-08-11 15:19:11.000000000",
     "created": "2022-06-06 22:16:06.000000000",
     "aosp_reference": "platform/frameworks/native/+/a49c413aee3f89aa68963f67fb144355608e12c6",
