@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~9d7b4f0fa2100721a5dc00e8fdd1be712b9bbbea",
+    "project": "ArrowOS/android_frameworks_settings",
+    "branch": "arrow-11.0",
+    "change_id": "9d7b4f0fa2100721a5dc00e8fdd1be712b9bbbea",
+    "subject": "AOSP Security Updates August 2022: Settings: Extract app label from component name in notification access confirmation UI",
+    "submitted": "2022-08-11 16:01:11.000000000",
+    "created": "2022-04-22 00:40:06.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/9d7b4f0fa2100721a5dc00e8fdd1be712b9bbbea^!/#F0",
+    "_number": "A-228178437"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~05cd832c241a543feb3a833e75b56c6f253b05e9",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
@@ -12,7 +23,7 @@
   },
   {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~ba075274a7acc99bb15e3c3306b2768356aa0459",
-    "project": "ArrowOS/android_frameworks_native",
+    "project": "ArrowOS/android_frameworks_settings",
     "branch": "arrow-11.0",
     "change_id": "ba075274a7acc99bb15e3c3306b2768356aa0459",
     "subject": "AOSP Security Updates August 2022: Settings: RESTRICT AUTOMERGE Fix: policy enforcement for location wifi scanning",
