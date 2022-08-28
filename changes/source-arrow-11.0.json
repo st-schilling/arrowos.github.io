@@ -143,17 +143,6 @@
     "_number": "A-203229608"
   },
   {
-    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f796ac71c3c583139d7cfe8cc70fd1f2f4e251a0",
-    "project": "ArrowOS/android_frameworks_base",
-    "branch": "arrow-11.0",
-    "change_id": "f796ac71c3c583139d7cfe8cc70fd1f2f4e251a0",
-    "subject": "AOSP Security Updates August 2022: base: DO NOT MERGE. Add a permissions check to LocationManagerService.",
-    "submitted": "2022-08-11 16:07:11.000000000",
-    "created": "2022-04-22 20:28:49.000000000",
-    "aosp_reference": "platform/frameworks/base/+/f796ac71c3c583139d7cfe8cc70fd1f2f4e251a0",
-    "_number": "A-222473855"
-  },
-  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~acc83ab08d46755512ceb38d7fc521b2491d6bfb",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
