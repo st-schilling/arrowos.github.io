@@ -165,14 +165,14 @@
     "_number": "A-216695100, A-215003903"
   },
   {
-    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~ba075274a7acc99bb15e3c3306b2768356aa0459",
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~d55b61beaf4933f1ccc9b0c1ad3c9feea19567c5",
     "project": "ArrowOS/android_frameworks_settings",
     "branch": "arrow-11.0",
-    "change_id": "ba075274a7acc99bb15e3c3306b2768356aa0459",
+    "change_id": "d55b61beaf4933f1ccc9b0c1ad3c9feea19567c5",
     "subject": "AOSP Security Updates August 2022: Settings: RESTRICT AUTOMERGE Fix: policy enforcement for location wifi scanning",
     "submitted": "2022-08-11 15:49:11.000000000",
-    "created": "2022-05-26 22:49:21.000000000",
-    "aosp_reference": "platform/packages/apps/Settings/+/ba075274a7acc99bb15e3c3306b2768356aa0459^!/#F0",
+    "created": "2022-06-01 03:17:47.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/d55b61beaf4933f1ccc9b0c1ad3c9feea19567c5^!/#F0",
     "_number": "A-228315522, A-228315529"
   },
   {
