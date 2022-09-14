@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_providers_MediaProvider~arrow-11.0~9b7b8bd674491ce499d76b52cd2209d7db261ea0",
+    "project": "ArrowOS/android_packages_providers_MediaProvider",
+    "branch": "arrow-11.0",
+    "change_id": "9b7b8bd674491ce499d76b52cd2209d7db261ea0",
+    "subject": "AOSP Security Updates September 2022: MediaProvider: DO NOT MERGE Avoid path traversal in MediaProvider delete call",
+    "submitted": "2022-09-15 16:54:37.000000000",
+    "created": "2022-06-07 07:37:18.000000000",
+    "aosp_reference": "platform/packages/providers/MediaProvider/+/9b7b8bd674491ce499d76b52cd2209d7db261ea0",
+    "_number": "A-221855295"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~b63d4e785ba4d896bbbd50d4f09bda13294926af",
     "project": "ArrowOS/android_frameworks_av",
     "branch": "arrow-11.0",
