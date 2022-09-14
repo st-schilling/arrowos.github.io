@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~745e31e1be11d0b2f005590c4d448a8cb9bfbe35",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "745e31e1be11d0b2f005590c4d448a8cb9bfbe35",
+    "subject": "AOSP Security Updates September 2022: base: Remove package name from SafetyNet logs",
+    "submitted": "2022-09-15 16:46:11.000000000",
+    "created": "2022-07-29 22:35:13.000000000",
+    "aosp_reference": "platform/frameworks/base/+/745e31e1be11d0b2f005590c4d448a8cb9bfbe35",
+    "_number": "A-213323615"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~011dda6e011aaba1112932576ae4080e10200d7c",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
