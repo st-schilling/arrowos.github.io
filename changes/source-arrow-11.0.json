@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~548edbb850227e076735615f83f8e23352b0b82d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "548edbb850227e076735615f83f8e23352b0b82d",
+    "subject": "AOSP Security Updates September 2022: base: Fix duplicate permission privilege escalation",
+    "submitted": "2022-09-15 16:40:11.000000000",
+    "created": "2022-05-13 21:56:34.000000000",
+    "aosp_reference": "platform/frameworks/base/+/548edbb850227e076735615f83f8e23352b0b82d",
+    "_number": "A-213323615"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I856d66371ac121f681958a7129527f18a5357d0f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
