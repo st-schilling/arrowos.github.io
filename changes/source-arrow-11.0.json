@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I7903494cf928b5b5613700262b7c5fff10f3c5a0",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "I7903494cf928b5b5613700262b7c5fff10f3c5a0",
+    "subject": "Base: [RESTRICT AUTOMERGE] Do not resume activity if behind a translucent task",
+    "submitted": "2022-09-04 18:10:11.000000000",
+    "created": "2022-02-08 07:06:00.000000000",
+    "aosp_reference": "platform/frameworks/base/+/I7903494cf928b5b5613700262b7c5fff10f3c5a0",
+    "_number": "A-211481342"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ia30f1c38d5ddb351c90b748ea76448a76a9dde7b",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
