@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Icfe2c34c357c833d8108cf6b5650214f32d273f5",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "Icfe2c34c357c833d8108cf6b5650214f32d273f5",
+    "subject": "base: Limit SafetyNet workarounds to unstable GMS process",
+    "submitted": "2022-09-04 18:13:11.000000000",
+    "created": "2021-11-02 04:06:00.000000000",
+    "aosp_reference": " https://github.com/ArrowOS/android_frameworks_base/commit/f98d6481aec7ee68877d7bb01d661c4020b32d26",
+    "_number": ""
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ib7779e0aae40cab3730a56785e9231896917ab0a",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
