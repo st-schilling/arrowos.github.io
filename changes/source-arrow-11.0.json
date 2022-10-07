@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ib7779e0aae40cab3730a56785e9231896917ab0a",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "Ib7779e0aae40cab3730a56785e9231896917ab0a",
+    "subject": "base: Alter model name to avoid SafetyNet HW attestation enforcement",
+    "submitted": "2022-09-04 18:13:11.000000000",
+    "created": "2021-10-12 05:01:00.000000000",
+    "aosp_reference": " https://github.com/ArrowOS/android_frameworks_base/commit/4b6270cdb22121d6faccaa177a0823026b98d687",
+    "_number": ""
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I26a2498eb2e2163933303b03f6d516e5fb30fe51",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
