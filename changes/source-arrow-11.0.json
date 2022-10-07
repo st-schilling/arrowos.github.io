@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I005cacdd7be3e6311ef47465d3fca7fa847d3b7e",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "I005cacdd7be3e6311ef47465d3fca7fa847d3b7e",
+    "subject": "Add CLI commands to restrict Wi-Fi, Cellular, and VPN data",
+    "submitted": "2022-09-04 18:09:11.000000000",
+    "created": "2022-02-18 07:18:00.000000000",
+    "aosp_reference": "platform/frameworks/base/+/I005cacdd7be3e6311ef47465d3fca7fa847d3b7e",
+    "_number": ""
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I4dfd3e78041a81601d5bde47a4deaa0313066028",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
