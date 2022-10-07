@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ia13a86b20f2fc2a7fc5f6e06fdc3b89bc2f3cc73",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "Ia13a86b20f2fc2a7fc5f6e06fdc3b89bc2f3cc73",
+    "subject": "base: Remove PixelPropsUtils",
+    "submitted": "2022-09-04 18:10:11.000000000",
+    "created": "2022-09-02 01:16:00.000000000",
+    "aosp_reference": " https://github.com/ArrowOS/android_frameworks_base/commit/bfcad2656963510e97165c4570fabcb8bb1f9e17",
+    "_number": ""
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I7585a0a5eeb308e0e32a4f77f581556d883b5cda",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
