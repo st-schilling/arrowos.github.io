@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_system_core~arrow-11.0~Ic52d5b3f06724430e9505345024cf0041b37ca49",
+    "project": "ArrowOS/android_system_core",
+    "branch": "arrow-11.0",
+    "change_id": "Ic52d5b3f06724430e9505345024cf0041b37ca49",
+    "subject": "fs_mgr: Don't run clean_scratch_files on non-dynamic devices",
+    "submitted": "2022-09-02 00:13:11.000000000",
+    "created": "2022-01-06 22:59:00.000000000",
+    "aosp_reference": "platform/system/core/+/Ic52d5b3f06724430e9505345024cf0041b37ca49",
+    "_number": ""
+  },
+  {
     "id": "ArrowOS%2Fandroid_system_core~arrow-11.0~Id47c567ad92ae4d9d7325a7a8589825a2ff4232b",
     "project": "ArrowOS/android_system_core",
     "branch": "arrow-11.0",
