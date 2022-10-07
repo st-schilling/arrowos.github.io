@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I26a2498eb2e2163933303b03f6d516e5fb30fe51",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "I26a2498eb2e2163933303b03f6d516e5fb30fe51",
+    "subject": "base: Spoof build fingerprint for Google Play Services [1/2]",
+    "submitted": "2022-09-04 18:13:11.000000000",
+    "created": "2021-10-12 04:59:00.000000000",
+    "aosp_reference": " https://github.com/ArrowOS/android_frameworks_base/commit/311fc586623acf2a349472b3fd0b707a49fab654",
+    "_number": ""
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ia13a86b20f2fc2a7fc5f6e06fdc3b89bc2f3cc73",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
