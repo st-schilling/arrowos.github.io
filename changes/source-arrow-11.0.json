@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_system_core~arrow-11.0~Id47c567ad92ae4d9d7325a7a8589825a2ff4232b",
+    "project": "ArrowOS/android_system_core",
+    "branch": "arrow-11.0",
+    "change_id": "Id47c567ad92ae4d9d7325a7a8589825a2ff4232b",
+    "subject": "Backport of Win-specific suppression of potentially rogue construct that can engage\nin directory traversal on the host.",
+    "submitted": "2022-09-02 00:13:11.000000000",
+    "created": "2022-04-05 16:55:00.000000000",
+    "aosp_reference": "platform/system/core/+/Id47c567ad92ae4d9d7325a7a8589825a2ff4232b",
+    "_number": "A-209438553"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I856d66371ac121f681958a7129527f18a5357d0f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
