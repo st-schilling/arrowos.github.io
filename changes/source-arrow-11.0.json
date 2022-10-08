@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I069fcc124af24227fa50b61d4fc55d6dadc7a20b",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "I069fcc124af24227fa50b61d4fc55d6dadc7a20b",
+    "subject": "AOSP Security Updates October 2022: base: Fix NPE when deleting old zen rules",
+    "submitted": "2022-10-08 19:28:11.000000000",
+    "created": "2021-06-22 19:30:00.000000000",
+    "aosp_reference": "platform/frameworks/base/+/I069fcc124af24227fa50b61d4fc55d6dadc7a20b",
+    "_number": "A-191773100, A-189332346, A-235823407"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ie546c15c25fcbd193b67cb997220f075691e9bab",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
