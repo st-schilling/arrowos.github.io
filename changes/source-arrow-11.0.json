@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ie546c15c25fcbd193b67cb997220f075691e9bab",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "Ie546c15c25fcbd193b67cb997220f075691e9bab",
+    "subject": "AOSP Security Updates October 2022: base: Store DND rule owners",
+    "submitted": "2022-10-08 19:27:11.000000000",
+    "created": "2021-06-16 20:00:00.000000000",
+    "aosp_reference": "platform/frameworks/base/+/Ie546c15c25fcbd193b67cb997220f075691e9bab",
+    "_number": "A-189332346, A-235823407"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Id5e94d44ac9ab24870a8213ec7583da0f592a5ff",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
