@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9194bce0d58093bbb0aa77c6050bb9a15d9dbc2a",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "9194bce0d58093bbb0aa77c6050bb9a15d9dbc2a",
+    "subject": "AOSP Security Updates October 2022: base: Block FullScreenIntent while device is in use if notification has a silencing GroupAlertBehavior.",
+    "submitted": "2022-10-08 19:19:11.000000000",
+    "created": "2022-07-18 13:28:21.000000000",
+    "aosp_reference": "platform/frameworks/base/+/9194bce0d58093bbb0aa77c6050bb9a15d9dbc2a",
+    "_number": "A-231322873"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~8e4efdb653ed38a6b9c3d306208557352d52cbd5",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
