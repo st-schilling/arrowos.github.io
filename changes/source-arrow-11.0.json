@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%android_packages_providers_ContactsProvider~arrow-11.0~571be94b55445553a86825d95a63afe05cfba6bd",
+    "project": "ArrowOS/android_packages_providers_ContactsProvider",
+    "branch": "arrow-11.0",
+    "change_id": "571be94b55445553a86825d95a63afe05cfba6bd",
+    "subject": "AOSP Security Updates October 2022: ContactsProvider: enforce stricter CallLogProvider query",
+    "submitted": "2022-10-08 19:00:11.000000000",
+    "created": "2022-04-28 16:53:40.000000000",
+    "aosp_reference": "platform/frameworks/base/+/571be94b55445553a86825d95a63afe05cfba6bd",
+    "_number": "A-224771921"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ia785b7a004192c96d1c0abe58733fb8700d43e25",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
