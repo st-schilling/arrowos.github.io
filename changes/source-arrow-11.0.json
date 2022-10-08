@@ -220,6 +220,61 @@
     "_number": "A-209438553"
   },
   {
+    "id": "ArrowOS%2Fandroid_packages_providers_MediaProvider~arrow-11.0~9b7b8bd674491ce499d76b52cd2209d7db261ea0",
+    "project": "ArrowOS/android_packages_providers_MediaProvider",
+    "branch": "arrow-11.0",
+    "change_id": "9b7b8bd674491ce499d76b52cd2209d7db261ea0",
+    "subject": "AOSP Security Updates September 2022: MediaProvider: DO NOT MERGE Avoid path traversal in MediaProvider delete call",
+    "submitted": "2022-09-15 16:54:37.000000000",
+    "created": "2022-06-07 07:37:18.000000000",
+    "aosp_reference": "platform/packages/providers/MediaProvider/+/9b7b8bd674491ce499d76b52cd2209d7db261ea0",
+    "_number": "A-221855295"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~b63d4e785ba4d896bbbd50d4f09bda13294926af",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "b63d4e785ba4d896bbbd50d4f09bda13294926af",
+    "subject": "AOSP Security Updates September 2022: av: Fix Out of Bounds read in TextDescriptions.cpp",
+    "submitted": "2022-09-15 16:50:11.000000000",
+    "created": "2022-06-21 09:52:43.000000000",
+    "aosp_reference": "platform/frameworks/av/+/b63d4e785ba4d896bbbd50d4f09bda13294926af",
+    "_number": "A-233735886"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~745e31e1be11d0b2f005590c4d448a8cb9bfbe35",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "745e31e1be11d0b2f005590c4d448a8cb9bfbe35",
+    "subject": "AOSP Security Updates September 2022: base: Remove package name from SafetyNet logs",
+    "submitted": "2022-09-15 16:46:11.000000000",
+    "created": "2022-07-29 22:35:13.000000000",
+    "aosp_reference": "platform/frameworks/base/+/745e31e1be11d0b2f005590c4d448a8cb9bfbe35",
+    "_number": "A-213323615"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~011dda6e011aaba1112932576ae4080e10200d7c",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "011dda6e011aaba1112932576ae4080e10200d7c",
+    "subject": "AOSP Security Updates September 2022: base: Parcel: recycle recycles",
+    "submitted": "2022-09-15 16:44:11.000000000",
+    "created": "2022-03-30 21:59:12.000000000",
+    "aosp_reference": "platform/frameworks/base/+/011dda6e011aaba1112932576ae4080e10200d7c",
+    "_number": "A-208279300"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~548edbb850227e076735615f83f8e23352b0b82d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "548edbb850227e076735615f83f8e23352b0b82d",
+    "subject": "AOSP Security Updates September 2022: base: Fix duplicate permission privilege escalation",
+    "submitted": "2022-09-15 16:40:11.000000000",
+    "created": "2022-05-13 21:56:34.000000000",
+    "aosp_reference": "platform/frameworks/base/+/548edbb850227e076735615f83f8e23352b0b82d",
+    "_number": "A-213323615"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I856d66371ac121f681958a7129527f18a5357d0f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
