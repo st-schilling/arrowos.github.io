@@ -4,6 +4,17 @@
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
     "change_id": "9df1f523f1193a653df37d27cfc1b91179b5204f",
+    "subject": "AOSP Security Updates October 2022: base: Enforce zen rule limit on a package level.",
+    "submitted": "2022-10-08 19:22:11.000000000",
+    "created": "2022-06-28 15:43:33.000000000",
+    "aosp_reference": "platform/frameworks/base/+/9df1f523f1193a653df37d27cfc1b91179b5204f",
+    "_number": "A-235823407"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9df1f523f1193a653df37d27cfc1b91179b5204f",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "9df1f523f1193a653df37d27cfc1b91179b5204f",
     "subject": "AOSP Security Updates October 2022: base: Restrict getInputMethodWindowVisibleHeight",
     "submitted": "2022-10-08 19:21:11.000000000",
     "created": "2022-02-16 18:52:25.000000000",
