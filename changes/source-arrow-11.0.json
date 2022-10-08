@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I005b43979d1c708fd505c8b33ae0c8cb03ddbb35",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "I005b43979d1c708fd505c8b33ae0c8cb03ddbb35",
+    "subject": "AOSP Security Updates October 2022: base: Limit the number of concurrently snoozed notifications",
+    "submitted": "2022-10-08 19:24:11.000000000",
+    "created": "2022-07-01 15:49:00.000000000",
+    "aosp_reference": "platform/frameworks/base/+/I005b43979d1c708fd505c8b33ae0c8cb03ddbb35",
+    "_number": "A-234441463"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9df1f523f1193a653df37d27cfc1b91179b5204f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
