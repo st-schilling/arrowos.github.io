@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Id5e94d44ac9ab24870a8213ec7583da0f592a5ff",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "Id5e94d44ac9ab24870a8213ec7583da0f592a5ff",
+    "subject": "AOSP Security Updates October 2022: base: Stop crashing the system on hitting the alarm limit",
+    "submitted": "2022-10-08 19:25:11.000000000",
+    "created": "2022-06-27 23:01:00.000000000",
+    "aosp_reference": "platform/frameworks/base/+/Id5e94d44ac9ab24870a8213ec7583da0f592a5ff",
+    "_number": "A-234441463"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I005b43979d1c708fd505c8b33ae0c8cb03ddbb35",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
