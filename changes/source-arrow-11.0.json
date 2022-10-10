@@ -198,6 +198,17 @@
     "_number": "A-211481342"
   },
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I9ccdfd298f32c36b9c4da68c2e9c355c97dc7593",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "I9ccdfd298f32c36b9c4da68c2e9c355c97dc7593",
+    "subject": "Base: Add ALLOW_SLIPPERY_TOUCHES permission",
+    "submitted": "2022-09-04 18:10:12.000000000",
+    "created": "2021-11-29 18:07:00.000000000",
+    "aosp_reference": "platform/frameworks/base/+/I9ccdfd298f32c36b9c4da68c2e9c355c97dc7593",
+    "_number": "A-157929241, A-206188649"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Ia30f1c38d5ddb351c90b748ea76448a76a9dde7b",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
