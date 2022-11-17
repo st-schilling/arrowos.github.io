@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0c607e70982beb9ad4b2b7e6b459f596a620524b",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "0c607e70982beb9ad4b2b7e6b459f596a620524b",
+    "subject": "AOSP Security Updates October 2022: base: Enforce zen rule limit on a package level.",
+    "submitted": "2022-11-17 22:12:15.000000000",
+    "created": "2022-06-28 19:43:33.000000000",
+    "aosp_reference": "platform/frameworks/base/+/0c607e70982beb9ad4b2b7e6b459f596a620524b",
+    "_number": "A-235823407"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~adfffded7596bab2290b14e1170798528c98f614",
     "project": "ArrowOS/android_frameworks_av",
     "branch": "arrow-11.0",
