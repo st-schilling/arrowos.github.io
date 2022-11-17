@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~adfffded7596bab2290b14e1170798528c98f614",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "adfffded7596bab2290b14e1170798528c98f614",
+    "subject": "AOSP Security Updates October 2022: av: Cache MMAP client silenced state.",
+    "submitted": "2022-11-17 22:12:15.000000000",
+    "created": "2022-05-15 19:26:01.000000000",
+    "aosp_reference": "platform/frameworks/av/+/adfffded7596bab2290b14e1170798528c98f614",
+    "_number": "A-235850634"
+  },
+  {
     "id": "ArrowOS%2Farrow_infrastructure_devices~arrow-11.0~I5fce519cff25f55fa394bb68abc645c30be395e6",
     "project": "ArrowOS/arrow_infrastructure_devices",
     "branch": "arrow-11.0",
