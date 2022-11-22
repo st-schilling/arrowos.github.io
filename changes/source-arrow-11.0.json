@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_hardware_nxp_nfc~arrow-11.0~4ef6287d7b4d2f9857ca3faa1c79f070cbd80e06",
+    "project": "ArrowOS/android_hardware_nxp_nfc",
+    "branch": "arrow-11.0",
+    "change_id": "4ef6287d7b4d2f9857ca3faa1c79f070cbd80e06",
+    "subject": "AOSP Security Updates November 2022: nfc: OOBW in phNxpNciHal_write_unlocked()",
+    "submitted": "2022-11-22 21:53:19.000000000",
+    "created": "2022-07-24 22:20:08.000000000",
+    "aosp_reference": "platform/hardware/nxp/nfc/+/4ef6287d7b4d2f9857ca3faa1c79f070cbd80e06",
+    "_number": "A-230356196"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~de386395c84d97cbabf38e711bd994b5059ab1bb",
     "project": "ArrowOS/android_packages_services_Telecomm",
     "branch": "arrow-11.0",
