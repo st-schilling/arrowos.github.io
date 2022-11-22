@@ -1,5 +1,16 @@
 [
   {
+    "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~037d4aa0e5e1d516a84f02e8548817e2ba00e302",
+    "project": "ArrowOS/android_hardware_nxp_nfc",
+    "branch": "arrow-11.0",
+    "change_id": "c9b3b88b767cca85fe504289edf31eb1599c21f4",
+    "subject": "AOSP Security Updates November 2022: msm-3.18: kgsl: Fix gpuaddr_in_range() to check upper bound",
+    "submitted": "2022-11-22 22:27:19.000000000",
+    "created": "2021-12-07 07:20:00.000000000",
+    "aosp_reference": "https://git.codelinaro.org/clo/la/kernel/msm-3.18/-/commit/c9b3b88b767cca85fe504289edf31eb1599c21f4",
+    "_number": "A-238106223"
+  },
+  {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~a9aa5609802cffb0c7b5918c47dc56b06e7df068",
     "project": "ArrowOS/android_hardware_nxp_nfc",
     "branch": "arrow-11.0",
