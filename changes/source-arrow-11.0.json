@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~55f5c81b5ead04f4ed4ba32d01d2c3479488eaab",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "55f5c81b5ead04f4ed4ba32d01d2c3479488eaab",
+    "subject": "AOSP Security Updates November 2022: base: Do not send new Intent to non-exported activity when navigateUpTo",
+    "submitted": "2022-11-22 21:57:15.000000000",
+    "created": "2022-08-02 03:33:39.000000000",
+    "aosp_reference": "platform/frameworks/base/+/55f5c81b5ead04f4ed4ba32d01d2c3479488eaab",
+    "_number": "A-238605611"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d24c35701315bb07b4b176e5080d885311384500",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
