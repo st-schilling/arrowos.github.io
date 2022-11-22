@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~3c7832a912035a3bf1cbef3cdf91ec8abaf84694",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "3c7832a912035a3bf1cbef3cdf91ec8abaf84694",
+    "subject": "AOSP Security Updates November 2022: base: Do not send AccessibilityEvent if notification is for different user.",
+    "submitted": "2022-11-22 21:57:15.000000000",
+    "created": "2022-08-12 18:40:41.000000000",
+    "aosp_reference": "platform/frameworks/base/+/3c7832a912035a3bf1cbef3cdf91ec8abaf84694",
+    "_number": "A-237540408"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~55f5c81b5ead04f4ed4ba32d01d2c3479488eaab",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
