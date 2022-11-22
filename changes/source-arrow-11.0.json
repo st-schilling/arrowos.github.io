@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~114bc0e45ea71e736660621d954c69eed429e4bc",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "114bc0e45ea71e736660621d954c69eed429e4bc",
+    "subject": "AOSP Security Updates November 2022: base: Do not dismiss keyguard after SIM PUK unlock",
+    "submitted": "2022-11-22 21:10:15.000000000",
+    "created": "2022-08-18 12:04:43.000000000",
+    "aosp_reference": "platform/frameworks/base/+/114bc0e45ea71e736660621d954c69eed429e4bc",
+    "_number": "A-218500036"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~c29f171a4885cda3d82a3472a1cba508b6fd6657",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
