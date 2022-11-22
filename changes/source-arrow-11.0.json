@@ -1,5 +1,16 @@
 [
   {
+    "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~a9aa5609802cffb0c7b5918c47dc56b06e7df068",
+    "project": "ArrowOS/android_hardware_nxp_nfc",
+    "branch": "arrow-11.0",
+    "change_id": "Id5eec16588d64e4e28483b32bb52d4d3d9b86b99",
+    "subject": "AOSP Security Updates November 2022: msm-3.18: kgsl: Remove 'fd' dependency to get dma_buf handle",
+    "submitted": "2022-11-22 22:27:19.000000000",
+    "created": "2022-04-20 18:21:00.000000000",
+    "aosp_reference": "https://git.codelinaro.org/clo/la/kernel/msm-3.18/-/commit/7ada2c15e39e5288b67ed5ae94b0a8dcb181b911",
+    "_number": "A-240973083"
+  },
+  {
     "id": "ArrowOS%2Fandroid_hardware_nxp_nfc~arrow-11.0~4ef6287d7b4d2f9857ca3faa1c79f070cbd80e06",
     "project": "ArrowOS/android_hardware_nxp_nfc",
     "branch": "arrow-11.0",
