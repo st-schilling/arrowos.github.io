@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~912b946c838439fba1765fed78da80ecf2cbf246",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "912b946c838439fba1765fed78da80ecf2cbf246",
+    "subject": "AOSP Security Updates November 2022: base: Move accountname and typeName length check from Account.java to AccountManagerService.",
+    "submitted": "2022-11-22 21:55:15.000000000",
+    "created": "2022-03-22 03:35:20.000000000",
+    "aosp_reference": "platform/frameworks/base/+/912b946c838439fba1765fed78da80ecf2cbf246",
+    "_number": "A-169762606"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~ec947dd16183aec500a240eef3e876c8197db5ea",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
