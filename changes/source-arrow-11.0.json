@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~03bf117ddbe93b7d56e8242277c601b102c74c28",
+    "project": "ArrowOS/android_packages_services_Telecomm",
+    "branch": "arrow-11.0",
+    "change_id": "03bf117ddbe93b7d56e8242277c601b102c74c28",
+    "subject": "AOSP Security Updates November 2022: Telecomm: switch TelecomManager List getters to ParceledListSlice",
+    "submitted": "2022-11-22 21:33:15.000000000",
+    "created": "2022-06-23 21:20:30.000000000",
+    "aosp_reference": "platform/packages/services/Telecomm/+/03bf117ddbe93b7d56e8242277c601b102c74c28",
+    "_number": "A-236263294"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~0a9d181281753f911524291ffa6d1b677e36b589",
     "project": "ArrowOS/android_frameworks_av",
     "branch": "arrow-11.0",
