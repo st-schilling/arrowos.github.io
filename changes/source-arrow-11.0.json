@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~0a9d181281753f911524291ffa6d1b677e36b589",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "0a9d181281753f911524291ffa6d1b677e36b589",
+    "subject": "AOSP Security Updates November 2022: av: [Fix vulnerability] setSecurityLevel in clearkey",
+    "submitted": "2022-11-22 21:22:15.000000000",
+    "created": "2022-06-21 01:36:43.000000000",
+    "aosp_reference": "platform/frameworks/av/+/0a9d181281753f911524291ffa6d1b677e36b589",
+    "_number": "A-235601882"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~114bc0e45ea71e736660621d954c69eed429e4bc",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
