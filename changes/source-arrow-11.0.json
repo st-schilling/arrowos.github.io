@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f57b022da74678b47585661f4d8fedaad273883b",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "f57b022da74678b47585661f4d8fedaad273883b",
+    "subject": "AOSP Security Updates November 2022: base: Fix system zen rules by using owner package name if caller is system",
+    "submitted": "2022-11-22 21:06:15.000000000",
+    "created": "2022-09-06 20:14:16.000000000",
+    "aosp_reference": "platform/frameworks/base/+/f57b022da74678b47585661f4d8fedaad273883b",
+    "_number": "A-245236706, A-242537431"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~335af8b598b3d94c537045d8207b773a56faeeae",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
