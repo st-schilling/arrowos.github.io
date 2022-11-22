@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~519e82990c2e00f8800d4b2c8765f710d4957cec",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "519e82990c2e00f8800d4b2c8765f710d4957cec",
+    "subject": "AOSP Security Updates November 2022: base: Check rule package name in ZenModeHelper.addAutomaticRule",
+    "submitted": "2022-11-22 21:57:15.000000000",
+    "created": "2022-08-25 20:23:12.000000000",
+    "aosp_reference": "platform/frameworks/base/+/519e82990c2e00f8800d4b2c8765f710d4957cec",
+    "_number": "A-242537431"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0cfb9ab94f46601244d15679d4256b4149f04dcf",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
