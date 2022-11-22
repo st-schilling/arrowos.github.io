@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0cce08296c8324b8780007c7e42fd92544f22839",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "0cce08296c8324b8780007c7e42fd92544f22839",
+    "subject": "AOSP Security Updates November 2022: base: Trim any long string inputs that come in to AutomaticZenRule",
+    "submitted": "2022-11-22 21:03:15.000000000",
+    "created": "2022-08-25 20:23:12.000000000",
+    "aosp_reference": "platform/frameworks/base/+/0cce08296c8324b8780007c7e42fd92544f22839",
+    "_number": "A-242703460, A-242703505, A-242703780, A-242704043, A-243794204"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~519e82990c2e00f8800d4b2c8765f710d4957cec",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
