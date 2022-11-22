@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~335af8b598b3d94c537045d8207b773a56faeeae",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "335af8b598b3d94c537045d8207b773a56faeeae",
+    "subject": "AOSP Security Updates November 2022: base: Check permission for VoiceInteraction",
+    "submitted": "2022-11-22 21:03:15.000000000",
+    "created": "2022-07-18 23:28:46.000000000",
+    "aosp_reference": "platform/frameworks/base/+/335af8b598b3d94c537045d8207b773a56faeeae",
+    "_number": "A-229793943"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0cce08296c8324b8780007c7e42fd92544f22839",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
