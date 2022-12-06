@@ -1,5 +1,27 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~71516aabfc5f27022cfe10a3716498893ff3590a",
+    "project": "ArrowOS/android_packages_services_Telecomm",
+    "branch": "arrow-11.0",
+    "change_id": "71516aabfc5f27022cfe10a3716498893ff3590a",
+    "subject": "AOSP Security Updates December 2022: Telecomm: Hide overlay windows when showing phone account enable/disable screen.",
+    "submitted": "2022-12-06 20:45:19.000000000",
+    "created": "2022-09-27 22:19:05.000000000",
+    "aosp_reference": "platform/packages/services/Telecomm/+/71516aabfc5f27022cfe10a3716498893ff3590a",
+    "_number": "A-246933359"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_hardware_nxp_nfc~arrow-11.0~906d22cf3f82e5a1463eab3bfdd3ec340fc93ec8",
+    "project": "ArrowOS/android_hardware_nxp_nfc",
+    "branch": "arrow-11.0",
+    "change_id": "906d22cf3f82e5a1463eab3bfdd3ec340fc93ec8",
+    "subject": "AOSP Security Updates December 2022: nfc: OOBR in NxpMfcReader::SendIncDecRestoreCmdPart2",
+    "submitted": "2022-12-06 20:37:19.000000000",
+    "created": "2022-09-20 04:30:11.000000000",
+    "aosp_reference": "platform/hardware/nxp/nfc/+/906d22cf3f82e5a1463eab3bfdd3ec340fc93ec8",
+    "_number": "A-238177877"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~919023c98e2d31627027f1f2e2f850d0b0a16db0",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
