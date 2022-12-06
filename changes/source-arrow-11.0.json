@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~5f66272f9609bb9b51b56a4072a885976b6aea34",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "5f66272f9609bb9b51b56a4072a885976b6aea34",
+    "subject": "AOSP Security Updates December 2022: base: Fix a security issue in app widget service.",
+    "submitted": "2022-12-06 20:19:15.000000000",
+    "created": "2022-07-14 18:25:54.000000000",
+    "aosp_reference": "platform/frameworks/base/+/5f66272f9609bb9b51b56a4072a885976b6aea34",
+    "_number": "A-234013191"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~62380ba9be4b354509d8b5fc518f59e43399d0da",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
