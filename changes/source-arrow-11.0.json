@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~919023c98e2d31627027f1f2e2f850d0b0a16db0",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "919023c98e2d31627027f1f2e2f850d0b0a16db0",
+    "subject": "AOSP Security Updates December 2022: base: [DO NOT MERGE] Revert \"Fix system zen rules by using owner package name if caller is system\"",
+    "submitted": "2022-12-06 20:30:15.000000000",
+    "created": "2022-11-07 19:05:55.000000000",
+    "aosp_reference": "platform/frameworks/base/+/919023c98e2d31627027f1f2e2f850d0b0a16db0",
+    "_number": ""
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~251f7066d6d2639e9def78efd6c3418c88dcd1b5",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
