@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~fd7ba743b3052f40b91fb36f25e0965accef3749",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "fd7ba743b3052f40b91fb36f25e0965accef3749",
+    "subject": "AOSP Security Updates December 2022: base: [RESTRICT AUTOMERGE] Allow activity to be reparent while allowTaskReparenting is applied",
+    "submitted": "2022-12-06 20:20:15.000000000",
+    "created": "2022-09-14 08:10:04.000000000",
+    "aosp_reference": "platform/frameworks/base/+/fd7ba743b3052f40b91fb36f25e0965accef3749",
+    "_number": "A-240663194"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~5f66272f9609bb9b51b56a4072a885976b6aea34",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
