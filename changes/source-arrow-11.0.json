@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~658d63763f39a881459f4d44cced23066f1cb4c8",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "658d63763f39a881459f4d44cced23066f1cb4c8",
+    "subject": "AOSP Security Updates December 2022: base: [DO NOT MERGE] Fix permanent denial of service via setComponentEnabledSetting",
+    "submitted": "2022-12-06 20:24:15.000000000",
+    "created": "2022-09-26 13:35:26.000000000",
+    "aosp_reference": "platform/frameworks/base/+/658d63763f39a881459f4d44cced23066f1cb4c8",
+    "_number": "A-240936919"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~130662f0dd63c79b5029538ca3235db295d035d7",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
