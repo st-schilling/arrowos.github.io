@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~abcf4d33559754d0e297403ba21c12d9309f0518",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "abcf4d33559754d0e297403ba21c12d9309f0518",
+    "subject": "AOSP Security Updates December 2022: base: Validate package name passed to setApplicationRestrictions.",
+    "submitted": "2022-12-06 20:27:15.000000000",
+    "created": "2022-08-19 16:08:13.000000000",
+    "aosp_reference": "platform/frameworks/base/+/abcf4d33559754d0e297403ba21c12d9309f0518",
+    "_number": "A-239701237"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f65eb3bafc0b756d6d197f4afecf0e8d6a70534e",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
