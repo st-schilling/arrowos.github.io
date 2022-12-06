@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~62380ba9be4b354509d8b5fc518f59e43399d0da",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "62380ba9be4b354509d8b5fc518f59e43399d0da",
+    "subject": "AOSP Security Updates December 2022: base: Fix NPE",
+    "submitted": "2022-12-06 20:17:15.000000000",
+    "created": "2022-09-06 14:19:06.000000000",
+    "aosp_reference": "platform/frameworks/base/+/62380ba9be4b354509d8b5fc518f59e43399d0da",
+    "_number": "A-241764350, A-241764340, A-241764135, A-242702935, A-242703118, A-242703202, A-242702851, A-242703217, A-242703556"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~91a5d2df69a71aca158a2c50ac301fb90cfc6a12",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
