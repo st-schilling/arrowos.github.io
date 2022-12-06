@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Bluetooth~arrow-11.0~4be790424051fba71bbcc2c524ea1f7a4642ed0d",
+    "project": "ArrowOS/android_packages_apps_Bluetooth",
+    "branch": "arrow-11.0",
+    "change_id": "4be790424051fba71bbcc2c524ea1f7a4642ed0d",
+    "subject": "AOSP Security Updates December 2022: Bluetooth: Fix URI check in BluetoothOppUtility.java",
+    "submitted": "2022-12-06 21:01:19.000000000",
+    "created": "2022-09-28 23:30:49.000000000",
+    "aosp_reference": "platform/packages/apps/Bluetooth/+/4be790424051fba71bbcc2c524ea1f7a4642ed0d",
+    "_number": "A-225880741"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~71516aabfc5f27022cfe10a3716498893ff3590a",
     "project": "ArrowOS/android_packages_services_Telecomm",
     "branch": "arrow-11.0",
