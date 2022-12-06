@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~4abf5fc69e5c785856111958f4a498a4ec25f25d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "4abf5fc69e5c785856111958f4a498a4ec25f25d",
+    "subject": "AOSP Security Updates December 2022: base: [DO NOT MERGE] Update window with FLAG_SECURE when bouncer is showing",
+    "submitted": "2022-12-06 20:21:15.000000000",
+    "created": "2022-09-14 18:05:29.000000000",
+    "aosp_reference": "platform/frameworks/base/+/4abf5fc69e5c785856111958f4a498a4ec25f25d",
+    "_number": "A-215005011"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~fd7ba743b3052f40b91fb36f25e0965accef3749",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
