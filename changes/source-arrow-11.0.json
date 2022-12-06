@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~a1358b4649538fc83506b132248074807a9b0089",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "a1358b4649538fc83506b132248074807a9b0089",
+    "subject": "AOSP Security Updates December 2022: base: Revert \"Prevent non-admin users from deleting system apps.\"",
+    "submitted": "2022-12-06 20:03:15.000000000",
+    "created": "2022-09-07 21:10:05.000000000",
+    "aosp_reference": "platform/frameworks/base/+/a1358b4649538fc83506b132248074807a9b0089",
+    "_number": ""
+  },
+  {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~037d4aa0e5e1d516a84f02e8548817e2ba00e302",
     "project": "ArrowOS/android_hardware_nxp_nfc",
     "branch": "arrow-11.0",
