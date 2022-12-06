@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9b42ce714f4c613675e8e06c5634f4523b401783",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "9b42ce714f4c613675e8e06c5634f4523b401783",
+    "subject": "AOSP Security Updates December 2022: base: Include all enabled services when FEEDBACK_ALL_MASK.",
+    "submitted": "2022-12-06 20:14:15.000000000",
+    "created": "2022-09-01 17:14:24.000000000",
+    "aosp_reference": "platform/frameworks/base/+/9b42ce714f4c613675e8e06c5634f4523b401783",
+    "_number": "A-243849844"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~02c05f689349cb301e8fa6c71c830e16c49d773d",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
