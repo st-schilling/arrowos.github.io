@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~a28eabcbd57cd9b7db3f9dace3184203bea6c143",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "a28eabcbd57cd9b7db3f9dace3184203bea6c143",
+    "subject": "AOSP Security Updates December 2022: Settings: Prevent exfiltration of system files via avatar picker.",
+    "submitted": "2022-12-06 21:15:19.000000000",
+    "created": "2022-08-26 17:29:16.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/a28eabcbd57cd9b7db3f9dace3184203bea6c143",
+    "_number": "A-187702830"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~03e65dc06ee489e5e28f5f711d3e99aa97207ecb",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
