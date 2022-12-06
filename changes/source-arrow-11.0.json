@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f65eb3bafc0b756d6d197f4afecf0e8d6a70534e",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "f65eb3bafc0b756d6d197f4afecf0e8d6a70534e",
+    "subject": "AOSP Security Updates December 2022: base: Add safety checks on KEY_INTENT mismatch.",
+    "submitted": "2022-12-06 20:26:15.000000000",
+    "created": "2022-10-04 21:13:06.000000000",
+    "aosp_reference": "platform/frameworks/base/+/f65eb3bafc0b756d6d197f4afecf0e8d6a70534e",
+    "_number": "A-250588548, A-240138294"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~658d63763f39a881459f4d44cced23066f1cb4c8",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
