@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~130662f0dd63c79b5029538ca3235db295d035d7",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "130662f0dd63c79b5029538ca3235db295d035d7",
+    "subject": "AOSP Security Updates December 2022: base: [Do Not Merge] Ignore malformed shortcuts",
+    "submitted": "2022-12-06 20:22:15.000000000",
+    "created": "2022-09-21 23:06:31.000000000",
+    "aosp_reference": "platform/frameworks/base/+/130662f0dd63c79b5029538ca3235db295d035d7",
+    "_number": "A-246540168"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~4abf5fc69e5c785856111958f4a498a4ec25f25d",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
