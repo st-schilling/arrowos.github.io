@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~f947be7fa0d5e58a1f5db499996d0abe617f937b",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "f947be7fa0d5e58a1f5db499996d0abe617f937b",
+    "subject": "AOSP Security Updates December 2022: native: SurfaceFlinger: Implement drop input modes",
+    "submitted": "2022-12-11 18:48:53.000000000",
+    "created": "2022-02-08 02:53:27.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/f947be7fa0d5e58a1f5db499996d0abe617f937b",
+    "_number": "A-197296414"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~b8c1281e7f84392defc3a0015927f0f8054eb37a",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
