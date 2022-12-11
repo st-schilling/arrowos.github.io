@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~3a3c097fb70c513463fa4b249dc1ed1fe1b3ae85",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "3a3c097fb70c513463fa4b249dc1ed1fe1b3ae85",
+    "subject": "AOSP Security Updates December 2022: native: Change InputWindowInfo::isTrustedOverlay() to be permission and flag based.",
+    "submitted": "2022-12-11 18:35:53.000000000",
+    "created": "2022-05-10 02:20:32.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/3a3c097fb70c513463fa4b249dc1ed1fe1b3ae85",
+    "_number": "A-155781676, A-196389741"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~a28eabcbd57cd9b7db3f9dace3184203bea6c143",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
