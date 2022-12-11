@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_providers_MediaProvider~arrow-11.0~435643fc9aef7217ed2331bd3779bc9c05b9096c",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "435643fc9aef7217ed2331bd3779bc9c05b9096c",
+    "subject": "AOSP Security Updates December 2022: MediaProvider: isDataOrObbPath blocks access to Android/[data|obb] dirs only",
+    "submitted": "2022-12-11 18:53:53.000000000",
+    "created": "2022-06-15 16:01:29.000000000",
+    "aosp_reference": "platform/packages/providers/MediaProvider/+/435643fc9aef7217ed2331bd3779bc9c05b9096c",
+    "_number": "A-201667614"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~f947be7fa0d5e58a1f5db499996d0abe617f937b",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
