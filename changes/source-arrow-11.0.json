@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~5be28bb5a71c51737f32e85372b5d95ec62c6edc",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "5be28bb5a71c51737f32e85372b5d95ec62c6edc",
+    "subject": "AOSP Security Updates December 2022: native: SurfaceControl: Add setDropInputMode api",
+    "submitted": "2022-12-11 18:44:53.000000000",
+    "created": "2022-01-27 02:20:46.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/5be28bb5a71c51737f32e85372b5d95ec62c6edc",
+    "_number": "A-197296414"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~ed9f09b785d524586be9d405c7ad5527345e2cfd",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
