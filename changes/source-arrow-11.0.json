@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~ed9f09b785d524586be9d405c7ad5527345e2cfd",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "ed9f09b785d524586be9d405c7ad5527345e2cfd",
+    "subject": "AOSP Security Updates December 2022: native: DO NOT MERGE Initialize DrawingState::trustedOverlay to false in constructor",
+    "submitted": "2022-12-11 18:39:53.000000000",
+    "created": "2022-09-10 12:03:42.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/ed9f09b785d524586be9d405c7ad5527345e2cfd",
+    "_number": "A-199483370, A-196389741"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~2495fc8c2eacc60e61b81f014e546adeab6c9bf2",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
