@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0b4cfaca78dfadd546adc47cbcbcdde5425cf17a",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "0b4cfaca78dfadd546adc47cbcbcdde5425cf17a",
+    "subject": "AOSP Security Updates January 2023: base: Fix sharing to another profile where an app has multiple targets",
+    "submitted": "2023-01-08 19:55:30.000000000",
+    "created": "2022-10-11 13:20:52.000000000",
+    "aosp_reference": "platform/frameworks/base/+/0b4cfaca78dfadd546adc47cbcbcdde5425cf17a",
+    "_number": "242165528, 244876518, 242605257"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~c7448431320eddc1eb891cd91767a3b285237def",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
