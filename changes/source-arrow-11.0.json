@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~c7b91052a00edbfb7182db549644ab9e159aa38e",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "c7b91052a00edbfb7182db549644ab9e159aa38e",
+    "subject": "AOSP Security Updates January 2023: base: [RESTRICT AUTOMERGE] [SettingsProvider] mem limit should be checked before settings are updated",
+    "submitted": "2023-01-08 19:46:30.000000000",
+    "created": "2022-08-17 16:37:18.000000000",
+    "aosp_reference": "platform/frameworks/base/+/c7b91052a00edbfb7182db549644ab9e159aa38e",
+    "_number": "239415861"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~3c4bf2609ee8196d47717b2e133189ba3da4657f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
