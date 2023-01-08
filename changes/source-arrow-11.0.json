@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~b5f3ac735cd3b3ffae64ab01d462c4b2b61bd293",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "b5f3ac735cd3b3ffae64ab01d462c4b2b61bd293",
+    "subject": "AOSP Security Updates January 2023: base: Limit lengths of fields in Condition to a max length.",
+    "submitted": "2023-01-08 19:38:30.000000000",
+    "created": "2022-09-13 16:53:19.000000000",
+    "aosp_reference": "platform/frameworks/base/+/b5f3ac735cd3b3ffae64ab01d462c4b2b61bd293",
+    "_number": "242846316"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_providers_MediaProvider~arrow-11.0~435643fc9aef7217ed2331bd3779bc9c05b9096c",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
