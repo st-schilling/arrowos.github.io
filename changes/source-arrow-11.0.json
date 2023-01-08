@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~2bec3dee6fcf49a41fde6654443107f37129c53d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "2bec3dee6fcf49a41fde6654443107f37129c53d",
+    "subject": "AOSP Security Updates January 2023: base: Disable all A11yServices from an uninstalled package.",
+    "submitted": "2023-01-08 19:43:30.000000000",
+    "created": "2022-10-05 23:28:20.000000000",
+    "aosp_reference": "platform/frameworks/base/+/2bec3dee6fcf49a41fde6654443107f37129c53d",
+    "_number": "243378132"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9bdd9d274ac4ce77c0e8d649141ceea115b1ddbe",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
