@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~fa2f239962f4151f2e0251f1db01a9760100b7c5",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "fa2f239962f4151f2e0251f1db01a9760100b7c5",
+    "subject": "AOSP Security Updates January 2023: base: RESTRICT AUTOMERGE Revoke SYSTEM_ALERT_WINDOW on upgrade past api 23",
+    "submitted": "2023-01-08 19:52:30.000000000",
+    "created": "2022-09-23 19:04:57.000000000",
+    "aosp_reference": "platform/frameworks/base/+/fa2f239962f4151f2e0251f1db01a9760100b7c5",
+    "_number": "221040577"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~4565e99d60f668a5a7b7c53c297de045efe47746",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
