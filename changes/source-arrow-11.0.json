@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9241dff5aa879c99d071e216ff526d65dace9c5f",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "9241dff5aa879c99d071e216ff526d65dace9c5f",
+    "subject": "AOSP Security Updates January 2023: base: [RESTRICT AUTOMERGE][SettingsProvider] key size limit for mutating settings",
+    "submitted": "2023-01-08 19:49:30.000000000",
+    "created": "2022-10-12 01:08:11.000000000",
+    "aosp_reference": "platform/frameworks/base/+/9241dff5aa879c99d071e216ff526d65dace9c5f",
+    "_number": "239415997"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~84d5d81a3ae71155c3796ea9440ddf8df9290f29",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
