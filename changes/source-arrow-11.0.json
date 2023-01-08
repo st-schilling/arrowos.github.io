@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~3c4bf2609ee8196d47717b2e133189ba3da4657f",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "3c4bf2609ee8196d47717b2e133189ba3da4657f",
+    "subject": "AOSP Security Updates January 2023: base: [DO NOT MERGE] Fix conditionId string trimming in AutomaticZenRule",
+    "submitted": "2023-01-08 19:45:30.000000000",
+    "created": "2022-10-12 14:27:46.000000000",
+    "aosp_reference": "platform/frameworks/base/+/3c4bf2609ee8196d47717b2e133189ba3da4657f",
+    "_number": "253085433, 242703460, 242703505, 242703780, 242704043, 243794204"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~2bec3dee6fcf49a41fde6654443107f37129c53d",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
