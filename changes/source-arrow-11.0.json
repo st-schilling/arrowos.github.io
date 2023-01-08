@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9bdd9d274ac4ce77c0e8d649141ceea115b1ddbe",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "9bdd9d274ac4ce77c0e8d649141ceea115b1ddbe",
+    "subject": "AOSP Security Updates January 2023: base: Limit length and number of MIME types you can set",
+    "submitted": "2023-01-08 19:41:30.000000000",
+    "created": "2022-08-05 20:25:27.000000000",
+    "aosp_reference": "platform/frameworks/base/+/9bdd9d274ac4ce77c0e8d649141ceea115b1ddbe",
+    "_number": "237291548"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~b5f3ac735cd3b3ffae64ab01d462c4b2b61bd293",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
