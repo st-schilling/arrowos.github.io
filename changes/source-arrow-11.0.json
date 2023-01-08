@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_services_Telephony~arrow-11.0~fa8a19314a41a06f48dfef090cc09c173201e050",
+    "project": "ArrowOS/android_packages_services_Telephony",
+    "branch": "arrow-11.0",
+    "change_id": "44251c9573ba3a84538b2654f64d411a7ef2f255",
+    "subject": "AOSP Security Updates January 2023: Telephony: prevent overlays on the phone settings",
+    "submitted": "2023-01-08 20:06:30.000000000",
+    "created": "2022-09-28 16:40:14.000000000",
+    "aosp_reference": "packages/services/Telephony/+/fa8a19314a41a06f48dfef090cc09c173201e050",
+    "_number": "246933785"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~44251c9573ba3a84538b2654f64d411a7ef2f255",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
