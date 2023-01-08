@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~c7448431320eddc1eb891cd91767a3b285237def",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "c7448431320eddc1eb891cd91767a3b285237def",
+    "subject": "AOSP Security Updates January 2023: base: Add protections against queueing a UsbRequest when the underlying UsbDeviceConnection is closed.",
+    "submitted": "2023-01-08 19:53:30.000000000",
+    "created": "2022-09-24 01:05:39.000000000",
+    "aosp_reference": "platform/frameworks/base/+/c7448431320eddc1eb891cd91767a3b285237def",
+    "_number": "204584366"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~fa2f239962f4151f2e0251f1db01a9760100b7c5",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
