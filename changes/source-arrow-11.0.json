@@ -1,7 +1,18 @@
 [
   {
+    "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~af2d14b01c32d7cba65f73503586e5b621afb139",
+    "project": "ArrowOS/android_kernel_motorola_sanders",
+    "branch": "arrow-11.0",
+    "change_id": "af2d14b01c32d7cba65f73503586e5b621afb139",
+    "subject": "AOSP Security Updates January 2023: kernel-common: mac80211: Beacon protection using the new BIGTK (STA)",
+    "submitted": "2023-01-18 17:55:19.000000000",
+    "created": "2020-02-22 13:25:47.000000000",
+    "aosp_reference": "https://android.googlesource.com/kernel/common/+/af2d14b01c32d7cba65f73503586e5b621afb139%5E%21/",
+    "_number": ""
+  },
+  {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~fff244e9171b2ca692469d41c68b36607bd73ab0",
-    "project": "ArrowOS/android_hardware_nxp_nfc",
+    "project": "ArrowOS/android_kernel_motorola_sanders",
     "branch": "arrow-11.0",
     "change_id": "fff244e9171b2ca692469d41c68b36607bd73ab0",
     "subject": "AOSP Security Updates January 2023: kernel-common: wifi: mac80211_hwsim: avoid mac80211 warning on bad rate",
@@ -463,7 +474,7 @@
   },
   {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~037d4aa0e5e1d516a84f02e8548817e2ba00e302",
-    "project": "ArrowOS/android_hardware_nxp_nfc",
+    "project": "ArrowOS/android_kernel_motorola_sanders",
     "branch": "arrow-11.0",
     "change_id": "c9b3b88b767cca85fe504289edf31eb1599c21f4",
     "subject": "AOSP Security Updates November 2022: msm-3.18: kgsl: Fix gpuaddr_in_range() to check upper bound",
@@ -474,7 +485,7 @@
   },
   {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~a9aa5609802cffb0c7b5918c47dc56b06e7df068",
-    "project": "ArrowOS/android_hardware_nxp_nfc",
+    "project": "ArrowOS/android_kernel_motorola_sanders",
     "branch": "arrow-11.0",
     "change_id": "Id5eec16588d64e4e28483b32bb52d4d3d9b86b99",
     "subject": "AOSP Security Updates November 2022: msm-3.18: kgsl: Remove 'fd' dependency to get dma_buf handle",
