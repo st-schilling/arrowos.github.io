@@ -1,5 +1,16 @@
 [
   {
+    "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~630060f1175676b9cb3a032767f20dbce93616c9",
+    "project": "ArrowOS/android_kernel_motorola_sanders",
+    "branch": "arrow-11.0",
+    "change_id": "630060f1175676b9cb3a032767f20dbce93616c9",
+    "subject": "AOSP Security Updates January 2023: kernel-common: mac80211: mlme: find auth challenge directly",
+    "submitted": "2023-01-18 18:33:19.000000000",
+    "created": "2022-10-13 18:15:58.000000000",
+    "aosp_reference": "https://android.googlesource.com/kernel/common/+/630060f117567%5E%21/",
+    "_number": "A-253642087"
+  },
+  {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~864f2d3482f4bd0c62b355e35ee8300be8ef488e",
     "project": "ArrowOS/android_kernel_motorola_sanders",
     "branch": "arrow-11.0",
@@ -8,7 +19,7 @@
     "submitted": "2023-01-18 18:20:19.000000000",
     "created": "2022-10-13 18:15:56.000000000",
     "aosp_reference": "https://android.googlesource.com/kernel/common/+/864f2d3482f4b%5E%21/",
-    "_number": ""
+    "_number": "A-253642087"
   },
   {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~93a3a32554079432b49cf87f326607b2a2fab4f2",
@@ -19,7 +30,7 @@
     "submitted": "2023-01-18 18:01:19.000000000",
     "created": "2022-10-05 19:24:10.000000000",
     "aosp_reference": "https://android.googlesource.com/kernel/common/+/93a3a32554079",
-    "_number": "CVE-2022-42722"
+    "_number": "CVE-2022-42722 / A-253642087"
   },
   {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~af2d14b01c32d7cba65f73503586e5b621afb139",
@@ -30,7 +41,7 @@
     "submitted": "2023-01-18 17:55:19.000000000",
     "created": "2020-02-22 13:25:47.000000000",
     "aosp_reference": "https://android.googlesource.com/kernel/common/+/af2d14b01c32d7cba65f73503586e5b621afb139%5E%21/",
-    "_number": ""
+    "_number": "A-253642087"
   },
   {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~fff244e9171b2ca692469d41c68b36607bd73ab0",
@@ -41,7 +52,7 @@
     "submitted": "2023-01-18 17:47:19.000000000",
     "created": "2022-10-05 05:59:03.000000000",
     "aosp_reference": "https://android.googlesource.com/kernel/common/+/fff244e9171b2%5E%21/",
-    "_number": ""
+    "_number": "A-253642087"
   },
   {
     "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~b0800084a335389b1a80976c29f0841904420854",
