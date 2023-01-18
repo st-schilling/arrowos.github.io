@@ -1,5 +1,16 @@
 [
   {
+    "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~fff244e9171b2ca692469d41c68b36607bd73ab0",
+    "project": "ArrowOS/android_hardware_nxp_nfc",
+    "branch": "arrow-11.0",
+    "change_id": "fff244e9171b2ca692469d41c68b36607bd73ab0",
+    "subject": "AOSP Security Updates January 2023: kernel-common: wifi: mac80211_hwsim: avoid mac80211 warning on bad rate",
+    "submitted": "2023-01-18 17:47:19.000000000",
+    "created": "2022-10-05 05:59:03.000000000",
+    "aosp_reference": "https://android.googlesource.com/kernel/common/+/fff244e9171b2%5E%21/",
+    "_number": ""
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~b0800084a335389b1a80976c29f0841904420854",
     "project": "ArrowOS/android_packages_services_Telecomm",
     "branch": "arrow-11.0",
