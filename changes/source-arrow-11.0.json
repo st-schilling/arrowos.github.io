@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_external_expat~arrow-11.0~1c67edf168725bc3be8a84336636533932a98c92",
+    "project": "ArrowOS/android_external_expat",
+    "branch": "arrow-11.0",
+    "change_id": "1c67edf168725bc3be8a84336636533932a98c92",
+    "subject": "AOSP Security Updates February 2023: expat: [CVE-2022-43680] Fix overeager DTD destruction (fixes #649)",
+    "submitted": "2023-02-11 21:47:30.000000000",
+    "created": "2022-11-16 16:31:05.000000000",
+    "aosp_reference": "platform/external/expat/+/1c67edf168725bc3be8a84336636533932a98c92",
+    "_number": "255449293"
+  },
+  {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~630060f1175676b9cb3a032767f20dbce93616c9",
     "project": "ArrowOS/android_kernel_motorola_sanders",
     "branch": "arrow-11.0",
