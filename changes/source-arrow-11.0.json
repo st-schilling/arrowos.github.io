@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~ad688aaa1563f0d1d33af735d98d84c8af254838",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "ad688aaa1563f0d1d33af735d98d84c8af254838",
+    "subject": "AOSP Security Updates February 2023: av: Removes unnecessary permission from the EmergencyInfo app.",
+    "submitted": "2023-02-11 22:04:15.000000000",
+    "created": "2022-12-06 14:26:10.000000000",
+    "aosp_reference": "platform/frameworks/av/+/ad688aaa1563f0d1d33af735d98d84c8af254838",
+    "_number": "A-248251018, A-252995513"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~16477d416676b4ac7566e5274dfc91cb37f31a7a",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
