@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~59e043792e922ee6b568384126a88163a4e3adc8",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "59e043792e922ee6b568384126a88163a4e3adc8",
+    "subject": "AOSP Security Updates February 2023: Settings: RESTRICT AUTOMERGE Make bluetooth switch not discoverable via SliceDeepLinkTrampoline",
+    "submitted": "2023-02-11 22:16:53.000000000",
+    "created": "2022-11-07 07:58:14.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/59e043792e922ee6b568384126a88163a4e3adc8",
+    "_number": "A-244423101"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~918105e09e1615b2211cdfbc14e9825feb02cd21",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
