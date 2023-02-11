@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~81d990e5dfdf7dec9aa779bde2da882440afcba0",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "81d990e5dfdf7dec9aa779bde2da882440afcba0",
+    "subject": "AOSP Security Updates February 2023: base: [DO NOT MERGE] Revert \"Check rule package name in ZenModeHelper.addAutomaticRule\"",
+    "submitted": "2023-02-11 21:57:30.000000000",
+    "created": "2022-11-07 19:06:17.000000000",
+    "aosp_reference": "platform/frameworks/base/+/81d990e5dfdf7dec9aa779bde2da882440afcba0",
+    "_number": ""
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~b6e0938e41a8e1ca81eba232ec17aed27090c1d2",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
