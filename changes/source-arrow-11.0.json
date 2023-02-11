@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~96506febe56903080321df3597e4f91bb74ae96a",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "96506febe56903080321df3597e4f91bb74ae96a",
+    "subject": "AOSP Security Updates February 2023: base: [RESTRICT AUTOMERGE] Correct the behavior of ACTION_PACKAGE_DATA_CLEARED",
+    "submitted": "2023-02-11 21:59:30.000000000",
+    "created": "2022-10-25 07:01:33.000000000",
+    "aosp_reference": "platform/frameworks/base/+/96506febe56903080321df3597e4f91bb74ae96a",
+    "_number": "A-240267890"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d13e5ffaf76ec86fa3341a257b23b738da5cd628",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
