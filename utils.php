@@ -70,7 +70,7 @@ function compareByTimeStamp($time1, $time2)
 function fetch_changes($url, $gerrit_changelog) {
     $changeLog = array();
     $changes = file_get_contents($url);
-    $changes = json_decode(preg_replace('/^.+\n/', '', $changes));
+    $changes = json_decode(preg_replace('/\n/', '', $changes));
 
     foreach($changes as $change) {
         $changeDate = explode(" ", $change->submitted)[0];
