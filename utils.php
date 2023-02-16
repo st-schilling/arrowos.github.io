@@ -59,12 +59,13 @@ if (isset($_POST['url'])) {
 
 function compareByTimeStamp($time1, $time2)
 {
-    if (strtotime($time1) < strtotime($time2))
+    if (strtotime($time1) < strtotime($time2)) {
         return 1;
-    else if (strtotime($time1) > strtotime($time2))
+    } else if (strtotime($time1) > strtotime($time2)) {
         return -1;
-    else
+    } else {
         return 0;
+    }
 }
 
 function fetch_changes($url, $gerrit_changelog) {
@@ -104,9 +105,11 @@ function fetch_gerrit_changes($branch) {
 }
 
 if (isset($_POST['gerrit_changelog']) && $_POST['gerrit_changelog'] == 'yes'
-        && isset($_POST['version']))
+        && isset($_POST['version'])) {
     exit(json_encode(fetch_gerrit_changes($_POST['version'])));
+}
 
 if (isset($_POST['gerrit_changelog']) && $_POST['gerrit_changelog'] == 'no'
-        && isset($_POST['version']))
+        && isset($_POST['version'])) {
     exit(json_encode(fetch_fixed_changes($_POST['version'])));
+}
