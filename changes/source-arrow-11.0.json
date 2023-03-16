@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~bc9579357ea9ae2fd1561e40768ebfd711fba4b2",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "bc9579357ea9ae2fd1561e40768ebfd711fba4b2",
+    "subject": "AOSP Security Updates March 2023: base: Revert \"Prevent apps from spamming addAccountExplicitly.\"",
+    "submitted": "2023-03-16 20:10:17.000000000",
+    "created": "2022-12-15 19:42:34.000000000",
+    "aosp_reference": "platform/frameworks/base/+/bc9579357ea9ae2fd1561e40768ebfd711fba4b2",
+    "_number": ""
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~462de7cd78df3aeb95dc7df246fccbd910b8422e",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
