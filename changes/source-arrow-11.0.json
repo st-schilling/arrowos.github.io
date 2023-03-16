@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~5ecf4ef2d651a432c655d7fb0368c28df2607f85",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "5ecf4ef2d651a432c655d7fb0368c28df2607f85",
+    "subject": "AOSP Security Updates March 2023: Settings: Add DISALLOW_APPS_CONTROL check into uninstall app for all users",
+    "submitted": "2023-03-16 20:37:53.000000000",
+    "created": "2023-01-04 09:40:38.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/5ecf4ef2d651a432c655d7fb0368c28df2607f85",
+    "_number": "A-258653813"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~db1a54dd7def054f93a5a05aaf0dec51885b9825",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
