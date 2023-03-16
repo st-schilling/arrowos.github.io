@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "subject": "AOSP Security Updates March 2023: base: RESTRICT AUTOMERGE Revoke dev perm if app is upgrading to post 23 and perm has pre23 flag",
+    "submitted": "2023-03-16 20:22:17.000000000",
+    "created": "2022-12-02 15:44:31.000000000",
+    "aosp_reference": "platform/frameworks/base/+/089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "_number": "A-259458532"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~523926b137a69b3a12da18b66dfd24afbf00f445",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
