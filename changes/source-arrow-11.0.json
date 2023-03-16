@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0340c219c094cbd0a07600eac471cfeeaceba60e",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "0340c219c094cbd0a07600eac471cfeeaceba60e",
+    "subject": "AOSP Security Updates March 2023: base: Move service initialization",
+    "submitted": "2023-03-16 20:17:37.000000000",
+    "created": "2022-05-16 19:28:24.000000000",
+    "aosp_reference": "platform/frameworks/base/+/0340c219c094cbd0a07600eac471cfeeaceba60e",
+    "_number": "A-232714129"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~27baffc4dd00c90863662b62e587c9dbf027e747",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
