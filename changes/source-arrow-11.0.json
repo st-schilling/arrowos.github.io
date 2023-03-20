@@ -1,5 +1,148 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~5ecf4ef2d651a432c655d7fb0368c28df2607f85",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "5ecf4ef2d651a432c655d7fb0368c28df2607f85",
+    "subject": "AOSP Security Updates March 2023: Settings: Add DISALLOW_APPS_CONTROL check into uninstall app for all users",
+    "submitted": "2023-03-16 20:37:53.000000000",
+    "created": "2023-01-04 09:40:38.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/5ecf4ef2d651a432c655d7fb0368c28df2607f85",
+    "_number": "A-258653813"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~db1a54dd7def054f93a5a05aaf0dec51885b9825",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "db1a54dd7def054f93a5a05aaf0dec51885b9825",
+    "subject": "AOSP Security Updates March 2023: Settings: [DO NOT MERGE] FRP bypass defense in the settings app",
+    "submitted": "2023-03-16 20:35:53.000000000",
+    "created": "2023-01-04 02:25:04.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/db1a54dd7def054f93a5a05aaf0dec51885b9825",
+    "_number": "A-258422561, A-200746457, A-202975040, A-213091525, A-213090835, A-201561699, A-213090827, A-213090875"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "subject": "AOSP Security Updates March 2023: base: Revert \"Ensure that only SysUI can override pending intent launch flags\"",
+    "submitted": "2023-03-16 20:24:17.000000000",
+    "created": "2023-01-11 18:58:41.000000000",
+    "aosp_reference": "platform/frameworks/base/+/089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "_number": "A-264884187, A-264885689"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "subject": "AOSP Security Updates March 2023: base: Reconcile WorkSource parcel and unparcel code.",
+    "submitted": "2023-03-16 20:23:17.000000000",
+    "created": "2022-09-26 20:37:33.000000000",
+    "aosp_reference": "platform/frameworks/base/+/089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "_number": "A-220302519"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "subject": "AOSP Security Updates March 2023: base: RESTRICT AUTOMERGE Revoke dev perm if app is upgrading to post 23 and perm has pre23 flag",
+    "submitted": "2023-03-16 20:22:17.000000000",
+    "created": "2022-12-02 15:44:31.000000000",
+    "aosp_reference": "platform/frameworks/base/+/089ac9d53d45cf195b80ce629d850b6467f68f63",
+    "_number": "A-259458532"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~523926b137a69b3a12da18b66dfd24afbf00f445",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "523926b137a69b3a12da18b66dfd24afbf00f445",
+    "subject": "AOSP Security Updates March 2023: base: Enable user graularity for lockdown mode",
+    "submitted": "2023-03-16 20:20:17.000000000",
+    "created": "2022-08-30 18:09:46.000000000",
+    "aosp_reference": "platform/frameworks/base/+/523926b137a69b3a12da18b66dfd24afbf00f445",
+    "_number": "A-173721373, A-250743174"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0340c219c094cbd0a07600eac471cfeeaceba60e",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "0340c219c094cbd0a07600eac471cfeeaceba60e",
+    "subject": "AOSP Security Updates March 2023: base: Stop managed profile owner granting READ_SMS",
+    "submitted": "2023-03-16 20:19:37.000000000",
+    "created": "2021-10-05 11:44:37.000000000",
+    "aosp_reference": "platform/frameworks/base/+/0340c219c094cbd0a07600eac471cfeeaceba60e",
+    "_number": "A-194382185, A-189942529"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0340c219c094cbd0a07600eac471cfeeaceba60e",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "0340c219c094cbd0a07600eac471cfeeaceba60e",
+    "subject": "AOSP Security Updates March 2023: base: Move service initialization",
+    "submitted": "2023-03-16 20:17:37.000000000",
+    "created": "2022-05-16 19:28:24.000000000",
+    "aosp_reference": "platform/frameworks/base/+/0340c219c094cbd0a07600eac471cfeeaceba60e",
+    "_number": "A-232714129"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~27baffc4dd00c90863662b62e587c9dbf027e747",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "27baffc4dd00c90863662b62e587c9dbf027e747",
+    "subject": "AOSP Security Updates March 2023: base: Revert \"[RESTRICT AUTOMERGE] Trim the activity info of another uid if no privilege\"",
+    "submitted": "2023-03-16 20:16:17.000000000",
+    "created": "2023-01-04 05:37:37.000000000",
+    "aosp_reference": "platform/frameworks/base/+/27baffc4dd00c90863662b62e587c9dbf027e747",
+    "_number": "A-264269392, A-263434196, A-263438172"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~8a04e7a8b5655776704fa23c5f5e94f018be01ae",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "8a04e7a8b5655776704fa23c5f5e94f018be01ae",
+    "subject": "AOSP Security Updates March 2023: base: DO NOT MERGE - Move accountname and typeName length check from Account.java to AccountManagerService.",
+    "submitted": "2023-03-16 20:14:17.000000000",
+    "created": "2022-03-16 20:55:33.000000000",
+    "aosp_reference": "platform/frameworks/base/+/8a04e7a8b5655776704fa23c5f5e94f018be01ae",
+    "_number": "A-169762606"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~1189db7ab87fff48129d9f9454b9f5cd408e4f01",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "1189db7ab87fff48129d9f9454b9f5cd408e4f01",
+    "subject": "AOSP Security Updates March 2023: base: Prevent apps from spamming addAccountExplicitly.",
+    "submitted": "2023-03-16 20:12:17.000000000",
+    "created": "2021-05-17 09:25:03.000000000",
+    "aosp_reference": "platform/frameworks/base/+/1189db7ab87fff48129d9f9454b9f5cd408e4f01",
+    "_number": "A-169762606"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~bc9579357ea9ae2fd1561e40768ebfd711fba4b2",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "bc9579357ea9ae2fd1561e40768ebfd711fba4b2",
+    "subject": "AOSP Security Updates March 2023: base: Revert \"Prevent apps from spamming addAccountExplicitly.\"",
+    "submitted": "2023-03-16 20:10:17.000000000",
+    "created": "2022-12-15 19:42:34.000000000",
+    "aosp_reference": "platform/frameworks/base/+/bc9579357ea9ae2fd1561e40768ebfd711fba4b2",
+    "_number": ""
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~462de7cd78df3aeb95dc7df246fccbd910b8422e",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "462de7cd78df3aeb95dc7df246fccbd910b8422e",
+    "subject": "AOSP Security Updates March 2023: base: Revert \"DO NOT MERGE\"",
+    "submitted": "2023-03-16 20:08:17.000000000",
+    "created": "2022-12-15 19:42:45.000000000",
+    "aosp_reference": "platform/frameworks/base/+/462de7cd78df3aeb95dc7df246fccbd910b8422e",
+    "_number": "A-262757901"
+  },
+  {
     "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~ce3aba43599f0b50adbebff133df8d08a3d5fffe",
     "project": "ArrowOS/android_kernel_motorola_sanders",
     "branch": "arrow-11.0",
