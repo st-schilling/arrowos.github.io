@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~da48d572bbd285a6d66fa09beefea13745551419",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "da48d572bbd285a6d66fa09beefea13745551419",
+    "subject": "AOSP Security Updates April 2023: base: Checking if package belongs to UID before registering broadcast receiver",
+    "submitted": "2023-04-15 10:04:17.000000000",
+    "created": "2022-11-07 23:33:55.000000000",
+    "aosp_reference": "platform/frameworks/base/+/da48d572bbd285a6d66fa09beefea13745551419",
+    "_number": "A-242040055"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~1861b25a2481dc606107aec1e328cfc2f6c1e2d8",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
