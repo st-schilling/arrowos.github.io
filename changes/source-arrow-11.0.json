@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_hardware_nxp_nfc~arrow-11.0~72cebdb79a85b58a7b85fb6989cac11e8a7fdd79",
+    "project": "ArrowOS/android_hardware_nxp_nfc",
+    "branch": "arrow-11.0",
+    "change_id": "72cebdb79a85b58a7b85fb6989cac11e8a7fdd79",
+    "subject": "AOSP Security Updates April 2023: nfc: OOBR in NxpMfcReader::SendIncDecRestoreCmdPart2",
+    "submitted": "2023-04-15 10:46:53.000000000",
+    "created": "2022-09-19 14:30:11.000000000",
+    "aosp_reference": "platform/hardware/nxp/nfc/+/72cebdb79a85b58a7b85fb6989cac11e8a7fdd79",
+    "_number": "A-238177877"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_providers_MediaProvider~arrow-11.0~797621ad93ef96064eb603366f3dc37716f39f2d",
     "project": "ArrowOS/android_packages_providers_MediaProvider",
     "branch": "arrow-11.0",
