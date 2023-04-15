@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f36870d8c7f131b86b9ea33f0df874f337b87d54",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "f36870d8c7f131b86b9ea33f0df874f337b87d54",
+    "subject": "AOSP Security Updates April 2023: base: Add a limit on channel group creation",
+    "submitted": "2023-04-15 10:17:17.000000000",
+    "created": "2022-01-18 16:59:54.000000000",
+    "aosp_reference": "platform/frameworks/base/+/f36870d8c7f131b86b9ea33f0df874f337b87d54",
+    "_number": "A-210114537, A-261723753"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~20fc1c7244cdf840e4a6cbfa71904b4d608bb093",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
