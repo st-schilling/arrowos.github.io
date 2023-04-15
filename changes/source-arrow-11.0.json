@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~138444be4f0b3b635392c7627ea11f6976bc9364",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "138444be4f0b3b635392c7627ea11f6976bc9364",
+    "subject": "AOSP Security Updates April 2023: base: [RESTRICT AUTOMERGE] Fix bypass BG-FGS and BAL via package manager APIs",
+    "submitted": "2023-04-15 10:19:17.000000000",
+    "created": "2023-01-11 08:02:27.000000000",
+    "aosp_reference": "platform/frameworks/base/+/138444be4f0b3b635392c7627ea11f6976bc9364",
+    "_number": "A-230492955, A-243377226"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f36870d8c7f131b86b9ea33f0df874f337b87d54",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
