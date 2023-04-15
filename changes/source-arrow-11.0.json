@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~d686fc84dae6a2674f4dec580531e5bb00c72b22",
+    "project": "ArrowOS/android_frameworks_native",
+    "branch": "arrow-11.0",
+    "change_id": "d686fc84dae6a2674f4dec580531e5bb00c72b22",
+    "subject": "AOSP Security Updates April 2023: native: Mitigate the security vulnerability by sanitizing the transaction flags.",
+    "submitted": "2023-04-15 10:25:53.000000000",
+    "created": "2022-10-05 18:42:30.000000000",
+    "aosp_reference": "platform/frameworks/native/+/d686fc84dae6a2674f4dec580531e5bb00c72b22",
+    "_number": "A-248031255"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~afe427ae74a08eef3911b40893fcd8feeba1334b",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
