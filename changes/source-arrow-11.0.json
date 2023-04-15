@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~ae40454bc7586893e16e15955e3d078ce70f8d80",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "ae40454bc7586893e16e15955e3d078ce70f8d80",
+    "subject": "AOSP Security Updates April 2023: base: [RESTRICT AUTOMERGE] Trim the activity info of another uid if no privilege",
+    "submitted": "2023-04-15 09:58:17.000000000",
+    "created": "2022-09-28 06:46:29.000000000",
+    "aosp_reference": "platform/frameworks/base/+/ae40454bc7586893e16e15955e3d078ce70f8d80",
+    "_number": "A-243130512"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~5ecf4ef2d651a432c655d7fb0368c28df2607f85",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
