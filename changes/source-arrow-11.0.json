@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~390573bd85a2764f46f54195d9f830c42d5c4a14",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "390573bd85a2764f46f54195d9f830c42d5c4a14",
+    "subject": "AOSP Security Updates April 2023: base: Fix checkKeyIntentParceledCorrectly's bypass",
+    "submitted": "2023-04-15 10:06:17.000000000",
+    "created": "2022-12-12 15:49:16.000000000",
+    "aosp_reference": "platform/frameworks/base/+/390573bd85a2764f46f54195d9f830c42d5c4a14",
+    "_number": "A-260567867, A-262230405"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~da48d572bbd285a6d66fa09beefea13745551419",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
