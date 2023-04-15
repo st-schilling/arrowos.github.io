@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~edbb4977174eda519c646b42f2bf25af32ba6871",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "edbb4977174eda519c646b42f2bf25af32ba6871",
+    "subject": "AOSP Security Updates April 2023: Settings: Only primary user is allowed to control secure nfc",
+    "submitted": "2023-04-15 10:33:53.000000000",
+    "created": "2022-07-28 11:42:27.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/edbb4977174eda519c646b42f2bf25af32ba6871",
+    "_number": "A-238298970"
+  },
+  {
     "id": "ArrowOS%2Fandroid_system_nfc~arrow-11.0~09591ec257b3547348e0e3ba123523ea8361c84d",
     "project": "ArrowOS/android_system_nfc",
     "branch": "arrow-11.0",
