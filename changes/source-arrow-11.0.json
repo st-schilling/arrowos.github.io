@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~3f2d4360f50721deabbb8dfb4f50e873954d9d74",
+    "project": "ArrowOS/android_packages_services_Telecomm",
+    "branch": "arrow-11.0",
+    "change_id": "3f2d4360f50721deabbb8dfb4f50e873954d9d74",
+    "subject": "AOSP Security Updates April 2023: Telecomm: DO NOT MERGE do not process content uri in call Intents",
+    "submitted": "2023-04-15 11:00:53.000000000",
+    "created": "2022-12-04 17:46:34.000000000",
+    "aosp_reference": "platform/packages/services/Telecomm/+/3f2d4360f50721deabbb8dfb4f50e873954d9d74",
+    "_number": "A-257030107"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~60f4ee794adbac4950ab22b44c4630edf7239e12",
     "project": "ArrowOS/android_packages_services_Telecomm",
     "branch": "arrow-11.0",
