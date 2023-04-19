@@ -27,7 +27,7 @@ include_once('utils.php');
                 <div class="nav-wrapper ">
                     <ul class="right hide-on-med-and-down">
                         <li class="tab col s3"><a class="main-font white-text" href="index.html">Home</a></li>
-                        <li class="tab col s3"><a class="main-font white-text" href="/download">Download</a></li>
+                        <li class="tab col s3"><a class="main-font white-text" href="/download.php">Download</a></li>
                         <li class="tab col s3"><a class="main-font white-text" href="/changelog.php">Changelog</a></li>
                         <li class="tab col s3"><a class="main-font white-text"
                                                   href="https://github.com/arrowos">Source</a></li>
