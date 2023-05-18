@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~7ccc06acc62dc3758c2032a5b5f3eef35e041f04",
+    "project": "ArrowOS/android_frameworks_native",
+    "branch": "arrow-11.0",
+    "change_id": "7ccc06acc62dc3758c2032a5b5f3eef35e041f04",
+    "subject": "AOSP Security Updates May 2023: native: Remove some new memory leaks from SensorManager",
+    "submitted": "2023-05-17 15:53:53.000000000",
+    "created": "2023-02-17 19:35:25.000000000",
+    "aosp_reference": "platform/frameworks/native/+/7ccc06acc62dc3758c2032a5b5f3eef35e041f04",
+    "_number": "A-269014004"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~1c6ab30d93f52c18f3af9fedc0a9b1ef4f708ca6",
     "project": "ArrowOS/android_frameworks_native",
     "branch": "arrow-11.0",
