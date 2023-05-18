@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e14e61d2040c6659f1825fdff7b598b585431fad",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "e14e61d2040c6659f1825fdff7b598b585431fad",
+    "subject": "AOSP Security Updates May 2023: base: enforce stricter rules when registering phoneAccounts",
+    "submitted": "2023-05-18 15:35:17.000000000",
+    "created": "2023-03-09 04:01:05.000000000",
+    "aosp_reference": "platform/frameworks/base/+/e14e61d2040c6659f1825fdff7b598b585431fad",
+    "_number": "A-259064622, A-256819769"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~2f24979c13a345673016f86c4b4b3573f8e9b307",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
