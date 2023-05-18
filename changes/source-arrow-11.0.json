@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~9d83c4e09b2b0f0d221eeb93da29152099f727ac",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "9d83c4e09b2b0f0d221eeb93da29152099f727ac",
+    "subject": "AOSP Security Updates May 2023: Settings: [DO NO MERGE] Enforce INTERACT_ACROSS_USERS_FULL permission for NotificationAccessDetails",
+    "submitted": "2023-05-17 16:01:53.000000000",
+    "created": "2023-02-06 11:44:03.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/9d83c4e09b2b0f0d221eeb93da29152099f727ac",
+    "_number": "A-259385017"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~0e7353f11ee3609f22d574ce1c2beb82b40ed197",
     "project": "ArrowOS/android_frameworks_native",
     "branch": "arrow-11.0",
