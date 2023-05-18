@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~4b4b54584aba1c9c8a84739820b01e0af6b7de5d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "4b4b54584aba1c9c8a84739820b01e0af6b7de5d",
+    "subject": "AOSP Security Updates May 2023: base: Make Activites touch opaque - DO NOT MERGE",
+    "submitted": "2023-05-18 15:38:17.000000000",
+    "created": "2023-03-09 04:01:25.000000000",
+    "aosp_reference": "platform/frameworks/base/+/4b4b54584aba1c9c8a84739820b01e0af6b7de5d",
+    "_number": "A-194480991"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~5a289c50127e24c691bf5f97805591d4004c22fa",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
