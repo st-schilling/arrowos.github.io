@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~2f24979c13a345673016f86c4b4b3573f8e9b307",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "2f24979c13a345673016f86c4b4b3573f8e9b307",
+    "subject": "AOSP Security Updates May 2023: base: Uri: check authority and scheme as part of determining URI path",
+    "submitted": "2023-05-18 15:32:17.000000000",
+    "created": "2023-03-09 04:00:56.000000000",
+    "aosp_reference": "platform/frameworks/base/+/2f24979c13a345673016f86c4b4b3573f8e9b307",
+    "_number": "A-171966843"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~6c16762c254dbd987c6da7ff9cc4231f819fc281",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
