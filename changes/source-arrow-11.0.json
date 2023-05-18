@@ -1,10 +1,21 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~a9e568e7fbacf6f3854eda7ca742e3b0f332ea4d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "a9e568e7fbacf6f3854eda7ca742e3b0f332ea4d",
+    "subject": "AOSP Security Updates May 2023: base: [RESTRICT AUTOMERGE][pm] prevent system app downgrades of versions lower than preload",
+    "submitted": "2023-05-18 15:28:17.000000000",
+    "created": "2023-03-09 04:00:27.000000000",
+    "aosp_reference": "platform/frameworks/base/+/a9e568e7fbacf6f3854eda7ca742e3b0f332ea4d",
+    "_number": "A-256202273"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d3c81c31dbe0d311aeee505499e6ca9135651778",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
     "change_id": "d3c81c31dbe0d311aeee505499e6ca9135651778",
-    "subject": "AOSP Security Updates April 2023: base: Make Activites touch opaque - DO NOT MERGE",
+    "subject": "AOSP Security Updates May 2023: base: Make Activites touch opaque - DO NOT MERGE",
     "submitted": "2023-05-18 15:26:17.000000000",
     "created": "2023-03-09 04:00:16.000000000",
     "aosp_reference": "platform/frameworks/base/+/d3c81c31dbe0d311aeee505499e6ca9135651778",
