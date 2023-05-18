@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~1c6ab30d93f52c18f3af9fedc0a9b1ef4f708ca6",
+    "project": "ArrowOS/android_frameworks_native",
+    "branch": "arrow-11.0",
+    "change_id": "1c6ab30d93f52c18f3af9fedc0a9b1ef4f708ca6",
+    "subject": "AOSP Security Updates May 2023: native: Check for malformed Sensor Flattenable",
+    "submitted": "2023-05-17 15:51:53.000000000",
+    "created": "2023-02-17 17:12:46.000000000",
+    "aosp_reference": "platform/frameworks/native/+/1c6ab30d93f52c18f3af9fedc0a9b1ef4f708ca6",
+    "_number": "A-269014004"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~04474a2b3ab1d618576daab5ed31176d1e1b68bf",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
