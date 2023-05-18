@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~0e7353f11ee3609f22d574ce1c2beb82b40ed197",
+    "project": "ArrowOS/android_frameworks_native",
+    "branch": "arrow-11.0",
+    "change_id": "0e7353f11ee3609f22d574ce1c2beb82b40ed197",
+    "subject": "AOSP Security Updates May 2023: native: Add removeInstanceForPackageMethod to SensorManager",
+    "submitted": "2023-05-17 15:55:53.000000000",
+    "created": "2023-02-21 17:57:38.000000000",
+    "aosp_reference": "platform/frameworks/native/+/0e7353f11ee3609f22d574ce1c2beb82b40ed197",
+    "_number": "A-269014004"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~7ccc06acc62dc3758c2032a5b5f3eef35e041f04",
     "project": "ArrowOS/android_frameworks_native",
     "branch": "arrow-11.0",
