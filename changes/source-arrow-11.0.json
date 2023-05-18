@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~a14b56609143f9c021b62557382cb80ea1c87bfc",
+    "project": "ArrowOS/android_packages_services_Telecomm",
+    "branch": "arrow-11.0",
+    "change_id": "a14b56609143f9c021b62557382cb80ea1c87bfc",
+    "subject": "AOSP Security Updates May 2023: Telecomm: enforce stricter rules when registering phoneAccounts",
+    "submitted": "2023-05-17 16:07:53.000000000",
+    "created": "2022-11-22 01:36:52.000000000",
+    "aosp_reference": "platform/packages/services/Telecomm/+/a14b56609143f9c021b62557382cb80ea1c87bfc",
+    "_number": "A-259064622, A-256819769"
+  },
+  {
     "id": "ArrowOS%2Fandroid_hardware_nxp_nfc~arrow-11.0~4da373e3ef8e9bf5488000658b80ce0f3cc69ade",
     "project": "ArrowOS/android_hardware_nxp_nfc",
     "branch": "arrow-11.0",
