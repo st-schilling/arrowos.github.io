@@ -39,7 +39,7 @@
     "change_id": "4b4b54584aba1c9c8a84739820b01e0af6b7de5d",
     "subject": "AOSP Security Updates May 2023: base: Make Activites touch opaque - DO NOT MERGE",
     "submitted": "2023-05-18 15:38:17.000000000",
-    "created": "2023-03-09 04:01:25.000000000",
+    "created": "2023-03-01 10:20:16.000000000",
     "aosp_reference": "platform/frameworks/base/+/4b4b54584aba1c9c8a84739820b01e0af6b7de5d",
     "_number": "A-194480991"
   },
@@ -50,7 +50,7 @@
     "change_id": "5a289c50127e24c691bf5f97805591d4004c22fa",
     "subject": "AOSP Security Updates May 2023: base: Revert \"Make Activites touch opaque - DO NOT MERGE\"",
     "submitted": "2023-05-18 15:35:17.000000000",
-    "created": "2023-03-09 04:01:13.000000000",
+    "created": "2023-03-01 00:08:22.000000000",
     "aosp_reference": "platform/frameworks/base/+/5a289c50127e24c691bf5f97805591d4004c22fa",
     "_number": "A-194480991"
   },
@@ -61,7 +61,7 @@
     "change_id": "e14e61d2040c6659f1825fdff7b598b585431fad",
     "subject": "AOSP Security Updates May 2023: base: enforce stricter rules when registering phoneAccounts",
     "submitted": "2023-05-18 15:35:17.000000000",
-    "created": "2023-03-09 04:01:05.000000000",
+    "created": "2022-11-22 01:38:21.000000000",
     "aosp_reference": "platform/frameworks/base/+/e14e61d2040c6659f1825fdff7b598b585431fad",
     "_number": "A-259064622, A-256819769"
   },
@@ -72,7 +72,7 @@
     "change_id": "2f24979c13a345673016f86c4b4b3573f8e9b307",
     "subject": "AOSP Security Updates May 2023: base: Uri: check authority and scheme as part of determining URI path",
     "submitted": "2023-05-18 15:32:17.000000000",
-    "created": "2023-03-09 04:00:56.000000000",
+    "created": "2022-04-07 20:42:04.000000000",
     "aosp_reference": "platform/frameworks/base/+/2f24979c13a345673016f86c4b4b3573f8e9b307",
     "_number": "A-171966843"
   },
@@ -83,7 +83,7 @@
     "change_id": "6c16762c254dbd987c6da7ff9cc4231f819fc281",
     "subject": "AOSP Security Updates May 2023: base: Checks if AccessibilityServiceInfo is within parcelable size.",
     "submitted": "2023-05-18 15:31:17.000000000",
-    "created": "2023-03-09 04:00:47.000000000",
+    "created": "2023-02-09 20:28:26.000000000",
     "aosp_reference": "platform/frameworks/base/+/6c16762c254dbd987c6da7ff9cc4231f819fc281",
     "_number": "A-261589597"
   },
@@ -94,7 +94,7 @@
     "change_id": "388800e6338a072fac48cd8c30e61fb01fadd53c",
     "subject": "AOSP Security Updates May 2023: base: [RESTRICT AUTOMERGE][pm] still allow debuggable for system app downgrades",
     "submitted": "2023-05-18 15:29:17.000000000",
-    "created": "2023-03-09 04:00:36.000000000",
+    "created": "2023-02-02 18:35:56.000000000",
     "aosp_reference": "platform/frameworks/base/+/388800e6338a072fac48cd8c30e61fb01fadd53c",
     "_number": "A-267232653, A-256202273"
   },
@@ -105,7 +105,7 @@
     "change_id": "a9e568e7fbacf6f3854eda7ca742e3b0f332ea4d",
     "subject": "AOSP Security Updates May 2023: base: [RESTRICT AUTOMERGE][pm] prevent system app downgrades of versions lower than preload",
     "submitted": "2023-05-18 15:28:17.000000000",
-    "created": "2023-03-09 04:00:27.000000000",
+    "created": "2023-01-26 09:43:24.000000000",
     "aosp_reference": "platform/frameworks/base/+/a9e568e7fbacf6f3854eda7ca742e3b0f332ea4d",
     "_number": "A-256202273"
   },
@@ -116,7 +116,7 @@
     "change_id": "d3c81c31dbe0d311aeee505499e6ca9135651778",
     "subject": "AOSP Security Updates May 2023: base: Make Activites touch opaque - DO NOT MERGE",
     "submitted": "2023-05-18 15:26:17.000000000",
-    "created": "2023-03-09 04:00:16.000000000",
+    "created": "2022-04-28 14:35:56.000000000",
     "aosp_reference": "platform/frameworks/base/+/d3c81c31dbe0d311aeee505499e6ca9135651778",
     "_number": "A-194480991"
   },
