@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_system_bt~arrow-11.0~9599abbda663baa03525b70b8114b95f3af33876",
+    "project": "ArrowOS/android_system_bt",
+    "branch": "arrow-11.0",
+    "change_id": "9599abbda663baa03525b70b8114b95f3af33876",
+    "subject": "AOSP Security Updates June 2023: bt: Revert \"Revert \"Fix wrong BR/EDR link key downgrades (P_256->P_192)\"\"",
+    "submitted": "2023-07-16 10:10:54.000000000",
+    "created": "2023-03-21 22:39:16.000000000",
+    "aosp_reference": "platform/system/bt/+/9599abbda663baa03525b70b8114b95f3af33876",
+    "_number": "A-258834033"
+  },
+  {
     "id": "ArrowOS%2Fandroid_system_bt~arrow-11.0~d88b9496025bb1b703abb500818e322479a98618",
     "project": "ArrowOS/android_system_bt",
     "branch": "arrow-11.0",
