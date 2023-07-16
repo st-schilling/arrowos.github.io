@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~9967500266342a20256bc89376eca0f4f02504e7",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "9967500266342a20256bc89376eca0f4f02504e7",
+    "subject": "AOSP Security Updates June 2023: Settings: Move display of VPN version into summary text",
+    "submitted": "2023-07-16 10:20:30.000000000",
+    "created": "2021-11-18 02:27:34.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/9967500266342a20256bc89376eca0f4f02504e7",
+    "_number": "A-205460459"
+  },
+  {
     "id": "ArrowOS%2Fandroid_system_bt~arrow-11.0~9599abbda663baa03525b70b8114b95f3af33876",
     "project": "ArrowOS/android_system_bt",
     "branch": "arrow-11.0",
