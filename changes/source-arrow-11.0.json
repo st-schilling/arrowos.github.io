@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~8f41fac9b4f834635a7401d25b62708f772f1974",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "8f41fac9b4f834635a7401d25b62708f772f1974",
+    "subject": "AOSP Security Updates June 2023: Settings: Import translations. DO NOT MERGE ANYWHERE",
+    "submitted": "2023-07-16 10:25:30.000000000",
+    "created": "2022-04-28 18:39:25.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/8f41fac9b4f834635a7401d25b62708f772f1974",
+    "_number": "A-205460459"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~9967500266342a20256bc89376eca0f4f02504e7",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
