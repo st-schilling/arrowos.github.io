@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~7956aa5877ec13fa84d24d921adae1bceaab8e2d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "7956aa5877ec13fa84d24d921adae1bceaab8e2d",
+    "subject": "AOSP Security Updates July 2023: base: Limit the number of supported v1 and v2 signers",
+    "submitted": "2023-07-16 11:17:54.000000000",
+    "created": "2023-03-31 21:31:22.000000000",
+    "aosp_reference": "platform/frameworks/base/+/7956aa5877ec13fa84d24d921adae1bceaab8e2d",
+    "_number": "A-266580022"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~18818ec35ee5ec3a8df8c59d2290e2205d9518c9",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
