@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~c57431f607fdd5d0876c4a39b30221401b70dde0",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "c57431f607fdd5d0876c4a39b30221401b70dde0",
+    "subject": "AOSP Security Updates June 2023: base: Remove Activity if it enters PiP without window",
+    "submitted": "2023-07-16 09:30:17.000000000",
+    "created": "2023-02-23 21:23:37.000000000",
+    "aosp_reference": "platform/frameworks/base/+/c57431f607fdd5d0876c4a39b30221401b70dde0",
+    "_number": "A-265293293"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~f8d8c0de0a3c4a385e1beb2663a7087f1657117b",
     "project": "ArrowOS/android_frameworks_av",
     "branch": "arrow-11.0",
