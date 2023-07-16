@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~4ef312e1af22460ad65811ab4a6f24f03f11af66",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "4ef312e1af22460ad65811ab4a6f24f03f11af66",
+    "subject": "AOSP Security Updates July 2023: base: Truncate ShortcutInfo Id",
+    "submitted": "2023-07-16 11:27:54.000000000",
+    "created": "2023-04-21 09:45:07.000000000",
+    "aosp_reference": "platform/frameworks/base/+/4ef312e1af22460ad65811ab4a6f24f03f11af66",
+    "_number": "A-273729476"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~ec78a98dec0942a5f6cb20d6d1bd96ec5cc80fac",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
