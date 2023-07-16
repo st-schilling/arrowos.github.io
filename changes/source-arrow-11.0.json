@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e3cab65593b1179135d7aee47a05dbc3081c5ab8",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "e3cab65593b1179135d7aee47a05dbc3081c5ab8",
+    "subject": "AOSP Security Updates July 2023: base: [RESTRICT AUTOMERGE] Passpoint Add more check to limit the config size",
+    "submitted": "2023-07-16 11:13:54.000000000",
+    "created": "2022-10-26 21:52:34.000000000",
+    "aosp_reference": "platform/frameworks/base/+/e3cab65593b1179135d7aee47a05dbc3081c5ab8",
+    "_number": "A-245299920"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~1dd3bd242351fdf9030f9e5d61fd61f073e57c33",
     "project": "ArrowOS/android_packages_services_Telecomm",
     "branch": "arrow-11.0",
