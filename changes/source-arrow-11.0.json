@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~3c9c3846c615f4880944b6c9c2cfe102d0bd6900",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "3c9c3846c615f4880944b6c9c2cfe102d0bd6900",
+    "subject": "AOSP Security Updates June 2023: base: Check key intent for selectors and prohibited flags",
+    "submitted": "2023-07-16 09:36:54.000000000",
+    "created": "2023-02-18 00:05:17.000000000",
+    "aosp_reference": "platform/frameworks/base/+/3c9c3846c615f4880944b6c9c2cfe102d0bd6900",
+    "_number": "A-265015796"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~563e7f289126cadd19bef024b52e8c2a6c20d21d",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
