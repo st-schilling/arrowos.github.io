@@ -1,5 +1,27 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_system_bt~arrow-11.0~3a3b971c7a2df5804ed920155504cbfc0919cdde",
+    "project": "ArrowOS/android_system_bt",
+    "branch": "arrow-11.0",
+    "change_id": "3a3b971c7a2df5804ed920155504cbfc0919cdde",
+    "subject": "AOSP Security Updates June 2023: bt: Prevent use-after-free of HID reports",
+    "submitted": "2023-07-16 10:07:54.000000000",
+    "created": "2022-10-21 21:23:22.000000000",
+    "aosp_reference": "platform/system/bt/+/3a3b971c7a2df5804ed920155504cbfc0919cdde",
+    "_number": "A-228837201"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~eb90a1ba3f05f1f6b19ada653836c90de07dc810",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "eb90a1ba3f05f1f6b19ada653836c90de07dc810",
+    "subject": "AOSP Security Updates June 2023: base: [RESTRICT AUTOMERGE] Add BubbleMetadata detection to block FSI",
+    "submitted": "2023-07-16 09:40:54.000000000",
+    "created": "2023-03-08 20:28:28.000000000",
+    "aosp_reference": "platform/frameworks/base/+/eb90a1ba3f05f1f6b19ada653836c90de07dc810",
+    "_number": "A-272042183"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~3c432023d614cc3a77784644278163696e7b119f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
