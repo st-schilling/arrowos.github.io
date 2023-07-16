@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~1dd3bd242351fdf9030f9e5d61fd61f073e57c33",
+    "project": "ArrowOS/android_packages_services_Telecomm",
+    "branch": "arrow-11.0",
+    "change_id": "1dd3bd242351fdf9030f9e5d61fd61f073e57c33",
+    "subject": "AOSP Security Updates June 2023: Telecomm: Call Redirection: unbind service when onBind returns null",
+    "submitted": "2023-07-17 10:52:53.000000000",
+    "created": "2023-03-21 23:28:56.000000000",
+    "aosp_reference": "platform/packages/services/Telecomm/+/1dd3bd242351fdf9030f9e5d61fd61f073e57c33",
+    "_number": "A-273260090"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Car_Settings~arrow-11.0~6393a7b94cf6a859821644f4bf882923e2798401",
     "project": "ArrowOS/android_packages_apps_Car_Settings",
     "branch": "arrow-11.0",
