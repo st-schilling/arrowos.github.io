@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e780bdbf24ce470ea4041c2e3e1d08a309208a9d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "e780bdbf24ce470ea4041c2e3e1d08a309208a9d",
+    "subject": "AOSP Security Updates June 2023: base: Handle invalid data during job loading.",
+    "submitted": "2023-07-16 09:37:54.000000000",
+    "created": "2022-09-21 22:13:01.000000000",
+    "aosp_reference": "platform/frameworks/base/+/e780bdbf24ce470ea4041c2e3e1d08a309208a9d",
+    "_number": "A-246541702, A-246542132, A-246542285, A-246542330"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~3c9c3846c615f4880944b6c9c2cfe102d0bd6900",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
