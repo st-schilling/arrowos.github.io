@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e53984d4e7816131d32697ea8ec4ac89b07c6fb3",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "e53984d4e7816131d32697ea8ec4ac89b07c6fb3",
+    "subject": "AOSP Security Updates July 2023: base: Only allow NEW_TASK flag when adjusting pending intents",
+    "submitted": "2023-07-16 11:22:54.000000000",
+    "created": "2023-02-08 01:04:46.000000000",
+    "aosp_reference": "platform/frameworks/base/+/e53984d4e7816131d32697ea8ec4ac89b07c6fb3",
+    "_number": "A-243794108"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~a641d23b4eb1fb6f3e1815b316aa1d271d855618",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
