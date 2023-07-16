@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~ec78a98dec0942a5f6cb20d6d1bd96ec5cc80fac",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "ec78a98dec0942a5f6cb20d6d1bd96ec5cc80fac",
+    "subject": "AOSP Security Updates July 2023: base: Verify URI permissions for EXTRA_REMOTE_INPUT_HISTORY_ITEMS.",
+    "submitted": "2023-07-16 11:26:54.000000000",
+    "created": "2023-04-21 15:39:22.000000000",
+    "aosp_reference": "platform/frameworks/base/+/ec78a98dec0942a5f6cb20d6d1bd96ec5cc80fac",
+    "_number": "A-276729064"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~035b355a73293c52b8df4ef4669bcdae1fc9fac5",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
