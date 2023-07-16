@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~8303ec0de803b6c960c916c504c6a7e47582ec5c",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "8303ec0de803b6c960c916c504c6a7e47582ec5c",
+    "subject": "AOSP Security Updates June 2023: base: [DO NOT MERGE] Wait for preloading images to complete before inflating notifications",
+    "submitted": "2023-07-16 09:33:54.000000000",
+    "created": "2023-02-15 19:39:44.000000000",
+    "aosp_reference": "platform/frameworks/base/+/8303ec0de803b6c960c916c504c6a7e47582ec5c",
+    "_number": "A-252766417, A-223859644"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~6a7cdcc1c33cb523ecdee0b8d0b52ceb26791336",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
