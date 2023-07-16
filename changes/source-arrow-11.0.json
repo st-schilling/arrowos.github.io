@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~18818ec35ee5ec3a8df8c59d2290e2205d9518c9",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "18818ec35ee5ec3a8df8c59d2290e2205d9518c9",
+    "subject": "AOSP Security Updates July 2023: base: Sanitize VPN label to prevent HTML injection",
+    "submitted": "2023-07-16 11:17:54.000000000",
+    "created": "2023-03-03 08:13:50.000000000",
+    "aosp_reference": "platform/frameworks/base/+/18818ec35ee5ec3a8df8c59d2290e2205d9518c9",
+    "_number": "A-204554636"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e3cab65593b1179135d7aee47a05dbc3081c5ab8",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
