@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~563e7f289126cadd19bef024b52e8c2a6c20d21d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "563e7f289126cadd19bef024b52e8c2a6c20d21d",
+    "subject": "AOSP Security Updates June 2023: base: [DO NOT MERGE] Prevent RemoteViews crashing SystemUi",
+    "submitted": "2023-07-16 09:34:54.000000000",
+    "created": "2023-02-22 08:38:55.000000000",
+    "aosp_reference": "platform/frameworks/base/+/563e7f289126cadd19bef024b52e8c2a6c20d21d",
+    "_number": "A-268193777"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~8303ec0de803b6c960c916c504c6a7e47582ec5c",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
