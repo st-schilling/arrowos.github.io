@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~8ce384931d882f5776143dfeb06cf5ec1eb245c3",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "8ce384931d882f5776143dfeb06cf5ec1eb245c3",
+    "subject": "AOSP Security Updates June 2023: base: Allow filtering of services",
+    "submitted": "2023-07-16 09:39:54.000000000",
+    "created": "2023-03-07 20:44:49.000000000",
+    "aosp_reference": "platform/frameworks/base/+/8ce384931d882f5776143dfeb06cf5ec1eb245c3",
+    "_number": "A-260570119"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e780bdbf24ce470ea4041c2e3e1d08a309208a9d",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
