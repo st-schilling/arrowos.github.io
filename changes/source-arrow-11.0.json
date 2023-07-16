@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~a641d23b4eb1fb6f3e1815b316aa1d271d855618",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "a641d23b4eb1fb6f3e1815b316aa1d271d855618",
+    "subject": "AOSP Security Updates July 2023: base: DO NOT MERGE: Limit the ServiceFriendlyNames",
+    "submitted": "2023-07-16 11:21:54.000000000",
+    "created": "2023-04-12 18:32:50.000000000",
+    "aosp_reference": "platform/frameworks/base/+/a641d23b4eb1fb6f3e1815b316aa1d271d855618",
+    "_number": "A-274445194"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e14133334c76cfa9eaa74595abaefd16207a9619",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
