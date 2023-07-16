@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Car_Settings~arrow-11.0~6393a7b94cf6a859821644f4bf882923e2798401",
+    "project": "ArrowOS/android_packages_apps_Car_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "6393a7b94cf6a859821644f4bf882923e2798401",
+    "subject": "AOSP Security Updates June 2023: Car/Settings: Convert argument to Intent in car settings AddAccountActivity.",
+    "submitted": "2023-07-16 10:39:55.000000000",
+    "created": "2023-03-07 02:59:38.000000000",
+    "aosp_reference": "platform/packages/apps/Car/Settings/+/6393a7b94cf6a859821644f4bf882923e2798401",
+    "_number": "A-265798353"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~b33789c9cb626a14724c5e60386008e3fc17f10c",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
