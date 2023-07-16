@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~3c432023d614cc3a77784644278163696e7b119f",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "3c432023d614cc3a77784644278163696e7b119f",
+    "subject": "AOSP Security Updates June 2023: base: Enforce DevicePolicyManager.setUserControlDisabledPackages in AppStandbyController",
+    "submitted": "2023-07-16 09:40:54.000000000",
+    "created": "2023-03-08 20:28:28.000000000",
+    "aosp_reference": "platform/frameworks/base/+/3c432023d614cc3a77784644278163696e7b119f",
+    "_number": "A-272042183"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~8ce384931d882f5776143dfeb06cf5ec1eb245c3",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
