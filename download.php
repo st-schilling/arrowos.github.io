@@ -56,7 +56,7 @@ include_once('utils.php');
                     <h3 class="textt main-font center white-text">Motorola Moto G5S Plus (sanders)</h3>
                     <p class="flow-text main-font paragraph text3 text-lighten-3">2023-06-01: My unofficial image, including
                         the <a href="https://source.android.com/security/bulletin/2023-06-01">AOSP Security Updates from June 2023</a>:
-                        <a href="distribution/sanders/unofficial/arrow-11.0/vanilla/Arrow-v11.0-sanders-UNOFFICIAL-OTA-20230601-VANILLA.zip">Arrow-v11.0-sanders-UNOFFICIAL-OTA-20230501-VANILLA.zip</a>.
+                        <a href="distribution/sanders/unofficial/arrow-11.0/vanilla/Arrow-v11.0-sanders-UNOFFICIAL-OTA-20230601-VANILLA.zip">Arrow-v11.0-sanders-UNOFFICIAL-OTA-20230601-VANILLA.zip</a>.
                         <br>
                         Source code: <a href="https://github.com/st-schilling">Tag 11.0.0_r68</a>, as defined by
                         <a href="https://github.com/st-schilling/android_manifest/releases/tag/11.0.0_r68">the manifest repo.</a>
