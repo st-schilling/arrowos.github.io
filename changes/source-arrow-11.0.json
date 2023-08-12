@@ -33,6 +33,17 @@
     "_number": "A-171966843"
   },
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I384f8e230c909d8fc8e5f147e2fd3558fec44626",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "I384f8e230c909d8fc8e5f147e2fd3558fec44626",
+    "subject": "AOSP Security Updates August 2023: base: Verify URI permissions in MediaMetadata",
+    "submitted": "2023-08-12 05:42:54.000000000",
+    "created": "2023-04-28 18:17:07.000000000",
+    "aosp_reference": "platform/frameworks/base/+/I384f8e230c909d8fc8e5f147e2fd3558fec44626",
+    "_number": "A-271851153"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~726247f4f53e8cc0746175265652fa415a123c0c",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
