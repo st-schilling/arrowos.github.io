@@ -33,28 +33,6 @@
     "_number": "A-277740082"
   },
   {
-    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~ed3f25b7222d4cff471f2b7d22d1150348146957",
-    "project": "ArrowOS/android_frameworks_base",
-    "branch": "arrow-11.0",
-    "change_id": "ed3f25b7222d4cff471f2b7d22d1150348146957",
-    "subject": "AOSP Security Updates August 2023: base: Ensure policy has no absurdly long strings",
-    "submitted": "2023-08-12 05:25:54.000000000",
-    "created": "2023-04-05 15:15:41.000000000",
-    "aosp_reference": "platform/frameworks/base/+/ed3f25b7222d4cff471f2b7d22d1150348146957",
-    "_number": "A-260729089"
-  },
-  {
-    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d18d8b350756b0e89e051736c1f28744ed31e93a",
-    "project": "ArrowOS/android_frameworks_base",
-    "branch": "arrow-11.0",
-    "change_id": "d18d8b350756b0e89e051736c1f28744ed31e93a",
-    "subject": "AOSP Security Updates August 2023: base: On device lockdown, always show the keyguard",
-    "submitted": "2023-08-12 05:23:54.000000000",
-    "created": "2023-05-08 16:33:12.000000000"
-    "aosp_reference": "platform/frameworks/base/+/d18d8b350756b0e89e051736c1f28744ed31e93a",
-    "_number": "A-218495634"
-  },
-  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Iac6baa889965b8ffecd9a43179a4c96632ad1d02",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
@@ -75,6 +53,28 @@
     "created": "2023-05-16 17:41:07.000000000",
     "aosp_reference": "platform/frameworks/base/+/badb243574d7fca9aa89152d9d25eeb4f8615385",
     "_number": "A-171966843"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~ed3f25b7222d4cff471f2b7d22d1150348146957",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "ed3f25b7222d4cff471f2b7d22d1150348146957",
+    "subject": "AOSP Security Updates August 2023: base: Ensure policy has no absurdly long strings",
+    "submitted": "2023-08-12 05:25:54.000000000",
+    "created": "2023-04-05 15:15:41.000000000",
+    "aosp_reference": "platform/frameworks/base/+/ed3f25b7222d4cff471f2b7d22d1150348146957",
+    "_number": "A-260729089"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I9a7c5e1acadabd4484e58573331f98dba895f2a2",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "I9a7c5e1acadabd4484e58573331f98dba895f2a2",
+    "subject": "AOSP Security Updates August 2023: base: On device lockdown, always show the keyguard",
+    "submitted": "2023-08-12 05:36:54.000000000",
+    "created": "2023-05-08 18:33:07.000000000",
+    "aosp_reference": "platform/frameworks/base/+/I9a7c5e1acadabd4484e58573331f98dba895f2a2",
+    "_number": "A-218495634"
   },
   {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~I1efaa1301bca36895ad4322a919d7421156a60df",
