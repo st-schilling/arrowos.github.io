@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~9b41a963f352fdb3da1da8c633d45280badfcb24",
+    "project": "ArrowOS/android_packages_services_Telecomm",
+    "branch": "arrow-11.0",
+    "change_id": "9b41a963f352fdb3da1da8c633d45280badfcb24",
+    "subject": "AOSP Security Updates August 2023: Telecomm: [conflict] Resolve StatusHints image exploit across user. am: a853f6ba61",
+    "submitted": "2023-08-12 05:46:53.000000000",
+    "created": "2023-06-01 00:26:10.000000000",
+    "aosp_reference": "platform/packages/services/Telecomm/+/9b41a963f352fdb3da1da8c633d45280badfcb24",
+    "_number": "A-285211549, A-280797684"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e17fd149c0a2bf6cce56ebfae3fa5364fead22cc",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
