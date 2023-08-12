@@ -55,6 +55,17 @@
     "_number": "A-171966843"
   },
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d10b27e539f7bc91c2360d429b9d05f05274670d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "d10b27e539f7bc91c2360d429b9d05f05274670d",
+    "subject": "AOSP Security Updates August 2023: base: ActivityManagerService: Allow openContentUri from vendor/system/product.",
+    "submitted": "2023-08-12 05:27:54.000000000",
+    "created": "2023-03-18 19:56:12.000000000",
+    "aosp_reference": "platform/frameworks/base/+/d10b27e539f7bc91c2360d429b9d05f05274670d",
+    "_number": "A-236688380"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~dcc1fb8e8be12324e1a8277023955d9f92cd5626",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
