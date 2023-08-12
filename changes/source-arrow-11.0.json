@@ -11,17 +11,6 @@
     "_number": "A-285211549, A-280797684"
   },
   {
-    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Iac6baa889965b8ffecd9a43179a4c96632ad1d02",
-    "project": "ArrowOS/android_frameworks_base",
-    "branch": "arrow-11.0",
-    "change_id": "Iac6baa889965b8ffecd9a43179a4c96632ad1d02",
-    "subject": "AOSP Security Updates August 2023: base: DO NOT MERGE: ActivityManager#killBackgroundProcesses can kill caller's own app only",
-    "submitted": "2023-08-12 05:21:54.000000000",
-    "created": "2022-10-26 07:39:09.000000000",
-    "aosp_reference": "platform/frameworks/base/+/Iac6baa889965b8ffecd9a43179a4c96632ad1d02",
-    "_number": "A-239423414, A-223376078"
-  },
-  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~badb243574d7fca9aa89152d9d25eeb4f8615385",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
@@ -108,6 +97,17 @@
     "created": "2023-03-18 19:56:12.000000000",
     "aosp_reference": "platform/frameworks/base/+/d10b27e539f7bc91c2360d429b9d05f05274670d",
     "_number": "A-236688380"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~Iac6baa889965b8ffecd9a43179a4c96632ad1d02",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "Iac6baa889965b8ffecd9a43179a4c96632ad1d02",
+    "subject": "AOSP Security Updates August 2023: base: DO NOT MERGE: ActivityManager#killBackgroundProcesses can kill caller's own app only",
+    "submitted": "2023-08-12 05:21:54.000000000",
+    "created": "2022-10-26 07:39:09.000000000",
+    "aosp_reference": "platform/frameworks/base/+/Iac6baa889965b8ffecd9a43179a4c96632ad1d02",
+    "_number": "A-239423414, A-223376078"
   },
   {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~dcc1fb8e8be12324e1a8277023955d9f92cd5626",
