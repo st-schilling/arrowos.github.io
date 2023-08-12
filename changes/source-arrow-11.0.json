@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~a65429742caf05205ea7f1c2fdd1119ca652b810",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "a65429742caf05205ea7f1c2fdd1119ca652b810",
+    "subject": "AOSP Security Updates August 2023: base: Implement visitUris for RemoteViews ViewGroupActionAdd.",
+    "submitted": "2023-08-12 05:17:54.000000000",
+    "created": "2023-05-12 15:41:09.000000000",
+    "aosp_reference": "platform/frameworks/base/+/a65429742caf05205ea7f1c2fdd1119ca652b810",
+    "_number": "A-277740082"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~badb243574d7fca9aa89152d9d25eeb4f8615385",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
