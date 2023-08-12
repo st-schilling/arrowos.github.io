@@ -1,5 +1,16 @@
 [
   {
+    "id": "android.googlesource.com%2Fplatform/system/ca-certificates~6065b4a4c7da9cc9ee01c2f6389575647d2724c4",
+    "project": "android.googlesource.com/ca-certificates",
+    "branch": "android11-security-release",
+    "change_id": "6065b4a4c7da9cc9ee01c2f6389575647d2724c4",
+    "subject": "AOSP Security Updates August 2023: ca-certificates: Drop TrustCor certificates",
+    "submitted": "2023-08-12 04:59:16.000000000",
+    "created": "2022-12-15 10:04:22.000000000",
+    "aosp_reference": "platform/system/ca-certificates//+/6065b4a4c7da9cc9ee01c2f6389575647d2724c4",
+    "_number": "A-262521447"
+  },
+  {
     "id": "ArrowOS%2Fandroid_system_nfc~arrow-11.0~203fd5c775164909552d7bf870d382e55ad1d961",
     "project": "ArrowOS/android_system_nfc",
     "branch": "arrow-11.0",
