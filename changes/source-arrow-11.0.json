@@ -1,5 +1,16 @@
-  // offen:   MediaProvider, Launcher3, Nfc - hier fehlt das Tag/der Code
+  // offen: Launcher3, Nfc - hier fehlt das Tag/der Code
 [
+  {
+    "id": "ArrowOS%2Fandroid_packages_apps_Launcher3~arrow-11.0~09f8b0e52e45a0b39bab457534ba2e5ae91ffad0",
+    "project": "ArrowOS/android_packages_apps_Launcher3",
+    "branch": "arrow-11.0",
+    "change_id": "09f8b0e52e45a0b39bab457534ba2e5ae91ffad0",
+    "subject": "AOSP Security Updates September 2023: Launcher3: Fix permission issue in legacy shortcut",
+    "submitted": "2023-09-16 20:04:58.000000000",
+    "created": "2023-06-02 01:12:44.000000000",
+    "aosp_reference": "platform/packages/apps/Launcher3/+/09f8b0e52e45a0b39bab457534ba2e5ae91ffad0",
+    "_number": "A-270152142"
+  },
   {
     "id": "ArrowOS%2Fandroid_packages_providers_MediaProvider~arrow-11.0~db3c69afcb0a45c8aa2f333fcde36217889899fe",
     "project": "ArrowOS/android_packages_providers_MediaProvider",
