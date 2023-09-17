@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~8af358e93200a508936c09a5f56882dadcbd337f",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "8af358e93200a508936c09a5f56882dadcbd337f",
+    "subject": "AOSP Security Updates September 2023: base: Forbid granting access to NLSes with too-long component names",
+    "submitted": "2023-09-17 19:05:05.000000000",
+    "created": "2023-06-15 16:31:34.000000000",
+    "aosp_reference": "platform/frameworks/base/+/8af358e93200a508936c09a5f56882dadcbd337f",
+    "_number": "A-260570119, A-286043036"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f51efdfe23deee83f02561c4f7a72dbe47146e86",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
