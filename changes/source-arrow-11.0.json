@@ -1,5 +1,16 @@
-  // offen:  Settings, MediaProvider, Launcher3, Nfc - hier fehlt das Tag/der Code
+  // offen:   MediaProvider, Launcher3, Nfc - hier fehlt das Tag/der Code
 [
+  {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~d8355ac47e068ad20c6a7b1602e72f0585ec0085",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "d8355ac47e068ad20c6a7b1602e72f0585ec0085",
+    "subject": "AOSP Security Updates September 2023: Settings: Don't hide approved NLSes in Settings",
+    "submitted": "2023-09-16 19:58:58.000000000",
+    "created": "2023-06-05 20:24:04.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/d8355ac47e068ad20c6a7b1602e72f0585ec0085",
+    "_number": "A-282932362"
+  },
   {
     "id": "ArrowOS%2Fandroid_packages_services_Telephony~arrow-11.0~674039e70e1c5bf29b808899ac80c709acc82290",
     "project": "ArrowOS/android_packages_services_Telephony",
