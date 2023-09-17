@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f51efdfe23deee83f02561c4f7a72dbe47146e86",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "f51efdfe23deee83f02561c4f7a72dbe47146e86",
+    "subject": "AOSP Security Updates September 2023: base: Ignore virtual presentation windows - RESTRICT AUTOMERGE",
+    "submitted": "2023-09-17 19:03:05.000000000",
+    "created": "2023-06-14 05:19:39.000000000",
+    "aosp_reference": "platform/frameworks/base/+/f51efdfe23deee83f02561c4f7a72dbe47146e86",
+    "_number": "A-264029851, A-205130886"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0fa13bf5480faf15ddad5b2c36b96f86b934da09",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
