@@ -45,6 +45,17 @@
     "_number": "A-276898626"
   },
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~846180c19f68f6fb1b0653356401d3235fef846e",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "846180c19f68f6fb1b0653356401d3235fef846e",
+    "subject": "AOSP Security Updates September 2023: Settings: DO NOT MERGE: Prevent non-system IME from becoming device admin",
+    "submitted": "2023-09-16 20:24:58.000000000",
+    "created": "2023-05-19 23:17:47.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/846180c19f68f6fb1b0653356401d3235fef846e",
+    "_number": "A-280793427"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~d8355ac47e068ad20c6a7b1602e72f0585ec0085",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
