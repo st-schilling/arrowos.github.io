@@ -1,4 +1,16 @@
+  // offen:  Settings, MediaProvider, Launcher3, Nfc - hier fehlt das Tag/der Code
 [
+  {
+    "id": "ArrowOS%2Fandroid_packages_services_Telephony~arrow-11.0~674039e70e1c5bf29b808899ac80c709acc82290",
+    "project": "ArrowOS/android_packages_services_Telephony",
+    "branch": "arrow-11.0",
+    "change_id": "674039e70e1c5bf29b808899ac80c709acc82290",
+    "subject": "AOSP Security Updates September 2023: Telephony: Fixed leak of cross user data in multiple settings.",
+    "submitted": "2023-09-16 19:50:58.000000000",
+    "created": "2023-05-26 14:18:46.000000000",
+    "aosp_reference": "packages/services/Telephony/+/674039e70e1c5bf29b808899ac80c709acc82290",
+    "_number": "A-256591023, A-256819787"
+  },
   {
     "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~eda0640911e242ac56876bff8bfc5740f63d91ff",
     "project": "ArrowOS/android_frameworks_av",
