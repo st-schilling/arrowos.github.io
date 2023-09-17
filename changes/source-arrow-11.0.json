@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~1914462fab1bf574f5e7936aaae0f7169410e896",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "1914462fab1bf574f5e7936aaae0f7169410e896",
+    "subject": "AOSP Security Updates September 2023: base: DO NOT MERGE Revert \"Verify URI permissions for EXTRA_REMOTE_INPUT_HISTORY_ITEMS.\"",
+    "submitted": "2023-09-17 19:00:05.000000000",
+    "created": "2023-07-03 16:29:47.000000000",
+    "aosp_reference": "platform/frameworks/base/+/1914462fab1bf574f5e7936aaae0f7169410e896",
+    "_number": "A-289223315, A-276729064"
+  },
+  {
     "id": "ArrowOS%2Fandroid_external_aac~arrow-11.0~b9d32c97f149557dc81f407b6fb9b70c7be49d74",
     "project": "ArrowOS/android_external_aac",
     "branch": "arrow-11.0",
