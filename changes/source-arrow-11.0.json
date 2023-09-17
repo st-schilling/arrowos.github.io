@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~eda0640911e242ac56876bff8bfc5740f63d91ff",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "eda0640911e242ac56876bff8bfc5740f63d91ff",
+    "subject": "AOSP Security Updates September 2023: av: Fix Segv on unknown address error flagged by fuzzer test.",
+    "submitted": "2023-09-16 19:19:58.000000000",
+    "created": "2023-07-06 08:41:56.000000000",
+    "aosp_reference": "platform/frameworks/av/+/eda0640911e242ac56876bff8bfc5740f63d91ff",
+    "_number": "A-245135112"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~42f3d2db43df4fc945f90e48adf8912d3c189c37",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
