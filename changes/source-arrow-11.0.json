@@ -1,25 +1,24 @@
-  // offen: Launcher3, Nfc - hier fehlt das Tag/der Code
 [
   {
-    "id": "ArrowOS%2Fandroid_packages_apps_Nfc~arrow-11.0~745632835f3d97513a9c2a96e56e1dc06c4e4176",
+    "id": "ArrowOS%2Fandroid_packages_apps_Nfc~arrow-11.0~80d528726f07f7aa949463316c7b7dc97bb24b76",
     "project": "ArrowOS/android_packages_apps_Nfc",
     "branch": "arrow-11.0",
-    "change_id": "745632835f3d97513a9c2a96e56e1dc06c4e4176",
+    "change_id": "80d528726f07f7aa949463316c7b7dc97bb24b76",
     "subject": "AOSP Security Updates September 2023: Nfc: Ensure that SecureNFC setting cannot be bypassed",
     "submitted": "2023-09-16 20:14:58.000000000",
-    "created": "2023-05-11 01:27:42.000000000",
-    "aosp_reference": "platform/packages/apps/Nfc/+/745632835f3d97513a9c2a96e56e1dc06c4e4176",
+    "created": "2023-06-01 20:44:28.000000000",
+    "aosp_reference": "platform/packages/apps/Nfc/+/80d528726f07f7aa949463316c7b7dc97bb24b76",
     "_number": "A-268038643"
   },
   {
-    "id": "ArrowOS%2Fandroid_packages_apps_Launcher3~arrow-11.0~09f8b0e52e45a0b39bab457534ba2e5ae91ffad0",
+    "id": "ArrowOS%2Fandroid_packages_apps_Launcher3~arrow-11.0~a93e219727d8c258414fedccfe45219526796f24",
     "project": "ArrowOS/android_packages_apps_Launcher3",
     "branch": "arrow-11.0",
-    "change_id": "09f8b0e52e45a0b39bab457534ba2e5ae91ffad0",
+    "change_id": "a93e219727d8c258414fedccfe45219526796f24",
     "subject": "AOSP Security Updates September 2023: Launcher3: Fix permission issue in legacy shortcut",
     "submitted": "2023-09-16 20:04:58.000000000",
     "created": "2023-06-02 01:12:44.000000000",
-    "aosp_reference": "platform/packages/apps/Launcher3/+/09f8b0e52e45a0b39bab457534ba2e5ae91ffad0",
+    "aosp_reference": "platform/packages/apps/Launcher3/+/a93e219727d8c258414fedccfe45219526796f24",
     "_number": "A-270152142"
   },
   {
@@ -45,37 +44,59 @@
     "_number": "A-276898626"
   },
   {
-    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~846180c19f68f6fb1b0653356401d3235fef846e",
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~4736a34fc4f31206637117efba5c1c9f1f246070",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
-    "change_id": "846180c19f68f6fb1b0653356401d3235fef846e",
+    "change_id": "4736a34fc4f31206637117efba5c1c9f1f246070",
     "subject": "AOSP Security Updates September 2023: Settings: DO NOT MERGE: Prevent non-system IME from becoming device admin",
     "submitted": "2023-09-16 20:24:58.000000000",
     "created": "2023-05-19 23:17:47.000000000",
-    "aosp_reference": "platform/packages/apps/Settings/+/846180c19f68f6fb1b0653356401d3235fef846e",
+    "aosp_reference": "platform/packages/apps/Settings/+/4736a34fc4f31206637117efba5c1c9f1f246070",
     "_number": "A-280793427"
   },
   {
-    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~d8355ac47e068ad20c6a7b1602e72f0585ec0085",
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~cfd7ba7061c14d65a8dfa11ed140e05fa51268d7",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
-    "change_id": "d8355ac47e068ad20c6a7b1602e72f0585ec0085",
-    "subject": "AOSP Security Updates September 2023: Settings: Don't hide approved NLSes in Settings",
+    "change_id": "cfd7ba7061c14d65a8dfa11ed140e05fa51268d7",
+    "subject": "AOSP Security Updates September 2023: Settings: Settings: don't try to allow NLSes with too-long component names",
+    "submitted": "2023-10-01 19:09:58.000000000",
+    "created": "2023-06-15 16:37:52.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/cfd7ba7061c14d65a8dfa11ed140e05fa51268d7",
+    "_number": "A-260570119, A-286043036"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~399c1e792d30f429c9c67b610caad3777c81af07",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "399c1e792d30f429c9c67b610caad3777c81af07",
+    "subject": "AOSP Security Updates September 2023: Settings: DO NOT MERGE Don't hide approved NLSes in Settings",
     "submitted": "2023-09-16 19:58:58.000000000",
-    "created": "2023-06-05 20:24:04.000000000",
-    "aosp_reference": "platform/packages/apps/Settings/+/d8355ac47e068ad20c6a7b1602e72f0585ec0085",
+    "created": "2023-06-05 17:10:00.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/399c1e792d30f429c9c67b610caad3777c81af07",
     "_number": "A-282932362"
   },
   {
-    "id": "ArrowOS%2Fandroid_packages_services_Telephony~arrow-11.0~674039e70e1c5bf29b808899ac80c709acc82290",
+    "id": "ArrowOS%2Fandroid_packages_services_Telephony~arrow-11.0~8e342c7669ad8a9b5a980664d353b3d60582b72b",
     "project": "ArrowOS/android_packages_services_Telephony",
     "branch": "arrow-11.0",
-    "change_id": "674039e70e1c5bf29b808899ac80c709acc82290",
-    "subject": "AOSP Security Updates September 2023: Telephony: Fixed leak of cross user data in multiple settings.",
+    "change_id": "8e342c7669ad8a9b5a980664d353b3d60582b72b",
+    "subject": "AOSP Security Updates September 2023: Telephony: RESTRICT AUTOMERGE Fixed leak of cross user data in multiple settings.",
     "submitted": "2023-09-16 19:50:58.000000000",
     "created": "2023-05-26 14:18:46.000000000",
-    "aosp_reference": "packages/services/Telephony/+/674039e70e1c5bf29b808899ac80c709acc82290",
+    "aosp_reference": "packages/services/Telephony/+/8e342c7669ad8a9b5a980664d353b3d60582b72b",
     "_number": "A-256591023, A-256819787"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_packages_services_Telephony~arrow-11.0~768a327ce6f0aaae5fe2897d029ebbb38f7c4ca0",
+    "project": "ArrowOS/android_packages_services_Telephony",
+    "branch": "arrow-11.0",
+    "change_id": "768a327ce6f0aaae5fe2897d029ebbb38f7c4ca0",
+    "subject": "AOSP Security Updates September 2023: Telephony: DO NOT MERGE Grant carrier privileges if package has carrier config access.",
+    "submitted": "2023-10-01 19:11:58.000000000",
+    "created": "2022-10-28 23:39:20.000000000",
+    "aosp_reference": "packages/services/Telephony/+/768a327ce6f0aaae5fe2897d029ebbb38f7c4ca0",
+    "_number": "A-226593252"
   },
   {
     "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~eda0640911e242ac56876bff8bfc5740f63d91ff",
