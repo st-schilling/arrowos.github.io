@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~fb11a1ba8e81b7e5d3f54dcc418683bad50f6109",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "dc32405c3746c980255f64dccec7c718d0ca0b7c",
+    "subject": "AOSP Security Updates September 2023: base: RESTRICT AUTOMERGE: SettingsProvider: exclude secure_frp_mode from resets",
+    "submitted": "2023-10-07 09:36:54.000000000",
+    "created": "2023-07-28 22:03:03.000000000",
+    "aosp_reference": "platform/frameworks/base/+/fb11a1ba8e81b7e5d3f54dcc418683bad50f6109",
+    "_number": "A-253043065"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0888a45517693236d995fe15c08de0343a1b948f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
