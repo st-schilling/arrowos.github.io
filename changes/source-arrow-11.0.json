@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~0888a45517693236d995fe15c08de0343a1b948f",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "a52b0c67d0a3b601791c9a6c22a7586873159c28",
+    "subject": "AOSP Security Updates September 2023: base: Add userId check before loading icon in Device Controls",
+    "submitted": "2023-10-07 09:33:54.000000000",
+    "created": "2023-07-04 11:15:41.000000000",
+    "aosp_reference": "platform/frameworks/base/+/0888a45517693236d995fe15c08de0343a1b948f",
+    "_number": "A-272025416"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d13932ff2dc791bc6f4e5c7f8b0524ace5fa8151",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
