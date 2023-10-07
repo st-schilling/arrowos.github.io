@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f1ffbd753f3321b1b232b8cc6f33f3625fa10027",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "272c9bdc8d4e0501d6cd8e20f8dcb900c902c0cc",
+    "subject": "AOSP Security Updates September 2023: base: Add placeholder when media control title is blank",
+    "submitted": "2023-10-07 08:39:54.000000000",
+    "created": "2023-05-30 23:45:47.000000000",
+    "aosp_reference": "platform/frameworks/base/+/f1ffbd753f3321b1b232b8cc6f33f3625fa10027",
+    "_number": "A-274775190"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e85da3459c9bd949004c7409c21dd00b30ac3027",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
