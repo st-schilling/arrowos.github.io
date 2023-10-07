@@ -3,6 +3,17 @@
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d13932ff2dc791bc6f4e5c7f8b0524ace5fa8151",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
+    "change_id": "605f13c25a6eca96f153e928ea176b8615e0c2f8",
+    "subject": "AOSP Security Updates September 2023: base: Fixing DatabaseUtils to detect malformed UTF-16 strings",
+    "submitted": "2023-10-07 09:30:54.000000000",
+    "created": "2023-06-02 23:32:02.000000000",
+    "aosp_reference": "platform/frameworks/base/+/d13932ff2dc791bc6f4e5c7f8b0524ace5fa8151",
+    "_number": "A-224771621"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d13932ff2dc791bc6f4e5c7f8b0524ace5fa8151",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
     "change_id": "2cb65b059fe7aef55b4074dea307272cbe5c718f",
     "subject": "AOSP Security Updates September 2023: base: Disallow loading icon from content URI to PipMenu",
     "submitted": "2023-10-07 09:26:54.000000000",
