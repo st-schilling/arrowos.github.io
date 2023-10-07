@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9c3f652946b4e60e2d5477e48af39095dd7ee5b5",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "328694018306ee1b623abe243f09d0e28a894dca",
+    "subject": "AOSP Security Updates September 2023: base: Do not share key mappings with JNI object",
+    "submitted": "2023-10-07 09:17:54.000000000",
+    "created": "2023-06-26 11:16:37.000000000",
+    "aosp_reference": "platform/frameworks/base/+/9c3f652946b4e60e2d5477e48af39095dd7ee5b5",
+    "_number": "A-274058082"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~439fdcdf58e4600dfd9aab6bf985beda8c27a798",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
