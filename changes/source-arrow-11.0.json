@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_native~arrow-11.0~c2ed49a70b52306ebbd519838dd3bcf41739dcef",
+    "project": "ArrowOS/android_frameworks_native",
+    "branch": "arrow-11.0",
+    "change_id": "f84289112fae1742fe13ece8c30c36aacf055c6f",
+    "subject": "AOSP Security Updates September 2023: native: Allow sensors list to be empty",
+    "submitted": "2023-10-07 09:47:54.000000000",
+    "created": "2023-04-25 00:17:13.000000000",
+    "aosp_reference": "platform/frameworks/native/+/c2ed49a70b52306ebbd519838dd3bcf41739dcef",
+    "_number": "A-278013275, A-269014004"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~8af883d63ee2abc49d8234dfdd76d276852246f8",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
