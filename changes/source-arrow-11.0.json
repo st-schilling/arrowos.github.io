@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~57ceba5961894269cb10ec5dd08d4a8659b434d5",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "ab8e19061d970f3c2d292b4132de425303edadec",
+    "subject": "AOSP Security Updates September 2023: base: Import translations. DO NOT MERGE ANYWHERE",
+    "submitted": "2023-10-07 08:48:54.000000000",
+    "created": "2023-06-21 20:20:27.000000000",
+    "aosp_reference": "platform/frameworks/base/+/57ceba5961894269cb10ec5dd08d4a8659b434d5",
+    "_number": "A-286996125"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f1ffbd753f3321b1b232b8cc6f33f3625fa10027",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
