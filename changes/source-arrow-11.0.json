@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~8af883d63ee2abc49d8234dfdd76d276852246f8",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "a317cbc93fbfb43deadc09d667c63fb9ee8653ec",
+    "subject": "AOSP Security Updates September 2023: base: Revert \"DO NOT MERGE Dismiss keyguard when simpin auth'd and...\"",
+    "submitted": "2023-10-07 09:42:54.000000000",
+    "created": "2023-08-10 15:37:24.000000000",
+    "aosp_reference": "platform/frameworks/base/+/8af883d63ee2abc49d8234dfdd76d276852246f8",
+    "_number": "A-222446076"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~da5a6d9f939573cbf4ac2ad7c33b0cdf121ae836",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
