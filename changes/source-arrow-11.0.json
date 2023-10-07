@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~bb9c187c1701bdb80253ecbb35c6e68e5c5aa981",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "2636066828dc81e28a37d83e0879c19049263c13",
+    "subject": "AOSP Security Updates September 2023: base: [DO NOT MERGE] Verify URI Permissions in Autofill RemoteViews",
+    "submitted": "2023-10-07 09:20:54.000000000",
+    "created": "2023-06-20 21:24:36.000000000",
+    "aosp_reference": "platform/frameworks/base/+/bb9c187c1701bdb80253ecbb35c6e68e5c5aa981",
+    "_number": "A-283137865"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9c3f652946b4e60e2d5477e48af39095dd7ee5b5",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
