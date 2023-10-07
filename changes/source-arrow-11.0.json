@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~e85da3459c9bd949004c7409c21dd00b30ac3027",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "926dceaea004dcbcf38ec28e2137895a8723d43e",
+    "subject": "AOSP Security Updates September 2023: base: RingtoneManager: verify default ringtone is audio",
+    "submitted": "2023-10-07 08:35:54.000000000",
+    "created": "2022-12-07 04:36:46.000000000",
+    "aosp_reference": "platform/frameworks/base/+/e85da3459c9bd949004c7409c21dd00b30ac3027",
+    "_number": "A-205837340"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Nfc~arrow-11.0~80d528726f07f7aa949463316c7b7dc97bb24b76",
     "project": "ArrowOS/android_packages_apps_Nfc",
     "branch": "arrow-11.0",
