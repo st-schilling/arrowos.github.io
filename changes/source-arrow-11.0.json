@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~da5a6d9f939573cbf4ac2ad7c33b0cdf121ae836",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "737cded998de2874d6f718a9c91cfa8fbd246fe7",
+    "subject": "AOSP Security Updates September 2023: base: [RESTRICT AUTOMERGE] Ignore small source rect hint",
+    "submitted": "2023-10-07 09:39:54.000000000",
+    "created": "2023-07-31 21:05:36.000000000",
+    "aosp_reference": "platform/frameworks/base/+/da5a6d9f939573cbf4ac2ad7c33b0cdf121ae836",
+    "_number": "A-270368476"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~fb11a1ba8e81b7e5d3f54dcc418683bad50f6109",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
