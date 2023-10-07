@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d13932ff2dc791bc6f4e5c7f8b0524ace5fa8151",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "2cb65b059fe7aef55b4074dea307272cbe5c718f",
+    "subject": "AOSP Security Updates September 2023: base: Disallow loading icon from content URI to PipMenu",
+    "submitted": "2023-10-07 09:26:54.000000000",
+    "created": "2023-05-25 02:35:44.000000000",
+    "aosp_reference": "platform/frameworks/base/+/d13932ff2dc791bc6f4e5c7f8b0524ace5fa8151",
+    "_number": "A-278246904"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~ffb6ece4df6e2c9844314d2746ddb2558398e138",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
