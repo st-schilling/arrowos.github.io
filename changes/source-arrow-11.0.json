@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~699d3d675d7bc3f9be8609e9e3ee0e6552087169",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "699d3d675d7bc3f9be8609e9e3ee0e6552087169",
+    "subject": "AOSP Security Updates November 2023: av: Fix for heap buffer overflow issue flagged by fuzzer test.",
+    "submitted": "2023-12-17 15:30:16.000000000",
+    "created": "2023-07-10 08:53:42.000000000",
+    "aosp_reference": "platform/frameworks/av/+/699d3d675d7bc3f9be8609e9e3ee0e6552087169",
+    "_number": "A-243463593"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d1c31f24075cbfca84c6d14950cf68139d7b594f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
