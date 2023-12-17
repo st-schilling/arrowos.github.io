@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d1c31f24075cbfca84c6d14950cf68139d7b594f",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "d1c31f24075cbfca84c6d14950cf68139d7b594f",
+    "subject": "AOSP Security Updates November 2023: base: [SettingsProvider] verify ringtone URI before setting",
+    "submitted": "2023-12-17 15:24:16.000000000",
+    "created": "2023-08-14 22:24:11.000000000",
+    "aosp_reference": "platform/frameworks/base/+/d1c31f24075cbfca84c6d14950cf68139d7b594f",
+    "_number": "A-227201030"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~94d00ee3f4787ea7d07cd6f2440e6b159a329b37",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
