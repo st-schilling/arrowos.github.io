@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f61e218785202cd39c777a6f4290bd0396ea09d2",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "f61e218785202cd39c777a6f4290bd0396ea09d2",
+    "subject": "AOSP Security Updates November 2023: base: DO NOT MERGE Fix BAL via notification.publicVersion",
+    "submitted": "2023-12-17 15:15:54.000000000",
+    "created": "2023-06-16 14:42:24.000000000",
+    "aosp_reference": "platform/frameworks/base/+/f61e218785202cd39c777a6f4290bd0396ea09d2",
+    "_number": "A-278558814"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_providers_MediaProvider~arrow-11.0~3b808a8e0665c93d6eec14befde149c21cfc1eb2",
     "project": "ArrowOS/android_packages_providers_MediaProvider",
     "branch": "arrow-11.0",
