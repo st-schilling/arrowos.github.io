@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~ab284a5977932c88a94bfa6df970a6a20b0cfbe2",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "ab284a5977932c88a94bfa6df970a6a20b0cfbe2",
+    "subject": "AOSP Security Updates November 2023: av: Fix heap-use-after-free issue flagged by fuzzer test.",
+    "submitted": "2023-12-17 15:31:16.000000000",
+    "created": "2023-07-13 09:19:08.000000000",
+    "aosp_reference": "platform/frameworks/av/+/ab284a5977932c88a94bfa6df970a6a20b0cfbe2",
+    "_number": "A-243381410"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~699d3d675d7bc3f9be8609e9e3ee0e6552087169",
     "project": "ArrowOS/android_frameworks_av",
     "branch": "arrow-11.0",
