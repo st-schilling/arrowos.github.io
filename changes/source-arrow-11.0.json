@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Launcher3~arrow-11.0~27958ff39f9e9a6f73118da9f8f7f6b4d4b4448f",
+    "project": "ArrowOS/android_packages_apps_Launcher3",
+    "branch": "arrow-11.0",
+    "change_id": "27958ff39f9e9a6f73118da9f8f7f6b4d4b4448f",
+    "subject": "AOSP Security Updates December 2023: Launcher3: Fix permission bypass in legacy shortcut",
+    "submitted": "2024-02-02 19:11:16.000000000",
+    "created": "2023-09-12 22:37:16.000000000",
+    "aosp_reference": "platform/packages/apps/Launcher3/+/27958ff39f9e9a6f73118da9f8f7f6b4d4b4448f",
+    "_number": "A-295334906, A-295045199"
+  },
+  {
     "id": "ArrowOS%2Fandroid_system_netd~arrow-11.0~1b8bddd96b2efd4074b6d4eee377b62077c031bd",
     "project": "ArrowOS/android_system_netd",
     "branch": "arrow-11.0",
