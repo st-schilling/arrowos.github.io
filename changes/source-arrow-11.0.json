@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~858b262a94c57571e8f22e2cf51aa032f5324840",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "858b262a94c57571e8f22e2cf51aa032f5324840",
+    "subject": "AOSP Security Updates December 2023: base: Fix bypass BAL via `requestGeofence`",
+    "submitted": "2024-02-02 18:33:16.000000000",
+    "created": "2023-07-05 20:03:00.000000000",
+    "aosp_reference": "platform/frameworks/base/+/858b262a94c57571e8f22e2cf51aa032f5324840",
+    "_number": "A-273729172"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~03e5ed8f8850227250e1326459f1d33446f0a8cc",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
