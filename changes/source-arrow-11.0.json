@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~5ae51da34babdc79e85f57fc71d9d9cd98b5366b",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "5ae51da34babdc79e85f57fc71d9d9cd98b5366b",
+    "subject": "AOSP Security Updates December 2023: base: Validate userId when publishing shortcuts",
+    "submitted": "2024-02-02 18:42:16.000000000",
+    "created": "2023-07-24 21:58:56.000000000",
+    "aosp_reference": "platform/frameworks/base/+/5ae51da34babdc79e85f57fc71d9d9cd98b5366b",
+    "_number": "A-288110451"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~c27b9bf1565da45e9a7ec2ab617a0891d17eef85",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
