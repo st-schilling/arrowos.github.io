@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9fa1f08daba6a2eba1bf850236f2c3ef9774d5e1",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "9fa1f08daba6a2eba1bf850236f2c3ef9774d5e1",
+    "subject": "AOSP Security Updates December 2023: base: RESTRICT AUTOMERGE: Drop invalid data.",
+    "submitted": "2024-02-02 18:36:16.000000000",
+    "created": "2023-09-23 21:06:53.000000000",
+    "aosp_reference": "platform/frameworks/base/+/9fa1f08daba6a2eba1bf850236f2c3ef9774d5e1",
+    "_number": "A-246542285, A-247513680"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~bfe4fb09bd77ade104506ad2345def7dc6fe6e9d",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
