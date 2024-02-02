@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~2a681e7e2fc70e08ff23477c06449176ec6bb6a0",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "2a681e7e2fc70e08ff23477c06449176ec6bb6a0",
+    "subject": "AOSP Security Updates December 2023: base: Updated: always show the keyguard on device lockdown",
+    "submitted": "2024-02-02 18:48:16.000000000",
+    "created": "2023-09-19 21:01:11.000000000",
+    "aosp_reference": "platform/frameworks/base/+/2a681e7e2fc70e08ff23477c06449176ec6bb6a0",
+    "_number": "A-300463732, A-218495634"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~51288a0cf9ad41d33f533f11cf63882b404adc3f",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
