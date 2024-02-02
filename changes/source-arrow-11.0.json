@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~c27b9bf1565da45e9a7ec2ab617a0891d17eef85",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "c27b9bf1565da45e9a7ec2ab617a0891d17eef85",
+    "subject": "AOSP Security Updates December 2023: base: Use readUniqueFileDescriptor in incidentd service",
+    "submitted": "2024-02-02 18:41:16.000000000",
+    "created": "2023-06-13 17:37:26.000000000",
+    "aosp_reference": "platform/frameworks/base/+/c27b9bf1565da45e9a7ec2ab617a0891d17eef85",
+    "_number": "A-286931110, A-283699145"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d1eba132bb5823eacc0f01acdb7467753a386129",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
