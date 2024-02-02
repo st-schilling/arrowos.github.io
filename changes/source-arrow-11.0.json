@@ -1,5 +1,82 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~ab284a5977932c88a94bfa6df970a6a20b0cfbe2",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "ab284a5977932c88a94bfa6df970a6a20b0cfbe2",
+    "subject": "AOSP Security Updates November 2023: av: Fix heap-use-after-free issue flagged by fuzzer test.",
+    "submitted": "2023-12-17 15:31:16.000000000",
+    "created": "2023-07-13 09:19:08.000000000",
+    "aosp_reference": "platform/frameworks/av/+/ab284a5977932c88a94bfa6df970a6a20b0cfbe2",
+    "_number": "A-243381410"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~699d3d675d7bc3f9be8609e9e3ee0e6552087169",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "699d3d675d7bc3f9be8609e9e3ee0e6552087169",
+    "subject": "AOSP Security Updates November 2023: av: Fix for heap buffer overflow issue flagged by fuzzer test.",
+    "submitted": "2023-12-17 15:30:16.000000000",
+    "created": "2023-07-10 08:53:42.000000000",
+    "aosp_reference": "platform/frameworks/av/+/699d3d675d7bc3f9be8609e9e3ee0e6552087169",
+    "_number": "A-243463593"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d1c31f24075cbfca84c6d14950cf68139d7b594f",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "d1c31f24075cbfca84c6d14950cf68139d7b594f",
+    "subject": "AOSP Security Updates November 2023: base: [SettingsProvider] verify ringtone URI before setting",
+    "submitted": "2023-12-17 15:24:16.000000000",
+    "created": "2023-08-14 22:24:11.000000000",
+    "aosp_reference": "platform/frameworks/base/+/d1c31f24075cbfca84c6d14950cf68139d7b594f",
+    "_number": "A-227201030"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~94d00ee3f4787ea7d07cd6f2440e6b159a329b37",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "94d00ee3f4787ea7d07cd6f2440e6b159a329b37",
+    "subject": "AOSP Security Updates November 2023: base: RESTRICT AUTOMERGE Make log reader thread a class member",
+    "submitted": "2023-12-17 15:23:16.000000000",
+    "created": "2023-07-24 23:19:34.000000000",
+    "aosp_reference": "platform/frameworks/base/+/94d00ee3f4787ea7d07cd6f2440e6b159a329b37",
+    "_number": "A-285645039"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~7b4da7148d6393a8d7513d59928e2fbd27cf60c6",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "7b4da7148d6393a8d7513d59928e2fbd27cf60c6",
+    "subject": "AOSP Security Updates November 2023: base: Use type safe API of readParcelableArray",
+    "submitted": "2023-12-17 15:20:16.000000000",
+    "created": "2023-08-03 12:01:29.000000000",
+    "aosp_reference": "platform/frameworks/base/+/7b4da7148d6393a8d7513d59928e2fbd27cf60c6",
+    "_number": "A-291299076"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~86fdaf87d74f9d514a12b50a4d79de4adfb08137",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "86fdaf87d74f9d514a12b50a4d79de4adfb08137",
+    "subject": "AOSP Security Updates November 2023: base: [DO NOT MERGE] Check caller's uid in backupAgentCreated callback",
+    "submitted": "2023-12-17 15:18:54.000000000",
+    "created": "2023-07-27 19:35:14.000000000",
+    "aosp_reference": "platform/frameworks/base/+/86fdaf87d74f9d514a12b50a4d79de4adfb08137",
+    "_number": "A-289549315"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f61e218785202cd39c777a6f4290bd0396ea09d2",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "f61e218785202cd39c777a6f4290bd0396ea09d2",
+    "subject": "AOSP Security Updates November 2023: base: DO NOT MERGE Fix BAL via notification.publicVersion",
+    "submitted": "2023-12-17 15:15:54.000000000",
+    "created": "2023-06-16 14:42:24.000000000",
+    "aosp_reference": "platform/frameworks/base/+/f61e218785202cd39c777a6f4290bd0396ea09d2",
+    "_number": "A-278558814"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_providers_MediaProvider~arrow-11.0~3b808a8e0665c93d6eec14befde149c21cfc1eb2",
     "project": "ArrowOS/android_packages_providers_MediaProvider",
     "branch": "arrow-11.0",
