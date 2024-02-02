@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~d1eba132bb5823eacc0f01acdb7467753a386129",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "de134ed798cd2b612dd7a67c5d2ceb9a408bce57",
+    "subject": "AOSP Security Updates December 2023: base: Restrict number of shortcuts can be added through addDynamicShortcuts",
+    "submitted": "2024-02-02 18:39:16.000000000",
+    "created": "2023-06-08 21:38:19.000000000",
+    "aosp_reference": "platform/frameworks/base/+/d1eba132bb5823eacc0f01acdb7467753a386129",
+    "_number": "A-281061287"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~de134ed798cd2b612dd7a67c5d2ceb9a408bce57",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
