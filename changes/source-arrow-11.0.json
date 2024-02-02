@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~4fa4de177280d5b574918214e2a4187ffd21bc4b",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "4fa4de177280d5b574918214e2a4187ffd21bc4b",
+    "subject": "AOSP Security Updates December 2023: base: Validate URI-based shortcut icon at creation time.",
+    "submitted": "2024-02-02 18:37:16.000000000",
+    "created": "2023-07-12 21:38:36.000000000",
+    "aosp_reference": "platform/frameworks/base/+/4fa4de177280d5b574918214e2a4187ffd21bc4b",
+    "_number": "A-288113797"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~9fa1f08daba6a2eba1bf850236f2c3ef9774d5e1",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
