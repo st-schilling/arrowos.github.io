@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_system_netd~arrow-11.0~1b8bddd96b2efd4074b6d4eee377b62077c031bd",
+    "project": "ArrowOS/android_system_netd",
+    "branch": "arrow-11.0",
+    "change_id": "1b8bddd96b2efd4074b6d4eee377b62077c031bd",
+    "subject": "AOSP Security Updates December 2023: netd: Fix Heap-use-after-free in MDnsSdListener::Monitor::run",
+    "submitted": "2024-02-02 19:08:16.000000000",
+    "created": "2023-08-07 09:34:41.000000000",
+    "aosp_reference": "platform/system/netd/+/1b8bddd96b2efd4074b6d4eee377b62077c031bd",
+    "_number": "A-272382770"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~1ae9491245f16383141738e52fbab3d6e8c6b9d6",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
