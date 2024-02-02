@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~51288a0cf9ad41d33f533f11cf63882b404adc3f",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "51288a0cf9ad41d33f533f11cf63882b404adc3f",
+    "subject": "AOSP Security Updates December 2023: base: Adding in verification of calling UID in onShellCommand",
+    "submitted": "2024-02-02 18:47:16.000000000",
+    "created": "2023-02-02 23:48:27.000000000",
+    "aosp_reference": "platform/frameworks/base/+/f48e6ed812a035a408d33543eb0d75b21fdae878",
+    "_number": "A-261709193"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~f48e6ed812a035a408d33543eb0d75b21fdae878",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
