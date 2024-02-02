@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~865e7b51c5f15322700096695c5684c68c29e3a0",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "865e7b51c5f15322700096695c5684c68c29e3a0",
+    "subject": "AOSP Security Updates December 2023: av: NdkMedia: fix android.mediav2.cts.CodecEncoderSurfaceTest failed.",
+    "submitted": "2024-02-02 18:25:16.000000000",
+    "created": "2023-09-15 11:45:44.000000000",
+    "aosp_reference": "platform/frameworks/av/+/865e7b51c5f15322700096695c5684c68c29e3a0",
+    "_number": "A-300861053"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~f5fbcbadb8497f9446d9304cb84abe100a73b5ed",
     "project": "ArrowOS/android_frameworks_av",
     "branch": "arrow-11.0",
