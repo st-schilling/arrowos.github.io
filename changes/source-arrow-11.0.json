@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~2ce16647481a6cc116fd6cf761535fa1748dd3b8",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "2ce16647481a6cc116fd6cf761535fa1748dd3b8",
+    "subject": "AOSP Security Updates Devember 2023: av: httplive: fix use-after-free",
+    "submitted": "2024-02-02 18:20:16.000000000",
+    "created": "2023-09-06 12:49:33.000000000",
+    "aosp_reference": "platform/frameworks/av/+/2ce16647481a6cc116fd6cf761535fa1748dd3b8",
+    "_number": "A-298057702"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~ab284a5977932c88a94bfa6df970a6a20b0cfbe2",
     "project": "ArrowOS/android_frameworks_av",
     "branch": "arrow-11.0",
