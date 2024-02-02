@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~bfe4fb09bd77ade104506ad2345def7dc6fe6e9d",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "bfe4fb09bd77ade104506ad2345def7dc6fe6e9d",
+    "subject": "AOSP Security Updates December 2023: base: Visit Uris related to Notification style extras",
+    "submitted": "2024-02-02 18:34:16.000000000",
+    "created": "2023-08-11 16:27:57.000000000",
+    "aosp_reference": "platform/frameworks/base/+/bfe4fb09bd77ade104506ad2345def7dc6fe6e9d",
+    "_number": "A-287640400"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~858b262a94c57571e8f22e2cf51aa032f5324840",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
