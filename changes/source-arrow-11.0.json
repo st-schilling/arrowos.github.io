@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~fc628bf875df9dfa172dfe86c4947a282dc255b9",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "fc628bf875df9dfa172dfe86c4947a282dc255b9",
+    "subject": "AOSP Security Updates January 2024: av: Codec2BufferUtils: Use cropped dimensions in RGB to YUV conversion",
+    "submitted": "2024-02-08 19:43:16.000000000",
+    "created": "2023-08-28 17:35:56.000000000",
+    "aosp_reference": "platform/frameworks/av/+/fc628bf875df9dfa172dfe86c4947a282dc255b9",
+    "_number": "A-283099444"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~4cc920ebe0e1e1b5b08730faf1ce4e19a2ee18f8",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
