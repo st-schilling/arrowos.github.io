@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~81b4778db87b337f24e7c879c182f3e677dcf2c5",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "81b4778db87b337f24e7c879c182f3e677dcf2c5",
+    "subject": "AOSP Security Updates January 2024: base: DO NOT MERGE Ensure finish lockscreen when usersetup incomplete",
+    "submitted": "2024-02-08 19:34:16.000000000",
+    "created": "2023-08-11 18:02:33.000000000",
+    "aosp_reference": "platform/frameworks/base/+/81b4778db87b337f24e7c879c182f3e677dcf2c5",
+    "_number": "A-222446076"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~a33159e8cb297b9eee6fa5c63c0e343d05fad622",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
