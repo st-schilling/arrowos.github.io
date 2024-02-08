@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~4cc920ebe0e1e1b5b08730faf1ce4e19a2ee18f8",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "4cc920ebe0e1e1b5b08730faf1ce4e19a2ee18f8",
+    "subject": "AOSP Security Updates January 2024: base: Fix vulnerability that allowed attackers to start arbitary activities",
+    "submitted": "2024-02-08 19:40:16.000000000",
+    "created": "2023-10-31 20:23:08.000000000",
+    "aosp_reference": "platform/frameworks/base/+/4cc920ebe0e1e1b5b08730faf1ce4e19a2ee18f8",
+    "_number": "A-300090204"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~2f5bb9c5ff88f45b19e4bc60ffc1df374d38df06",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
