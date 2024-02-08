@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~2f5bb9c5ff88f45b19e4bc60ffc1df374d38df06",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "2f5bb9c5ff88f45b19e4bc60ffc1df374d38df06",
+    "subject": "AOSP Security Updates January 2024: base: RESTRICT AUTOMERGE Log to detect usage of whitelistToken when sending non-PI target",
+    "submitted": "2024-02-08 19:38:16.000000000",
+    "created": "2023-08-25 15:02:28.000000000",
+    "aosp_reference": "platform/frameworks/base/+/2f5bb9c5ff88f45b19e4bc60ffc1df374d38df06",
+    "_number": "A-279428283"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~3dadbf43143b0b302130ed14e667094c8110b702",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
