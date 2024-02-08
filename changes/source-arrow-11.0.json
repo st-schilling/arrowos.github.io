@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~a33159e8cb297b9eee6fa5c63c0e343d05fad622",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "a33159e8cb297b9eee6fa5c63c0e343d05fad622",
+    "subject": "AOSP Security Updates January 2024: base: DO NOT MERGE Dismiss keyguard when simpin auth'd and...",
+    "submitted": "2024-02-08 19:30:16.000000000",
+    "created": "2023-03-28 20:15:04.000000000",
+    "aosp_reference": "platform/frameworks/base/+/a33159e8cb297b9eee6fa5c63c0e343d05fad622",
+    "_number": "A-222446076"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~7d7738e02fc32810c4d2b3b996ba65542a5aa284",
     "project": "ArrowOS/android_packages_services_Telecomm",
     "branch": "arrow-11.0",
