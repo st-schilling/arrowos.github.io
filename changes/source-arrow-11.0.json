@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~3dadbf43143b0b302130ed14e667094c8110b702",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "3dadbf43143b0b302130ed14e667094c8110b702",
+    "subject": "AOSP Security Updates January 2024: base: [CDM] Validate component name length before requesting notification access.",
+    "submitted": "2024-02-08 19:36:16.000000000",
+    "created": "2023-08-24 16:27:30.000000000",
+    "aosp_reference": "platform/frameworks/base/+/3dadbf43143b0b302130ed14e667094c8110b702",
+    "_number": "A-295335110"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~6297ade0c50c05ffc4770480a31100a45163966b",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
