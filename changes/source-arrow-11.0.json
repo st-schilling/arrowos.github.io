@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_packages_apps_Camera2~arrow-11.0~5c4c4b35754eef319dcd69c422f0b1ac0c823f6e",
+    "project": "ArrowOS/android_packages_apps_Camera2",
+    "branch": "arrow-11.0",
+    "change_id": "5c4c4b35754eef319dcd69c422f0b1ac0c823f6e",
+    "subject": "AOSP Security Updates January 2024: Camera2: Do not pass location info for startActivity case",
+    "submitted": "2024-02-08 19:56:16.000000000",
+    "created": "2023-10-27 23:08:05.000000000",
+    "aosp_reference": "platform/packages/apps/Camera2/+/5c4c4b35754eef319dcd69c422f0b1ac0c823f6e",
+    "_number": "A-285142084"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~583d8e436b1c2b582765bb54dd8ad8d719c255ff",
     "project": "ArrowOS/android_packages_apps_Settings",
     "branch": "arrow-11.0",
