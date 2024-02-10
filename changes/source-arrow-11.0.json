@@ -1,5 +1,126 @@
 [
   {
+    "id": "st-schilling%2Fandroid_kernel_motorola_sanders~arrow-11.0~I367f8a41339aa0025b545b125ee820220efedeee",
+    "project": "ArrowOS/android_kernel_motorola_sanders",
+    "branch": "arrow-11.0",
+    "change_id": "I367f8a41339aa0025b545b125ee820220efedeee",
+    "subject": "AOSP Security Updates April 2023: kernel-common: ANDROID: q6lsm: Address use after free for mmap handle",
+    "submitted": "2024-02-08 20:19:16.000000000",
+    "created": "2023-08-17 16:37:24.000000000",
+    "aosp_reference": "https://android.googlesource.com/kernel/common/+/I367f8a41339aa0025b545b125ee820220efedeee",
+    "_number": "A-264029575"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_packages_apps_Camera2~arrow-11.0~5c4c4b35754eef319dcd69c422f0b1ac0c823f6e",
+    "project": "ArrowOS/android_packages_apps_Camera2",
+    "branch": "arrow-11.0",
+    "change_id": "5c4c4b35754eef319dcd69c422f0b1ac0c823f6e",
+    "subject": "AOSP Security Updates January 2024: Camera2: Do not pass location info for startActivity case",
+    "submitted": "2024-02-08 19:56:16.000000000",
+    "created": "2023-10-27 23:08:05.000000000",
+    "aosp_reference": "platform/packages/apps/Camera2/+/5c4c4b35754eef319dcd69c422f0b1ac0c823f6e",
+    "_number": "A-285142084"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_packages_apps_Settings~arrow-11.0~583d8e436b1c2b582765bb54dd8ad8d719c255ff",
+    "project": "ArrowOS/android_packages_apps_Settings",
+    "branch": "arrow-11.0",
+    "change_id": "583d8e436b1c2b582765bb54dd8ad8d719c255ff",
+    "subject": "AOSP Security Updates January 2024: Settings: Validate ringtone URIs before setting",
+    "submitted": "2024-02-08 19:50:16.000000000",
+    "created": "2023-10-03 15:28:34.000000000",
+    "aosp_reference": "platform/packages/apps/Settings/+/583d8e436b1c2b582765bb54dd8ad8d719c255ff",
+    "_number": "A-299614635"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~50fec9fea9097abe453c5f0983b3156c6c7a4c76",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "50fec9fea9097abe453c5f0983b3156c6c7a4c76",
+    "subject": "AOSP Security Updates January 2024: av: Fix convertYUV420Planar16ToY410 overflow issue for unsupported cropwidth.",
+    "submitted": "2024-02-08 19:46:16.000000000",
+    "created": "2023-10-03 22:40:14.000000000",
+    "aosp_reference": "platform/frameworks/av/+/50fec9fea9097abe453c5f0983b3156c6c7a4c76",
+    "_number": "A-300476626"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_av~arrow-11.0~fc628bf875df9dfa172dfe86c4947a282dc255b9",
+    "project": "ArrowOS/android_frameworks_av",
+    "branch": "arrow-11.0",
+    "change_id": "fc628bf875df9dfa172dfe86c4947a282dc255b9",
+    "subject": "AOSP Security Updates January 2024: av: Codec2BufferUtils: Use cropped dimensions in RGB to YUV conversion",
+    "submitted": "2024-02-08 19:43:16.000000000",
+    "created": "2023-08-28 17:35:56.000000000",
+    "aosp_reference": "platform/frameworks/av/+/fc628bf875df9dfa172dfe86c4947a282dc255b9",
+    "_number": "A-283099444"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~4cc920ebe0e1e1b5b08730faf1ce4e19a2ee18f8",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "4cc920ebe0e1e1b5b08730faf1ce4e19a2ee18f8",
+    "subject": "AOSP Security Updates January 2024: base: Fix vulnerability that allowed attackers to start arbitary activities",
+    "submitted": "2024-02-08 19:40:16.000000000",
+    "created": "2023-10-31 20:23:08.000000000",
+    "aosp_reference": "platform/frameworks/base/+/4cc920ebe0e1e1b5b08730faf1ce4e19a2ee18f8",
+    "_number": "A-300090204"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~2f5bb9c5ff88f45b19e4bc60ffc1df374d38df06",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "2f5bb9c5ff88f45b19e4bc60ffc1df374d38df06",
+    "subject": "AOSP Security Updates January 2024: base: RESTRICT AUTOMERGE Log to detect usage of whitelistToken when sending non-PI target",
+    "submitted": "2024-02-08 19:38:16.000000000",
+    "created": "2023-08-25 15:02:28.000000000",
+    "aosp_reference": "platform/frameworks/base/+/2f5bb9c5ff88f45b19e4bc60ffc1df374d38df06",
+    "_number": "A-279428283"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~3dadbf43143b0b302130ed14e667094c8110b702",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "3dadbf43143b0b302130ed14e667094c8110b702",
+    "subject": "AOSP Security Updates January 2024: base: [CDM] Validate component name length before requesting notification access.",
+    "submitted": "2024-02-08 19:36:16.000000000",
+    "created": "2023-08-24 16:27:30.000000000",
+    "aosp_reference": "platform/frameworks/base/+/3dadbf43143b0b302130ed14e667094c8110b702",
+    "_number": "A-295335110"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~6297ade0c50c05ffc4770480a31100a45163966b",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "6297ade0c50c05ffc4770480a31100a45163966b",
+    "subject": "AOSP Security Updates January 2024: base: Truncate user data to a limit of 500 characters",
+    "submitted": "2024-02-08 19:36:16.000000000",
+    "created": "2023-08-24 16:27:30.000000000",
+    "aosp_reference": "platform/frameworks/base/+/6297ade0c50c05ffc4770480a31100a45163966b",
+    "_number": "A-293602317"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~81b4778db87b337f24e7c879c182f3e677dcf2c5",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "81b4778db87b337f24e7c879c182f3e677dcf2c5",
+    "subject": "AOSP Security Updates January 2024: base: DO NOT MERGE Ensure finish lockscreen when usersetup incomplete",
+    "submitted": "2024-02-08 19:34:16.000000000",
+    "created": "2023-08-11 18:02:33.000000000",
+    "aosp_reference": "platform/frameworks/base/+/81b4778db87b337f24e7c879c182f3e677dcf2c5",
+    "_number": "A-222446076"
+  },
+  {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~a33159e8cb297b9eee6fa5c63c0e343d05fad622",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "a33159e8cb297b9eee6fa5c63c0e343d05fad622",
+    "subject": "AOSP Security Updates January 2024: base: DO NOT MERGE Dismiss keyguard when simpin auth'd and...",
+    "submitted": "2024-02-08 19:30:16.000000000",
+    "created": "2023-03-28 20:15:04.000000000",
+    "aosp_reference": "platform/frameworks/base/+/a33159e8cb297b9eee6fa5c63c0e343d05fad622",
+    "_number": "A-222446076"
+  },
+  {
     "id": "ArrowOS%2Fandroid_packages_services_Telecomm~arrow-11.0~7d7738e02fc32810c4d2b3b996ba65542a5aa284",
     "project": "ArrowOS/android_packages_services_Telecomm",
     "branch": "arrow-11.0",
