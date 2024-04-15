@@ -1,5 +1,16 @@
 [
   {
+    "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~a93c50cda569483ebc61888724580aff2134cedf",
+    "project": "ArrowOS/android_frameworks_base",
+    "branch": "arrow-11.0",
+    "change_id": "a93c50cda569483ebc61888724580aff2134cedf",
+    "subject": "AOSP Security Updates February 2024: base: Restrict activity launch when caller is running in the background",
+    "submitted": "2024-04-15 18:35:16.000000000",
+    "created": "2023-05-16 17:14:02.000000000",
+    "aosp_reference": "platform/frameworks/base/+/a93c50cda569483ebc61888724580aff2134cedf",
+    "_number": "A-230492947"
+  },
+  {
     "id": "ArrowOS%2Fandroid_frameworks_base~arrow-11.0~737733c2442027397dd4fc2fb5e0f3f4648f85f1",
     "project": "ArrowOS/android_frameworks_base",
     "branch": "arrow-11.0",
