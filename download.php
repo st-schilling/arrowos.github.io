@@ -54,6 +54,14 @@ include_once('utils.php');
                     </p>
 
                     <h3 class="textt main-font center white-text">Motorola Moto G5S Plus (sanders)</h3>
+                    <p class="flow-text main-font paragraph text3 text-lighten-3">2024-08-30: My unofficial image, including
+                        the <a href="https://source.android.com/security/bulletin/2024-02-01">AOSP Security Updates from February 2024 AND the VLC bugfix (introduced by a merge conflict)</a>:
+                        <a href="distribution/sanders/unofficial/arrow-11.0/Arrow-v11.0-sanders-UNOFFICIAL-OTA-20240201-VANILLA-vlcBug-fixed.zip">Arrow-v11.0-sanders-UNOFFICIAL-OTA-20240201-VANILLA-vlcBug-fixed.zip</a>.
+                        <a href="distribution/sanders/unofficial/arrow-11.0/Arrow-v11.0-sanders-UNOFFICIAL-OTA-20240201-VANILLA-vlcBug-fixed.signed.zip">Arrow-v11.0-sanders-UNOFFICIAL-OTA-20240201-VANILLA-vlcBug-fixed.signed.zip</a>.
+                        <br>
+                        Source code: <a href="https://github.com/st-schilling">Tag 11.0.0_r76</a>, as defined by
+                        <a href="https://github.com/st-schilling/android_manifest/releases/tag/11.0.0_r76">the manifest repo.</a>
+                    </p>
                     <p class="flow-text main-font paragraph text3 text-lighten-3">2024-02-01: My unofficial image, including
                         the <a href="https://source.android.com/security/bulletin/2024-02-01">AOSP Security Updates from February 2024</a>:
                         <a href="distribution/sanders/unofficial/arrow-11.0/vanilla/Arrow-v11.0-sanders-UNOFFICIAL-OTA-20240201-VANILLA.zip">Arrow-v11.0-sanders-UNOFFICIAL-OTA-20240201-VANILLA.zip</a>.
